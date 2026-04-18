@@ -80,7 +80,7 @@ This guide focuses on how to:
 ## Running This Project
 
 ```bash
-git clone https://github.com/tmbuza/cdi-thinking-with-ai.git
+git clone https://github.com/tmbuza/thinking-with-ai.git
 cd thinking-with-ai
 ```
 
