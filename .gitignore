@@ -61,3 +61,4 @@ Thumbs.db
 
 # Do NOT ignore docs/
 # This is required for GitHub Pages deployment
+/.quarto/
