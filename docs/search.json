@@ -1,0 +1,1472 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thinking with AI",
+    "section": "",
+    "text": "Human-AI-Guide · Updated Apr 2026",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>index.html</span>"
+    ]
+  },
+  {
+    "objectID": "00-preface.html",
+    "href": "00-preface.html",
+    "title": "2  Preface",
+    "section": "",
+    "text": "2.1 The Illusion of Progress\nArtificial intelligence tools are becoming part of everyday work.\nThey can generate text, write code, summarize documents, and suggest solutions in seconds.\nBecause of this, many people feel more productive.\nBut there is a problem.\nThe presence of powerful tools is often mistaken for understanding.\nIt is now easy to produce outputs:\nHowever, producing an output is not the same as understanding it.\nAnd more importantly:\nAn output you cannot explain is not a result you can defend.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "00-preface.html#the-illusion-of-progress",
+    "href": "00-preface.html#the-illusion-of-progress",
+    "title": "2  Preface",
+    "section": "",
+    "text": "explanations\n\nreports\n\nanalyses\n\neven full workflows",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "00-preface.html#where-things-go-wrong",
+    "href": "00-preface.html#where-things-go-wrong",
+    "title": "2  Preface",
+    "section": "2.2 Where Things Go Wrong",
+    "text": "2.2 Where Things Go Wrong\nMost people start like this:\n\n“Explain this”\n\n“Give me ideas”\n\n“What should I do?”\n\nThis approach hands over direction to the tool.\nThe result is often:\n\ngeneric responses\n\nshallow reasoning\n\ndecisions without ownership",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "00-preface.html#a-different-approach",
+    "href": "00-preface.html#a-different-approach",
+    "title": "2  Preface",
+    "section": "2.3 A Different Approach",
+    "text": "2.3 A Different Approach\nThis guide is built on a simple but critical shift:\n\nStart with thinking. Then use AI.\n\nMore specifically:\n\nStart with a position.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "00-preface.html#what-is-a-position",
+    "href": "00-preface.html#what-is-a-position",
+    "title": "2  Preface",
+    "section": "2.4 What is a Position?",
+    "text": "2.4 What is a Position?\nA position is your current thinking before using AI.\nIt can be:\n\na problem you are trying to solve\n\na direction you want to take\n\na hypothesis you want to test\n\nEven a rough starting point is enough.\nWhat matters is that you are not starting from zero.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "00-preface.html#the-core-principle",
+    "href": "00-preface.html#the-core-principle",
+    "title": "2  Preface",
+    "section": "2.5 The Core Principle",
+    "text": "2.5 The Core Principle\nAI should not define your direction.\nIt should extend it.\nThis guide follows a simple reasoning loop:",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "00-preface.html#human-ai-human",
+    "href": "00-preface.html#human-ai-human",
+    "title": "2  Preface",
+    "section": "2.6 Human → AI → Human",
+    "text": "2.6 Human → AI → Human\n\nHuman (You begin)\n\ndefine the problem\n\nstate your position\n\nAI (Tool support)\n\nexpand possibilities\n\nrefine structure\n\nchallenge assumptions\n\nHuman (You decide)\n\nevaluate critically\n\ninterpret carefully\n\nmake decisions",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "00-preface.html#why-this-matters",
+    "href": "00-preface.html#why-this-matters",
+    "title": "2  Preface",
+    "section": "2.7 Why This Matters",
+    "text": "2.7 Why This Matters\nIn real work:\n\ndecisions have consequences\n\ninterpretations must be justified\n\nresults must be explainable\n\nIf AI produces something you do not fully understand:\n\nyou cannot defend it\n\nyou cannot trust it\n\nyou cannot improve it",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "00-preface.html#the-cdi-perspective",
+    "href": "00-preface.html#the-cdi-perspective",
+    "title": "2  Preface",
+    "section": "2.8 The CDI Perspective",
+    "text": "2.8 The CDI Perspective\nThis guide is part of the Complex Data Insights (CDI) framework.\nAcross CDI, the focus is not only on producing outputs, but on:\n\nunderstanding what those outputs mean\n\nevaluating their reliability\n\ntranslating them into defensible decisions\n\nUsing AI does not change this responsibility.\nIt makes it more important.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "00-preface.html#what-this-guide-will-teach-you",
+    "href": "00-preface.html#what-this-guide-will-teach-you",
+    "title": "2  Preface",
+    "section": "2.9 What This Guide Will Teach You",
+    "text": "2.9 What This Guide Will Teach You\nThis guide does not focus on tools or tricks.\nInstead, it focuses on how to:\n\nstart with a clear position\n\nuse AI to extend your thinking\n\ninterrogate outputs critically\n\ntransform outputs into defensible claims",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "00-preface.html#a-final-note",
+    "href": "00-preface.html#a-final-note",
+    "title": "2  Preface",
+    "section": "2.10 A Final Note",
+    "text": "2.10 A Final Note\nAI is powerful.\nBut it does not replace thinking.\n\nAI amplifies the quality of your thinking.\n\nThis guide will help you make that amplification meaningful.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "01-what-is-a-position.html",
+    "href": "01-what-is-a-position.html",
+    "title": "3  What Is a Position?",
+    "section": "",
+    "text": "3.1 The Basic Definition\nMany people use AI by starting with a request.\nThey ask for an explanation, a plan, a summary, or a solution.\nBut in real work, the starting point should not be a request.\nIt should be a position.\nA position is what allows you to use AI with direction instead of dependence.\nA position is your current thinking before using AI.\nIt is not the final answer.\nIt is not a polished conclusion.\nIt is your starting point.\nA position may be:\nIn simple terms:",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
+    ]
+  },
+  {
+    "objectID": "01-what-is-a-position.html#the-basic-definition",
+    "href": "01-what-is-a-position.html#the-basic-definition",
+    "title": "3  What Is a Position?",
+    "section": "",
+    "text": "a problem you are trying to solve\na direction you want to take\na hypothesis you want to test\na judgment you want to refine\na workflow you want to structure\n\n\n\nA position is the point from which your reasoning begins.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
+    ]
+  },
+  {
+    "objectID": "01-what-is-a-position.html#why-position-matters",
+    "href": "01-what-is-a-position.html#why-position-matters",
+    "title": "3  What Is a Position?",
+    "section": "3.2 Why Position Matters",
+    "text": "3.2 Why Position Matters\nWithout a position, AI takes over the direction.\nThat often leads to:\n\ngeneric outputs\nshallow reasoning\nweak ownership\npoor decisions\n\nWhen you begin with a position, AI becomes more useful.\nIt can help you:\n\nsharpen what you already think\nreveal what you may have missed\norganize your reasoning more clearly\nchallenge weak assumptions\n\nThis is the difference between using AI to think and letting AI think for you.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
+    ]
+  },
+  {
+    "objectID": "01-what-is-a-position.html#a-position-does-not-need-to-be-perfect",
+    "href": "01-what-is-a-position.html#a-position-does-not-need-to-be-perfect",
+    "title": "3  What Is a Position?",
+    "section": "3.3 A Position Does Not Need to Be Perfect",
+    "text": "3.3 A Position Does Not Need to Be Perfect\nOne reason people skip this step is that they think they need clarity before they begin.\nThat is not true.\nA position can be rough.\nIt can be incomplete.\nIt can even be wrong.\nWhat matters is that it exists.\nFor example:\n\n“I think this model may be overfitting.”\n“I want to compare these two approaches.”\n“I need to explain this result more clearly.”\n“I suspect this pattern is driven by data quality.”\n“I want to turn this into a reproducible workflow.”\n\nThese are not final answers.\nThey are positions.\nAnd that is enough to begin responsibly.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
+    ]
+  },
+  {
+    "objectID": "01-what-is-a-position.html#position-vs-request",
+    "href": "01-what-is-a-position.html#position-vs-request",
+    "title": "3  What Is a Position?",
+    "section": "3.4 Position vs Request",
+    "text": "3.4 Position vs Request\nThis distinction is central.\nA request asks for output.\nA position provides direction.\nCompare the difference.\n\n3.4.1 Request only\n\n“Explain machine learning.”\n“Write me a business plan.”\n“Analyze this dataset.”\n“Give me ideas.”\n\nThese may produce output, but they do not establish your thinking.\n\n\n3.4.2 Position-based start\n\n“I want to understand which machine learning method fits this problem and why.”\n“I am developing a small consulting service and need a realistic business structure.”\n“I want to assess whether variable X is associated with outcome Y.”\n“I am exploring three possible directions and want help comparing them.”\n\nThe second set is stronger because the user has already entered the reasoning process.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
+    ]
+  },
+  {
+    "objectID": "01-what-is-a-position.html#the-structure-of-a-position",
+    "href": "01-what-is-a-position.html#the-structure-of-a-position",
+    "title": "3  What Is a Position?",
+    "section": "3.5 The Structure of a Position",
+    "text": "3.5 The Structure of a Position\nA position does not need to be long.\nUsually, it contains at least one of the following:\n\n3.5.1 1. A problem\nWhat are you trying to solve?\nExample:\n\n“I need to determine whether this result is reliable enough to report.”\n\n\n\n3.5.2 2. A direction\nWhat are you trying to do?\nExample:\n\n“I want to convert this rough analysis into a clearer workflow.”\n\n\n\n3.5.3 3. A hypothesis\nWhat do you think may be true?\nExample:\n\n“I think the difference between groups may be driven by sampling imbalance.”\n\nA simple working formula is:\n\nPosition = Problem + Direction + (Optional) Hypothesis\n\nThis is not a strict rule.\nIt is a practical way to make your starting point clearer.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
+    ]
+  },
+  {
+    "objectID": "01-what-is-a-position.html#position-creates-better-prompts",
+    "href": "01-what-is-a-position.html#position-creates-better-prompts",
+    "title": "3  What Is a Position?",
+    "section": "3.6 Position Creates Better Prompts",
+    "text": "3.6 Position Creates Better Prompts\nPrompt quality is often discussed as if it is mainly about wording.\nThat is incomplete.\nBetter prompts do not begin with better phrasing.\nThey begin with better thinking.\nA well-worded prompt without a position can still be weak.\nA simple prompt with a clear position is often much stronger.\nFor example:\n\n3.6.1 Weak\n\n“Help me write about my project.”\n\n\n\n3.6.2 Stronger\n\n“I am building a guide about human-first AI use, and I want help structuring the argument so it is clear, practical, and defensible.”\n\nThe improvement comes from the position, not from stylistic complexity.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
+    ]
+  },
+  {
+    "objectID": "01-what-is-a-position.html#position-improves-ownership",
+    "href": "01-what-is-a-position.html#position-improves-ownership",
+    "title": "3  What Is a Position?",
+    "section": "3.7 Position Improves Ownership",
+    "text": "3.7 Position Improves Ownership\nOwnership matters because real work is not just about output.\nIt is about judgment.\nIf AI gives you language that you do not understand, you cannot explain it well.\nIf AI gives you a conclusion that you did not reason toward, you cannot defend it well.\nThat is why position matters.\nIt keeps you intellectually involved.\nIt keeps your thinking active.\nIt keeps responsibility where it belongs.\n\nIf AI gives you the idea, you may repeat it.\nIf you give AI the idea, you can refine and defend it.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
+    ]
+  },
+  {
+    "objectID": "01-what-is-a-position.html#position-in-real-work",
+    "href": "01-what-is-a-position.html#position-in-real-work",
+    "title": "3  What Is a Position?",
+    "section": "3.8 Position in Real Work",
+    "text": "3.8 Position in Real Work\nThis principle applies across many kinds of work.\n\n3.8.1 In analysis\nA position may be:\n\n“I want to test whether this pattern is real or just noise.”\n\n\n\n3.8.2 In writing\nA position may be:\n\n“I want this explanation to be clear for beginners without losing rigor.”\n\n\n\n3.8.3 In strategy\nA position may be:\n\n“I think this project needs to focus on reproducibility before expansion.”\n\n\n\n3.8.4 In product work\nA position may be:\n\n“I want to evaluate whether this feature solves the actual user problem.”\n\nIn each case, the position creates direction before the tool is used.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
+    ]
+  },
+  {
+    "objectID": "01-what-is-a-position.html#common-mistake-confusing-curiosity-with-position",
+    "href": "01-what-is-a-position.html#common-mistake-confusing-curiosity-with-position",
+    "title": "3  What Is a Position?",
+    "section": "3.9 Common Mistake: Confusing Curiosity with Position",
+    "text": "3.9 Common Mistake: Confusing Curiosity with Position\nCuriosity is useful, but curiosity alone is not yet a position.\nFor example:\n\n“I wonder what AI can do here.”\n“Let me see what it says.”\n“Maybe it has ideas.”\n\nThis is passive exploration.\nBy contrast, position-based use is active.\nIt says:\n\n“Here is the problem.”\n“Here is my current view.”\n“Help me test, refine, or challenge it.”\n\nThat shift changes the quality of the interaction.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
+    ]
+  },
+  {
+    "objectID": "01-what-is-a-position.html#common-mistake-waiting-for-perfect-clarity",
+    "href": "01-what-is-a-position.html#common-mistake-waiting-for-perfect-clarity",
+    "title": "3  What Is a Position?",
+    "section": "3.10 Common Mistake: Waiting for Perfect Clarity",
+    "text": "3.10 Common Mistake: Waiting for Perfect Clarity\nAnother mistake is waiting too long before engaging.\nSome people delay because they think they must fully understand everything first.\nBut a position is not a final conclusion.\nIt is a starting point for disciplined reasoning.\nYou do not need certainty.\nYou need enough clarity to begin intentionally.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
+    ]
+  },
+  {
+    "objectID": "01-what-is-a-position.html#a-practical-test",
+    "href": "01-what-is-a-position.html#a-practical-test",
+    "title": "3  What Is a Position?",
+    "section": "3.11 A Practical Test",
+    "text": "3.11 A Practical Test\nBefore using AI, pause and ask:\n\nWhat problem am I trying to solve?\nWhat do I currently think?\nWhat do I want AI to help me do?\nWhat decision or output will still remain mine?\n\nIf you can answer these questions, even briefly, you likely have a position.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
+    ]
+  },
+  {
+    "objectID": "01-what-is-a-position.html#from-position-to-better-use",
+    "href": "01-what-is-a-position.html#from-position-to-better-use",
+    "title": "3  What Is a Position?",
+    "section": "3.12 From Position to Better Use",
+    "text": "3.12 From Position to Better Use\nOnce a position exists, AI can be used more effectively.\nInstead of asking it to replace your thinking, you can ask it to:\n\nchallenge your reasoning\nimprove your structure\nidentify missing assumptions\ncompare alternatives\nclarify communication\nstress-test your approach\n\nThis is where AI becomes genuinely useful.\nNot as a substitute for thought, but as support for it.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
+    ]
+  },
+  {
+    "objectID": "01-what-is-a-position.html#closing-insight",
+    "href": "01-what-is-a-position.html#closing-insight",
+    "title": "3  What Is a Position?",
+    "section": "3.13 Closing Insight",
+    "text": "3.13 Closing Insight\nA position is not about sounding intelligent.\nIt is about beginning responsibly.\nIt gives your work direction.\nIt gives your prompts substance.\nIt gives your outputs meaning.\nMost importantly, it keeps you connected to the reasoning process.\n\nDo not start by asking AI what to think.\nStart by stating where your thinking currently stands.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
+    ]
+  },
+  {
+    "objectID": "01-what-is-a-position.html#key-takeaway",
+    "href": "01-what-is-a-position.html#key-takeaway",
+    "title": "3  What Is a Position?",
+    "section": "3.14 Key Takeaway",
+    "text": "3.14 Key Takeaway\nA position is your current thinking before using AI.\nIt may be a problem, a direction, or a hypothesis.\nIt does not need to be perfect.\nIt needs to be clear enough to guide the work.\nThat is where responsible AI use begins.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
+    ]
+  },
+  {
+    "objectID": "02-human-ai-human-loop.html",
+    "href": "02-human-ai-human-loop.html",
+    "title": "4  Human → AI → Human Loop",
+    "section": "",
+    "text": "4.1 The Core Idea\nArtificial intelligence is most effective when it is used within a structured reasoning process.\nThis process can be summarized as:\nHuman → AI → Human\nThis is not a technical pipeline.\nIt is a thinking framework.\nAI should sit between two stages of human thinking:\nThis creates a loop, not a handoff.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Human → AI → Human Loop</span>"
+    ]
+  },
+  {
+    "objectID": "02-human-ai-human-loop.html#the-core-idea",
+    "href": "02-human-ai-human-loop.html#the-core-idea",
+    "title": "4  Human → AI → Human Loop",
+    "section": "",
+    "text": "You begin with direction\n\nAI extends that direction\n\nYou return to evaluate and decide",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Human → AI → Human Loop</span>"
+    ]
+  },
+  {
+    "objectID": "02-human-ai-human-loop.html#stage-1-human-start-with-thinking",
+    "href": "02-human-ai-human-loop.html#stage-1-human-start-with-thinking",
+    "title": "4  Human → AI → Human Loop",
+    "section": "4.2 Stage 1 — Human (Start with Thinking)",
+    "text": "4.2 Stage 1 — Human (Start with Thinking)\nBefore using AI, you define:\n\nthe problem\n\nyour position\n\nyour intent\n\nThis stage creates direction.\nWithout it, the interaction becomes unfocused.\nExample:\n\n“I want to test whether this pattern is meaningful or random.”",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Human → AI → Human Loop</span>"
+    ]
+  },
+  {
+    "objectID": "02-human-ai-human-loop.html#stage-2-ai-extend-thinking",
+    "href": "02-human-ai-human-loop.html#stage-2-ai-extend-thinking",
+    "title": "4  Human → AI → Human Loop",
+    "section": "4.3 Stage 2 — AI (Extend Thinking)",
+    "text": "4.3 Stage 2 — AI (Extend Thinking)\nAI supports your reasoning by:\n\nexpanding possibilities\n\norganizing structure\n\nidentifying gaps\n\nchallenging assumptions\n\nHowever, AI does not take responsibility for correctness.\nIt generates based on patterns, not accountability.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Human → AI → Human Loop</span>"
+    ]
+  },
+  {
+    "objectID": "02-human-ai-human-loop.html#stage-3-human-evaluate-and-decide",
+    "href": "02-human-ai-human-loop.html#stage-3-human-evaluate-and-decide",
+    "title": "4  Human → AI → Human Loop",
+    "section": "4.4 Stage 3 — Human (Evaluate and Decide)",
+    "text": "4.4 Stage 3 — Human (Evaluate and Decide)\nYou return to:\n\ninterpret the output\n\nassess its validity\n\ndecide what to accept or reject\n\nThis is the most critical step.\nIt ensures:\n\nunderstanding\n\nownership\n\ndefensibility",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Human → AI → Human Loop</span>"
+    ]
+  },
+  {
+    "objectID": "02-human-ai-human-loop.html#why-this-loop-matters",
+    "href": "02-human-ai-human-loop.html#why-this-loop-matters",
+    "title": "4  Human → AI → Human Loop",
+    "section": "4.5 Why This Loop Matters",
+    "text": "4.5 Why This Loop Matters\nWithout returning to the final human stage:\n\noutputs remain unverified\n\nreasoning remains incomplete\n\ndecisions become weak\n\nWith the loop:\n\nthinking is extended, not replaced\n\noutputs are examined critically\n\ndecisions remain grounded",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Human → AI → Human Loop</span>"
+    ]
+  },
+  {
+    "objectID": "02-human-ai-human-loop.html#common-failure-stopping-at-ai",
+    "href": "02-human-ai-human-loop.html#common-failure-stopping-at-ai",
+    "title": "4  Human → AI → Human Loop",
+    "section": "4.6 Common Failure: Stopping at AI",
+    "text": "4.6 Common Failure: Stopping at AI\nMany workflows look like this:\nHuman → AI → Stop\nThis leads to:\n\ncopy-paste outputs\n\nshallow understanding\n\npoor decision quality\n\nThe missing step is evaluation.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Human → AI → Human Loop</span>"
+    ]
+  },
+  {
+    "objectID": "02-human-ai-human-loop.html#strengthening-the-loop",
+    "href": "02-human-ai-human-loop.html#strengthening-the-loop",
+    "title": "4  Human → AI → Human Loop",
+    "section": "4.7 Strengthening the Loop",
+    "text": "4.7 Strengthening the Loop\nTo use this loop effectively:\nAfter AI responds, ask:\n\nDoes this align with my position?\nWhat assumptions are being made?\nWhat is missing?\nWhat would I change?\n\nThen refine.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Human → AI → Human Loop</span>"
+    ]
+  },
+  {
+    "objectID": "02-human-ai-human-loop.html#loop-not-one-time-use",
+    "href": "02-human-ai-human-loop.html#loop-not-one-time-use",
+    "title": "4  Human → AI → Human Loop",
+    "section": "4.8 Loop, Not One-Time Use",
+    "text": "4.8 Loop, Not One-Time Use\nThis is not a single pass.\nIt can repeat:\nHuman → AI → Human → AI → Human\nEach cycle improves:\n\nclarity\n\nstructure\n\nconfidence",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Human → AI → Human Loop</span>"
+    ]
+  },
+  {
+    "objectID": "02-human-ai-human-loop.html#real-example",
+    "href": "02-human-ai-human-loop.html#real-example",
+    "title": "4  Human → AI → Human Loop",
+    "section": "4.9 Real Example",
+    "text": "4.9 Real Example\n\n4.9.1 Initial position\n\n“I think this model may be overfitting.”\n\n\n\n4.9.2 AI use\nAsk for:\n\npossible causes\n\ndiagnostic steps\n\n\n\n4.9.3 Return to human\n\nevaluate suggestions\n\ntest ideas\n\nrefine conclusion",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Human → AI → Human Loop</span>"
+    ]
+  },
+  {
+    "objectID": "02-human-ai-human-loop.html#key-insight",
+    "href": "02-human-ai-human-loop.html#key-insight",
+    "title": "4  Human → AI → Human Loop",
+    "section": "4.10 Key Insight",
+    "text": "4.10 Key Insight\nAI is not the endpoint.\nIt is part of the process.\n\nThe value comes from how you move through the loop, not from the output alone.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Human → AI → Human Loop</span>"
+    ]
+  },
+  {
+    "objectID": "02-human-ai-human-loop.html#takeaway",
+    "href": "02-human-ai-human-loop.html#takeaway",
+    "title": "4  Human → AI → Human Loop",
+    "section": "4.11 Takeaway",
+    "text": "4.11 Takeaway\nHuman → AI → Human is a reasoning loop.\n\nYou start with thinking\n\nAI extends it\n\nYou return to evaluate and decide\n\nThis keeps:\n\ndirection with you\n\nresponsibility with you\n\nunderstanding with you",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Human → AI → Human Loop</span>"
+    ]
+  },
+  {
+    "objectID": "03-working-with-ai-from-a-position.html",
+    "href": "03-working-with-ai-from-a-position.html",
+    "title": "5  Prompting from a Position",
+    "section": "",
+    "text": "5.1 The Core Shift\nPrompting is often presented as a skill of wording.\nBut effective prompting is not primarily about wording.\nIt is about thinking.\nSpecifically, it is about starting from a position.\nMost prompting advice focuses on:\nThese can help.\nBut they are secondary.\nThe primary driver of prompt quality is this:",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+    ]
+  },
+  {
+    "objectID": "03-working-with-ai-from-a-position.html#the-core-shift",
+    "href": "03-working-with-ai-from-a-position.html#the-core-shift",
+    "title": "5  Prompting from a Position",
+    "section": "",
+    "text": "how to phrase questions\n\nhow to structure instructions\n\nhow to use keywords\n\n\n\n\n\nWhat you bring before you write the prompt.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+    ]
+  },
+  {
+    "objectID": "03-working-with-ai-from-a-position.html#prompting-without-a-position",
+    "href": "03-working-with-ai-from-a-position.html#prompting-without-a-position",
+    "title": "5  Prompting from a Position",
+    "section": "5.2 Prompting Without a Position",
+    "text": "5.2 Prompting Without a Position\nWhen no position is defined, prompts tend to be vague.\nExamples:\n\n“Explain machine learning”\n\n“Write a business plan”\n\n“Analyze this dataset”\n\n“Give me ideas”\n\nThese prompts:\n\nlack direction\n\nproduce generic outputs\n\ndo not reflect your thinking\n\nEven if the wording is improved, the result often remains shallow.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+    ]
+  },
+  {
+    "objectID": "03-working-with-ai-from-a-position.html#prompting-from-a-position",
+    "href": "03-working-with-ai-from-a-position.html#prompting-from-a-position",
+    "title": "5  Prompting from a Position",
+    "section": "5.3 Prompting From a Position",
+    "text": "5.3 Prompting From a Position\nA stronger approach is to start with:\n\na problem\n\na direction\n\nor a hypothesis\n\nThen use AI to extend that thinking.\nExamples:\n\n“I want to understand which model fits this problem and why.”\n\n“I am building a small consulting service and need a realistic structure.”\n\n“I want to test whether variable X is associated with outcome Y.”\n\n“I have three possible directions. Help me compare them.”\n\nThese prompts:\n\ncarry intent\n\nguide the response\n\nproduce more useful outputs",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+    ]
+  },
+  {
+    "objectID": "03-working-with-ai-from-a-position.html#the-structure-of-a-strong-prompt",
+    "href": "03-working-with-ai-from-a-position.html#the-structure-of-a-strong-prompt",
+    "title": "5  Prompting from a Position",
+    "section": "5.4 The Structure of a Strong Prompt",
+    "text": "5.4 The Structure of a Strong Prompt\nA strong prompt often contains:\n\nContext What are you working on?\nPosition What do you currently think or want?\nTask What should AI help you do?\n\nExample:\n\n“I am building a guide on human-first AI use.\nMy goal is to make it practical and defensible.\nHelp me structure the key sections clearly.”",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+    ]
+  },
+  {
+    "objectID": "03-working-with-ai-from-a-position.html#why-this-works",
+    "href": "03-working-with-ai-from-a-position.html#why-this-works",
+    "title": "5  Prompting from a Position",
+    "section": "5.5 Why This Works",
+    "text": "5.5 Why This Works\nAI responds to signals in the prompt.\nA position provides strong signals:\n\nwhat matters\n\nwhat direction to follow\n\nwhat level of detail is expected\n\nWithout these signals, AI defaults to general patterns.\nWith them, AI becomes more targeted.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+    ]
+  },
+  {
+    "objectID": "03-working-with-ai-from-a-position.html#improving-a-weak-prompt",
+    "href": "03-working-with-ai-from-a-position.html#improving-a-weak-prompt",
+    "title": "5  Prompting from a Position",
+    "section": "5.6 Improving a Weak Prompt",
+    "text": "5.6 Improving a Weak Prompt\n\n5.6.1 Weak\n\n“Help me write about AI.”\n\n\n\n5.6.2 Improved\n\n“I am writing a guide on responsible AI use and want to explain how to start with a position. Help me structure this clearly.”\n\nThe improvement comes from:\n\nadding context\n\nstating intent\n\ndefining direction",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+    ]
+  },
+  {
+    "objectID": "03-working-with-ai-from-a-position.html#prompting-as-a-thinking-process",
+    "href": "03-working-with-ai-from-a-position.html#prompting-as-a-thinking-process",
+    "title": "5  Prompting from a Position",
+    "section": "5.7 Prompting as a Thinking Process",
+    "text": "5.7 Prompting as a Thinking Process\nPrompting should not be a one-step action.\nIt is part of the Human → AI → Human loop.\nYou may:\n\nWrite a prompt from your position\n\nReview the output\n\nRefine your prompt\n\nAsk a more focused question\n\nEach step improves clarity.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+    ]
+  },
+  {
+    "objectID": "03-working-with-ai-from-a-position.html#common-mistake-over-engineering-prompts",
+    "href": "03-working-with-ai-from-a-position.html#common-mistake-over-engineering-prompts",
+    "title": "5  Prompting from a Position",
+    "section": "5.8 Common Mistake: Over-Engineering Prompts",
+    "text": "5.8 Common Mistake: Over-Engineering Prompts\nSome users focus too much on:\n\ncomplex instructions\n\nlong templates\n\nrigid formats\n\nThese can help in specific cases.\nBut without a clear position, they do not solve the core problem.\nA simple prompt with a strong position is often more effective than a complex prompt without one.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+    ]
+  },
+  {
+    "objectID": "03-working-with-ai-from-a-position.html#practical-pattern",
+    "href": "03-working-with-ai-from-a-position.html#practical-pattern",
+    "title": "5  Prompting from a Position",
+    "section": "5.9 Practical Pattern",
+    "text": "5.9 Practical Pattern\nYou can use this simple pattern:\n\n“I am working on [context].\nI think / I want [position].\nHelp me [task].”\n\nExample:\n\n“I am analyzing customer data.\nI think churn may be driven by usage patterns.\nHelp me identify how to test this.”",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+    ]
+  },
+  {
+    "objectID": "03-working-with-ai-from-a-position.html#prompting-for-different-goals",
+    "href": "03-working-with-ai-from-a-position.html#prompting-for-different-goals",
+    "title": "5  Prompting from a Position",
+    "section": "5.10 Prompting for Different Goals",
+    "text": "5.10 Prompting for Different Goals\n\n5.10.1 Exploration\n\n“I am exploring possible causes of this pattern. What should I consider?”\n\n\n\n5.10.2 Refinement\n\n“Here is my current explanation. What is unclear or weak?”\n\n\n\n5.10.3 Structuring\n\n“Help me organize this into a clear workflow.”\n\n\n\n5.10.4 Challenge\n\n“Challenge this reasoning and identify gaps.”",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+    ]
+  },
+  {
+    "objectID": "03-working-with-ai-from-a-position.html#ownership-still-applies",
+    "href": "03-working-with-ai-from-a-position.html#ownership-still-applies",
+    "title": "5  Prompting from a Position",
+    "section": "5.11 Ownership Still Applies",
+    "text": "5.11 Ownership Still Applies\nEven with strong prompts, the responsibility remains yours.\nAI can:\n\nsuggest\n\nstructure\n\nexpand\n\nBut it does not:\n\nverify reality\n\ntake responsibility\n\nmake final decisions\n\nThat is your role.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+    ]
+  },
+  {
+    "objectID": "03-working-with-ai-from-a-position.html#key-insight",
+    "href": "03-working-with-ai-from-a-position.html#key-insight",
+    "title": "5  Prompting from a Position",
+    "section": "5.12 Key Insight",
+    "text": "5.12 Key Insight\nPrompting is not about asking better questions alone.\nIt is about starting from better thinking.\n\nBetter prompts begin with a position.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+    ]
+  },
+  {
+    "objectID": "03-working-with-ai-from-a-position.html#takeaway",
+    "href": "03-working-with-ai-from-a-position.html#takeaway",
+    "title": "5  Prompting from a Position",
+    "section": "5.13 Takeaway",
+    "text": "5.13 Takeaway\n\nDo not start with empty requests\n\nStart with a clear position\n\nUse prompts to extend your thinking\n\nThis leads to:\n\nmore relevant outputs\n\nclearer reasoning\n\nstronger decisions",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+    ]
+  },
+  {
+    "objectID": "04-interrogating-ai-outputs.html",
+    "href": "04-interrogating-ai-outputs.html",
+    "title": "6  Interrogating AI Outputs",
+    "section": "",
+    "text": "6.1 The Core Principle\nAI can generate answers quickly.\nSpeed, however, is not reliability.\nThe critical skill is not only generating outputs, but interrogating them.\nInterrogation means actively evaluating:",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interrogating AI Outputs</span>"
+    ]
+  },
+  {
+    "objectID": "04-interrogating-ai-outputs.html#the-core-principle",
+    "href": "04-interrogating-ai-outputs.html#the-core-principle",
+    "title": "6  Interrogating AI Outputs",
+    "section": "",
+    "text": "Do not accept AI output at face value. Examine it.\n\n\n\nwhat the output says\n\nhow it is structured\n\nwhat it assumes\n\nwhat it omits",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interrogating AI Outputs</span>"
+    ]
+  },
+  {
+    "objectID": "04-interrogating-ai-outputs.html#why-interrogation-is-necessary",
+    "href": "04-interrogating-ai-outputs.html#why-interrogation-is-necessary",
+    "title": "6  Interrogating AI Outputs",
+    "section": "6.2 Why Interrogation Is Necessary",
+    "text": "6.2 Why Interrogation Is Necessary\nAI does not:\n\nverify truth in real time\n\nunderstand your full context\n\ntake responsibility for decisions\n\nIt generates plausible responses based on patterns.\nThis means outputs can be:\n\npartially correct\n\nincomplete\n\nmisleading\n\noverconfident",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interrogating AI Outputs</span>"
+    ]
+  },
+  {
+    "objectID": "04-interrogating-ai-outputs.html#the-risk-of-passive-use",
+    "href": "04-interrogating-ai-outputs.html#the-risk-of-passive-use",
+    "title": "6  Interrogating AI Outputs",
+    "section": "6.3 The Risk of Passive Use",
+    "text": "6.3 The Risk of Passive Use\nIf you simply read and accept:\n\nerrors go unnoticed\n\nassumptions remain hidden\n\nweak reasoning passes through\n\nThis leads to:\n\npoor analysis\n\nweak communication\n\nindefensible conclusions",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interrogating AI Outputs</span>"
+    ]
+  },
+  {
+    "objectID": "04-interrogating-ai-outputs.html#the-cdi-approach",
+    "href": "04-interrogating-ai-outputs.html#the-cdi-approach",
+    "title": "6  Interrogating AI Outputs",
+    "section": "6.4 The CDI Approach",
+    "text": "6.4 The CDI Approach\nInterrogation is part of interpretation discipline.\nYou move from:\nOutput → Examination → Understanding → Decision",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interrogating AI Outputs</span>"
+    ]
+  },
+  {
+    "objectID": "04-interrogating-ai-outputs.html#key-questions-to-ask",
+    "href": "04-interrogating-ai-outputs.html#key-questions-to-ask",
+    "title": "6  Interrogating AI Outputs",
+    "section": "6.5 Key Questions to Ask",
+    "text": "6.5 Key Questions to Ask\nAfter receiving an AI response, ask:\n\n6.5.1 1. What is being claimed?\n\nWhat is the main point?\nIs it descriptive, explanatory, or prescriptive?\n\n\n\n\n6.5.2 2. What assumptions are present?\n\nWhat is taken for granted?\nAre there hidden conditions?\n\n\n\n\n6.5.3 3. What is missing?\n\nAre alternative explanations considered?\nIs context ignored?\n\n\n\n\n6.5.4 4. Is this aligned with my position?\n\nDoes it address your actual problem?\nOr has the direction drifted?\n\n\n\n\n6.5.5 5. Can I explain this myself?\n\nDo you understand it well enough to restate it?\nWould you defend it if questioned?",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interrogating AI Outputs</span>"
+    ]
+  },
+  {
+    "objectID": "04-interrogating-ai-outputs.html#example",
+    "href": "04-interrogating-ai-outputs.html#example",
+    "title": "6  Interrogating AI Outputs",
+    "section": "6.6 Example",
+    "text": "6.6 Example\n\n6.6.1 AI Output\n“Feature X strongly predicts outcome Y.”\n\n\n6.6.2 Interrogation\n\nWhat does “strongly” mean?\nIs this correlation or causation?\nWhat data conditions apply?\nAre there confounders?",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interrogating AI Outputs</span>"
+    ]
+  },
+  {
+    "objectID": "04-interrogating-ai-outputs.html#strengthening-the-output",
+    "href": "04-interrogating-ai-outputs.html#strengthening-the-output",
+    "title": "6  Interrogating AI Outputs",
+    "section": "6.7 Strengthening the Output",
+    "text": "6.7 Strengthening the Output\nInterrogation is not only critical.\nIt is constructive.\nYou can ask AI to improve its own response:\n\n“What assumptions did you make?”\n\n“What could make this incorrect?”\n\n“What alternative explanations exist?”\n\n“Clarify this step more precisely.”\n\nThis turns AI into a refinement tool.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interrogating AI Outputs</span>"
+    ]
+  },
+  {
+    "objectID": "04-interrogating-ai-outputs.html#avoiding-overconfidence",
+    "href": "04-interrogating-ai-outputs.html#avoiding-overconfidence",
+    "title": "6  Interrogating AI Outputs",
+    "section": "6.8 Avoiding Overconfidence",
+    "text": "6.8 Avoiding Overconfidence\nAI outputs often sound confident.\nConfidence is not evidence.\nA well-written response can still be:\n\nincomplete\n\nincorrect\n\nmisapplied\n\nYour role is to separate clarity from correctness.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interrogating AI Outputs</span>"
+    ]
+  },
+  {
+    "objectID": "04-interrogating-ai-outputs.html#iterative-interrogation",
+    "href": "04-interrogating-ai-outputs.html#iterative-interrogation",
+    "title": "6  Interrogating AI Outputs",
+    "section": "6.9 Iterative Interrogation",
+    "text": "6.9 Iterative Interrogation\nThis process may repeat:\n\nReceive output\n\nQuestion it\n\nRefine the prompt\n\nReceive improved output\n\nEach iteration improves:\n\nclarity\n\ndepth\n\nreliability",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interrogating AI Outputs</span>"
+    ]
+  },
+  {
+    "objectID": "04-interrogating-ai-outputs.html#common-mistake-accepting-fluency-as-accuracy",
+    "href": "04-interrogating-ai-outputs.html#common-mistake-accepting-fluency-as-accuracy",
+    "title": "6  Interrogating AI Outputs",
+    "section": "6.10 Common Mistake: Accepting Fluency as Accuracy",
+    "text": "6.10 Common Mistake: Accepting Fluency as Accuracy\nFluent language can create false trust.\nA clear explanation does not guarantee:\n\ncorrectness\n\ncompleteness\n\napplicability\n\nAlways separate:\n\nhow it sounds\n\nfrom what it actually means",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interrogating AI Outputs</span>"
+    ]
+  },
+  {
+    "objectID": "04-interrogating-ai-outputs.html#from-output-to-understanding",
+    "href": "04-interrogating-ai-outputs.html#from-output-to-understanding",
+    "title": "6  Interrogating AI Outputs",
+    "section": "6.11 From Output to Understanding",
+    "text": "6.11 From Output to Understanding\nInterrogation bridges the gap between:\n\nreading an answer\n\nunderstanding a concept\n\nWithout interrogation, outputs remain external.\nWith interrogation, they become internalized.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interrogating AI Outputs</span>"
+    ]
+  },
+  {
+    "objectID": "04-interrogating-ai-outputs.html#key-insight",
+    "href": "04-interrogating-ai-outputs.html#key-insight",
+    "title": "6  Interrogating AI Outputs",
+    "section": "6.12 Key Insight",
+    "text": "6.12 Key Insight\nAI gives you answers.\nInterrogation turns them into understanding.\n\nThe value is not in receiving the output, but in examining it.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interrogating AI Outputs</span>"
+    ]
+  },
+  {
+    "objectID": "04-interrogating-ai-outputs.html#takeaway",
+    "href": "04-interrogating-ai-outputs.html#takeaway",
+    "title": "6  Interrogating AI Outputs",
+    "section": "6.13 Takeaway",
+    "text": "6.13 Takeaway\n\nDo not accept outputs passively\n\nQuestion assumptions and gaps\n\nAlign results with your position\n\nRefine until you understand\n\nThis is how outputs become:\n\nmeaningful\n\nreliable\n\ndefensible",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interrogating AI Outputs</span>"
+    ]
+  },
+  {
+    "objectID": "05-from-outputs-to-defensible-reasoning.html",
+    "href": "05-from-outputs-to-defensible-reasoning.html",
+    "title": "7  Making Outputs Defensible",
+    "section": "",
+    "text": "7.1 The Core Principle\nAI can generate useful outputs.\nBut usefulness is not enough.\nIn real work, outputs must be defensible.\nDefensibility means:",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
+    ]
+  },
+  {
+    "objectID": "05-from-outputs-to-defensible-reasoning.html#the-core-principle",
+    "href": "05-from-outputs-to-defensible-reasoning.html#the-core-principle",
+    "title": "7  Making Outputs Defensible",
+    "section": "",
+    "text": "An output is only valuable if you can explain and justify it.\n\n\n\nyou understand the reasoning\n\nyou can explain it clearly\n\nyou can justify it under questioning",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
+    ]
+  },
+  {
+    "objectID": "05-from-outputs-to-defensible-reasoning.html#from-output-to-defensible-work",
+    "href": "05-from-outputs-to-defensible-reasoning.html#from-output-to-defensible-work",
+    "title": "7  Making Outputs Defensible",
+    "section": "7.2 From Output to Defensible Work",
+    "text": "7.2 From Output to Defensible Work\nAI gives you:\nOutput\nYou must transform it into:\nUnderstanding → Justification → Decision",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
+    ]
+  },
+  {
+    "objectID": "05-from-outputs-to-defensible-reasoning.html#what-makes-an-output-defensible",
+    "href": "05-from-outputs-to-defensible-reasoning.html#what-makes-an-output-defensible",
+    "title": "7  Making Outputs Defensible",
+    "section": "7.3 What Makes an Output Defensible?",
+    "text": "7.3 What Makes an Output Defensible?\nAn output becomes defensible when you can:\n\n7.3.1 1. Explain It\n\nWhat does it mean?\nHow does it work?\n\n\n\n\n7.3.2 2. Justify It\n\nWhy is it valid?\nWhat supports it?\n\n\n\n\n7.3.3 3. Bound It\n\nWhen does it apply?\nWhen might it fail?\n\n\n\n\n7.3.4 4. Own It\n\nWould you stand by it in a discussion?\nCan you defend it without AI?",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
+    ]
+  },
+  {
+    "objectID": "05-from-outputs-to-defensible-reasoning.html#the-risk-of-non-defensible-outputs",
+    "href": "05-from-outputs-to-defensible-reasoning.html#the-risk-of-non-defensible-outputs",
+    "title": "7  Making Outputs Defensible",
+    "section": "7.4 The Risk of Non-Defensible Outputs",
+    "text": "7.4 The Risk of Non-Defensible Outputs\nUsing outputs you cannot defend leads to:\n\nweak reports\n\nincorrect conclusions\n\nloss of credibility\n\nThis is especially critical in:\n\nanalysis\n\nresearch\n\nbusiness decisions\n\nsystem design",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
+    ]
+  },
+  {
+    "objectID": "05-from-outputs-to-defensible-reasoning.html#the-cdi-approach",
+    "href": "05-from-outputs-to-defensible-reasoning.html#the-cdi-approach",
+    "title": "7  Making Outputs Defensible",
+    "section": "7.5 The CDI Approach",
+    "text": "7.5 The CDI Approach\nCDI emphasizes:\n\nFrom outputs to defensible decisions\n\nThis requires moving beyond:\n\ncopying results\n\nrepeating explanations\n\nInto:\n\nunderstanding\n\nevaluation\n\njustification",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
+    ]
+  },
+  {
+    "objectID": "05-from-outputs-to-defensible-reasoning.html#turning-output-into-understanding",
+    "href": "05-from-outputs-to-defensible-reasoning.html#turning-output-into-understanding",
+    "title": "7  Making Outputs Defensible",
+    "section": "7.6 Turning Output into Understanding",
+    "text": "7.6 Turning Output into Understanding\nStart by rewriting the output:\n\nin your own words\n\nin simpler terms\n\nin a way you can explain to someone else\n\nIf you cannot do this, you do not yet understand it.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
+    ]
+  },
+  {
+    "objectID": "05-from-outputs-to-defensible-reasoning.html#testing-defensibility",
+    "href": "05-from-outputs-to-defensible-reasoning.html#testing-defensibility",
+    "title": "7  Making Outputs Defensible",
+    "section": "7.7 Testing Defensibility",
+    "text": "7.7 Testing Defensibility\nAsk yourself:\n\nCan I explain this without reading from the output?\nWhat evidence supports this?\nWhat assumptions are involved?\nWhat would challenge this conclusion?",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
+    ]
+  },
+  {
+    "objectID": "05-from-outputs-to-defensible-reasoning.html#example",
+    "href": "05-from-outputs-to-defensible-reasoning.html#example",
+    "title": "7  Making Outputs Defensible",
+    "section": "7.8 Example",
+    "text": "7.8 Example\n\n7.8.1 AI Output\n“This model performs well based on accuracy.”\n\n\n7.8.2 Make It Defensible\n\nWhat is “accuracy” measuring?\nIs the dataset balanced?\nAre there better metrics?\nWhat are the limitations?\n\nNow you move from:\nStatement → Reasoned evaluation",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
+    ]
+  },
+  {
+    "objectID": "05-from-outputs-to-defensible-reasoning.html#strengthening-with-ai",
+    "href": "05-from-outputs-to-defensible-reasoning.html#strengthening-with-ai",
+    "title": "7  Making Outputs Defensible",
+    "section": "7.9 Strengthening with AI",
+    "text": "7.9 Strengthening with AI\nAI can help you improve defensibility if used correctly:\n\n“What are the limitations of this conclusion?”\n“Under what conditions would this fail?”\n“What assumptions does this rely on?”\n“How can this be justified more clearly?”\n\nThis keeps AI in a supporting role.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
+    ]
+  },
+  {
+    "objectID": "05-from-outputs-to-defensible-reasoning.html#common-mistake-copying-without-ownership",
+    "href": "05-from-outputs-to-defensible-reasoning.html#common-mistake-copying-without-ownership",
+    "title": "7  Making Outputs Defensible",
+    "section": "7.10 Common Mistake: Copying Without Ownership",
+    "text": "7.10 Common Mistake: Copying Without Ownership\nSome users:\n\ncopy AI outputs directly\n\npresent them as final results\n\nThis creates:\n\nfragile understanding\n\ninability to answer questions\n\ndependence on the tool",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
+    ]
+  },
+  {
+    "objectID": "05-from-outputs-to-defensible-reasoning.html#defensibility-and-responsibility",
+    "href": "05-from-outputs-to-defensible-reasoning.html#defensibility-and-responsibility",
+    "title": "7  Making Outputs Defensible",
+    "section": "7.11 Defensibility and Responsibility",
+    "text": "7.11 Defensibility and Responsibility\nAI does not take responsibility.\nYou do.\nThat means:\n\nyou must validate\n\nyou must interpret\n\nyou must decide",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
+    ]
+  },
+  {
+    "objectID": "05-from-outputs-to-defensible-reasoning.html#from-defensible-output-to-decision",
+    "href": "05-from-outputs-to-defensible-reasoning.html#from-defensible-output-to-decision",
+    "title": "7  Making Outputs Defensible",
+    "section": "7.12 From Defensible Output to Decision",
+    "text": "7.12 From Defensible Output to Decision\nOnce an output is defensible:\n\nyou can act on it\n\nyou can communicate it\n\nyou can build on it\n\nWithout defensibility:\n\ndecisions are unstable\n\ncommunication is weak",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
+    ]
+  },
+  {
+    "objectID": "05-from-outputs-to-defensible-reasoning.html#key-insight",
+    "href": "05-from-outputs-to-defensible-reasoning.html#key-insight",
+    "title": "7  Making Outputs Defensible",
+    "section": "7.13 Key Insight",
+    "text": "7.13 Key Insight\nAI can generate answers.\nOnly you can make them defensible.\n\nDefensibility transforms output into decision-ready work.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
+    ]
+  },
+  {
+    "objectID": "05-from-outputs-to-defensible-reasoning.html#takeaway",
+    "href": "05-from-outputs-to-defensible-reasoning.html#takeaway",
+    "title": "7  Making Outputs Defensible",
+    "section": "7.14 Takeaway",
+    "text": "7.14 Takeaway\n\nDo not stop at output\n\nConvert output into understanding\n\nTest and justify your reasoning\n\nTake ownership of decisions\n\nThis is how AI use becomes:\n\nresponsible\n\nreliable\n\nprofessional",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
+    ]
+  },
+  {
+    "objectID": "06-from-reasoning-to-defensible-claims.html",
+    "href": "06-from-reasoning-to-defensible-claims.html",
+    "title": "8  From Output to Claims",
+    "section": "",
+    "text": "8.1 The Core Principle\nAI can generate outputs.\nBut real work requires more than outputs.\nIt requires claims.\nThis distinction is critical.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>From Output to Claims</span>"
+    ]
+  },
+  {
+    "objectID": "06-from-reasoning-to-defensible-claims.html#the-core-principle",
+    "href": "06-from-reasoning-to-defensible-claims.html#the-core-principle",
+    "title": "8  From Output to Claims",
+    "section": "",
+    "text": "An output is not a claim. A claim is an interpreted and justified statement.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>From Output to Claims</span>"
+    ]
+  },
+  {
+    "objectID": "06-from-reasoning-to-defensible-claims.html#what-is-a-claim",
+    "href": "06-from-reasoning-to-defensible-claims.html#what-is-a-claim",
+    "title": "8  From Output to Claims",
+    "section": "8.2 What Is a Claim?",
+    "text": "8.2 What Is a Claim?\nA claim is a statement you are willing to stand behind.\nIt is:\n\ninterpreted\n\ncontextualized\n\njustified\n\nExample:\n\n8.2.1 Output\n“Variable X is associated with outcome Y.”\n\n\n8.2.2 Claim\n“Variable X appears to be associated with outcome Y in this dataset, but this does not imply causation and may be influenced by confounding factors.”",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>From Output to Claims</span>"
+    ]
+  },
+  {
+    "objectID": "06-from-reasoning-to-defensible-claims.html#why-this-matters",
+    "href": "06-from-reasoning-to-defensible-claims.html#why-this-matters",
+    "title": "8  From Output to Claims",
+    "section": "8.3 Why This Matters",
+    "text": "8.3 Why This Matters\nOutputs are:\n\nraw\n\nunexamined\n\nincomplete\n\nClaims are:\n\nrefined\n\nbounded\n\ndefensible\n\nWithout this transformation:\n\nconclusions become overstated\n\ndecisions become risky\n\ncommunication becomes misleading",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>From Output to Claims</span>"
+    ]
+  },
+  {
+    "objectID": "06-from-reasoning-to-defensible-claims.html#the-transformation-process",
+    "href": "06-from-reasoning-to-defensible-claims.html#the-transformation-process",
+    "title": "8  From Output to Claims",
+    "section": "8.4 The Transformation Process",
+    "text": "8.4 The Transformation Process\nTo move from output to claim:\n\n8.4.1 1. Interpret\n\nWhat does this actually mean?\n\n\n\n8.4.2 2. Contextualize\n\nUnder what conditions does this apply?\n\n\n\n8.4.3 3. Qualify\n\nWhat are the limitations?\n\n\n\n8.4.4 4. Justify\n\nWhat supports this statement?",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>From Output to Claims</span>"
+    ]
+  },
+  {
+    "objectID": "06-from-reasoning-to-defensible-claims.html#common-mistake-treating-output-as-truth",
+    "href": "06-from-reasoning-to-defensible-claims.html#common-mistake-treating-output-as-truth",
+    "title": "8  From Output to Claims",
+    "section": "8.5 Common Mistake: Treating Output as Truth",
+    "text": "8.5 Common Mistake: Treating Output as Truth\nAI outputs often sound complete.\nBut they are not final conclusions.\nMistakes include:\n\ncopying statements directly\n\nignoring assumptions\n\noverstating certainty",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>From Output to Claims</span>"
+    ]
+  },
+  {
+    "objectID": "06-from-reasoning-to-defensible-claims.html#adding-qualification",
+    "href": "06-from-reasoning-to-defensible-claims.html#adding-qualification",
+    "title": "8  From Output to Claims",
+    "section": "8.6 Adding Qualification",
+    "text": "8.6 Adding Qualification\nStrong claims include boundaries.\nInstead of: “This model is accurate.”\nSay: “This model shows high accuracy on this dataset, but performance may vary depending on data distribution.”",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>From Output to Claims</span>"
+    ]
+  },
+  {
+    "objectID": "06-from-reasoning-to-defensible-claims.html#claim-calibration",
+    "href": "06-from-reasoning-to-defensible-claims.html#claim-calibration",
+    "title": "8  From Output to Claims",
+    "section": "8.7 Claim Calibration",
+    "text": "8.7 Claim Calibration\nNot all claims carry the same strength.\nYou should adjust:\n\nconfidence level\n\nlanguage precision\n\nscope\n\nExamples:\n\n“suggests” instead of “proves”\n\n“may indicate” instead of “demonstrates”",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>From Output to Claims</span>"
+    ]
+  },
+  {
+    "objectID": "06-from-reasoning-to-defensible-claims.html#role-of-ai-in-claim-formation",
+    "href": "06-from-reasoning-to-defensible-claims.html#role-of-ai-in-claim-formation",
+    "title": "8  From Output to Claims",
+    "section": "8.8 Role of AI in Claim Formation",
+    "text": "8.8 Role of AI in Claim Formation\nAI can help you:\n\ndraft explanations\n\nsuggest interpretations\n\nidentify limitations\n\nBut it does not:\n\nvalidate evidence\n\ntake responsibility\n\ndetermine final claims",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>From Output to Claims</span>"
+    ]
+  },
+  {
+    "objectID": "06-from-reasoning-to-defensible-claims.html#testing-your-claim",
+    "href": "06-from-reasoning-to-defensible-claims.html#testing-your-claim",
+    "title": "8  From Output to Claims",
+    "section": "8.9 Testing Your Claim",
+    "text": "8.9 Testing Your Claim\nBefore finalizing, ask:\n\nCan I explain this clearly?\nWhat evidence supports it?\nWhat would weaken it?\nAm I overstating certainty?",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>From Output to Claims</span>"
+    ]
+  },
+  {
+    "objectID": "06-from-reasoning-to-defensible-claims.html#example",
+    "href": "06-from-reasoning-to-defensible-claims.html#example",
+    "title": "8  From Output to Claims",
+    "section": "8.10 Example",
+    "text": "8.10 Example\n\n8.10.1 AI Output\n“This feature improves performance.”\n\n\n8.10.2 Defensible Claim\n“This feature appears to improve performance in this dataset, but further validation is needed to confirm its effect across different conditions.”",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>From Output to Claims</span>"
+    ]
+  },
+  {
+    "objectID": "06-from-reasoning-to-defensible-claims.html#key-insight",
+    "href": "06-from-reasoning-to-defensible-claims.html#key-insight",
+    "title": "8  From Output to Claims",
+    "section": "8.11 Key Insight",
+    "text": "8.11 Key Insight\nOutputs inform.\nClaims commit.\n\nA claim is where responsibility begins.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>From Output to Claims</span>"
+    ]
+  },
+  {
+    "objectID": "06-from-reasoning-to-defensible-claims.html#takeaway",
+    "href": "06-from-reasoning-to-defensible-claims.html#takeaway",
+    "title": "8  From Output to Claims",
+    "section": "8.12 Takeaway",
+    "text": "8.12 Takeaway\n\nDo not present outputs as conclusions\n\nInterpret and qualify before stating claims\n\nAdjust language to reflect evidence\n\nTake responsibility for what you state\n\nThis is how work becomes:\n\ncredible\n\ncareful\n\ndefensible",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>From Output to Claims</span>"
+    ]
+  },
+  {
+    "objectID": "07-common-failure-points.html",
+    "href": "07-common-failure-points.html",
+    "title": "9  Common Failure Points",
+    "section": "",
+    "text": "9.1 The Core Principle\nAI can be used well or poorly.\nMany failures do not come from the tool itself.\nThey come from how it is used.\nThis chapter highlights common failure points and how to correct them.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Common Failure Points</span>"
+    ]
+  },
+  {
+    "objectID": "07-common-failure-points.html#the-core-principle",
+    "href": "07-common-failure-points.html#the-core-principle",
+    "title": "9  Common Failure Points",
+    "section": "",
+    "text": "Most AI mistakes are thinking mistakes, not tool mistakes.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Common Failure Points</span>"
+    ]
+  },
+  {
+    "objectID": "07-common-failure-points.html#failure-1-starting-without-a-position",
+    "href": "07-common-failure-points.html#failure-1-starting-without-a-position",
+    "title": "9  Common Failure Points",
+    "section": "9.2 Failure 1 — Starting Without a Position",
+    "text": "9.2 Failure 1 — Starting Without a Position\n\n9.2.1 What it looks like\n\n“Explain this”\n“Give me ideas”\n“What should I do?”\n\n\n\n9.2.2 Problem\n\nNo direction\nGeneric outputs\nWeak engagement\n\n\n\n9.2.3 Correction\nStart with: - a problem - a direction - a hypothesis",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Common Failure Points</span>"
+    ]
+  },
+  {
+    "objectID": "07-common-failure-points.html#failure-2-treating-ai-as-an-authority",
+    "href": "07-common-failure-points.html#failure-2-treating-ai-as-an-authority",
+    "title": "9  Common Failure Points",
+    "section": "9.3 Failure 2 — Treating AI as an Authority",
+    "text": "9.3 Failure 2 — Treating AI as an Authority\n\n9.3.1 What it looks like\n\nAccepting outputs as correct\nNot questioning results\n\n\n\n9.3.2 Problem\n\nHidden errors\nFalse confidence\nPoor decisions\n\n\n\n9.3.3 Correction\nInterrogate outputs: - What assumptions? - What is missing? - Is this valid?",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Common Failure Points</span>"
+    ]
+  },
+  {
+    "objectID": "07-common-failure-points.html#failure-3-copy-paste-without-understanding",
+    "href": "07-common-failure-points.html#failure-3-copy-paste-without-understanding",
+    "title": "9  Common Failure Points",
+    "section": "9.4 Failure 3 — Copy-Paste Without Understanding",
+    "text": "9.4 Failure 3 — Copy-Paste Without Understanding\n\n9.4.1 What it looks like\n\nUsing outputs directly\nRepeating explanations\n\n\n\n9.4.2 Problem\n\nNo ownership\nCannot explain or defend\nFragile knowledge\n\n\n\n9.4.3 Correction\nRewrite and explain: - in your own words - with clear understanding",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Common Failure Points</span>"
+    ]
+  },
+  {
+    "objectID": "07-common-failure-points.html#failure-4-confusing-fluency-with-accuracy",
+    "href": "07-common-failure-points.html#failure-4-confusing-fluency-with-accuracy",
+    "title": "9  Common Failure Points",
+    "section": "9.5 Failure 4 — Confusing Fluency with Accuracy",
+    "text": "9.5 Failure 4 — Confusing Fluency with Accuracy\n\n9.5.1 What it looks like\n\nTrusting well-written responses\nAssuming clarity = correctness\n\n\n\n9.5.2 Problem\n\nMisleading conclusions\nOverconfidence\n\n\n\n9.5.3 Correction\nSeparate: - how it sounds - from what it means",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Common Failure Points</span>"
+    ]
+  },
+  {
+    "objectID": "07-common-failure-points.html#failure-5-over-reliance-on-ai",
+    "href": "07-common-failure-points.html#failure-5-over-reliance-on-ai",
+    "title": "9  Common Failure Points",
+    "section": "9.6 Failure 5 — Over-Reliance on AI",
+    "text": "9.6 Failure 5 — Over-Reliance on AI\n\n9.6.1 What it looks like\n\nUsing AI for every step\nAvoiding independent thinking\n\n\n\n9.6.2 Problem\n\nReduced reasoning ability\nDependency on the tool\n\n\n\n9.6.3 Correction\nUse AI selectively: - for extension - not replacement",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Common Failure Points</span>"
+    ]
+  },
+  {
+    "objectID": "07-common-failure-points.html#failure-6-not-returning-to-human-judgment",
+    "href": "07-common-failure-points.html#failure-6-not-returning-to-human-judgment",
+    "title": "9  Common Failure Points",
+    "section": "9.7 Failure 6 — Not Returning to Human Judgment",
+    "text": "9.7 Failure 6 — Not Returning to Human Judgment\n\n9.7.1 What it looks like\n\nHuman → AI → Stop\n\n\n\n9.7.2 Problem\n\nNo evaluation\nNo decision ownership\n\n\n\n9.7.3 Correction\nComplete the loop:\nHuman → AI → Human",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Common Failure Points</span>"
+    ]
+  },
+  {
+    "objectID": "07-common-failure-points.html#failure-7-overstating-claims",
+    "href": "07-common-failure-points.html#failure-7-overstating-claims",
+    "title": "9  Common Failure Points",
+    "section": "9.8 Failure 7 — Overstating Claims",
+    "text": "9.8 Failure 7 — Overstating Claims\n\n9.8.1 What it looks like\n\nPresenting outputs as facts\nIgnoring limitations\n\n\n\n9.8.2 Problem\n\nMisleading communication\nWeak credibility\n\n\n\n9.8.3 Correction\nCalibrate claims: - add context - state limitations - avoid overstatement",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Common Failure Points</span>"
+    ]
+  },
+  {
+    "objectID": "07-common-failure-points.html#failure-8-over-engineering-prompts",
+    "href": "07-common-failure-points.html#failure-8-over-engineering-prompts",
+    "title": "9  Common Failure Points",
+    "section": "9.9 Failure 8 — Over-Engineering Prompts",
+    "text": "9.9 Failure 8 — Over-Engineering Prompts\n\n9.9.1 What it looks like\n\nComplex templates\nLong instructions without clarity\n\n\n\n9.9.2 Problem\n\nAdds complexity without direction\n\n\n\n9.9.3 Correction\nFocus on: - clear position - simple structure",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Common Failure Points</span>"
+    ]
+  },
+  {
+    "objectID": "07-common-failure-points.html#failure-9-ignoring-context",
+    "href": "07-common-failure-points.html#failure-9-ignoring-context",
+    "title": "9  Common Failure Points",
+    "section": "9.10 Failure 9 — Ignoring Context",
+    "text": "9.10 Failure 9 — Ignoring Context\n\n9.10.1 What it looks like\n\nGeneric prompts\nMissing background information\n\n\n\n9.10.2 Problem\n\nIrrelevant outputs\n\n\n\n9.10.3 Correction\nProvide context: - what you are doing - why it matters",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Common Failure Points</span>"
+    ]
+  },
+  {
+    "objectID": "07-common-failure-points.html#failure-10-skipping-iteration",
+    "href": "07-common-failure-points.html#failure-10-skipping-iteration",
+    "title": "9  Common Failure Points",
+    "section": "9.11 Failure 10 — Skipping Iteration",
+    "text": "9.11 Failure 10 — Skipping Iteration\n\n9.11.1 What it looks like\n\nOne prompt → final answer\n\n\n\n9.11.2 Problem\n\nShallow results\n\n\n\n9.11.3 Correction\nIterate: - refine prompts - question outputs - improve results",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Common Failure Points</span>"
+    ]
+  },
+  {
+    "objectID": "07-common-failure-points.html#recognizing-failure-early",
+    "href": "07-common-failure-points.html#recognizing-failure-early",
+    "title": "9  Common Failure Points",
+    "section": "9.12 Recognizing Failure Early",
+    "text": "9.12 Recognizing Failure Early\nAsk yourself:\n\nDid I start with a position?\nDo I understand this output?\nCan I explain and defend it?\nHave I questioned assumptions?\n\nIf not, revisit the process.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Common Failure Points</span>"
+    ]
+  },
+  {
+    "objectID": "07-common-failure-points.html#key-insight",
+    "href": "07-common-failure-points.html#key-insight",
+    "title": "9  Common Failure Points",
+    "section": "9.13 Key Insight",
+    "text": "9.13 Key Insight\nAI misuse is rarely about the tool.\nIt is about:\n\nlack of direction\n\nlack of questioning\n\nlack of ownership\n\n\nGood AI use is structured thinking.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Common Failure Points</span>"
+    ]
+  },
+  {
+    "objectID": "07-common-failure-points.html#takeaway",
+    "href": "07-common-failure-points.html#takeaway",
+    "title": "9  Common Failure Points",
+    "section": "9.14 Takeaway",
+    "text": "9.14 Takeaway\nAvoid:\n\npassive use\n\nblind trust\n\ncopy-paste behavior\n\nInstead:\n\nstart with a position\n\ninterrogate outputs\n\nmake results defensible\n\nThis is how AI becomes:\n\nuseful\n\nreliable\n\naligned with real work",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Common Failure Points</span>"
+    ]
+  },
+  {
+    "objectID": "08-ai-in-real-workflows.html",
+    "href": "08-ai-in-real-workflows.html",
+    "title": "10  AI in Real Workflows",
+    "section": "",
+    "text": "10.1 The Core Principle\nAI becomes valuable when it is used within real workflows.\nThis means integrating it into how work is actually done:\nIt fits into existing processes.\nIt does not eliminate the need for structure.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>AI in Real Workflows</span>"
+    ]
+  },
+  {
+    "objectID": "08-ai-in-real-workflows.html#the-core-principle",
+    "href": "08-ai-in-real-workflows.html#the-core-principle",
+    "title": "10  AI in Real Workflows",
+    "section": "",
+    "text": "AI should support workflows, not replace them.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>AI in Real Workflows</span>"
+    ]
+  },
+  {
+    "objectID": "08-ai-in-real-workflows.html#workflow-1-analysis",
+    "href": "08-ai-in-real-workflows.html#workflow-1-analysis",
+    "title": "10  AI in Real Workflows",
+    "section": "10.2 Workflow 1 — Analysis",
+    "text": "10.2 Workflow 1 — Analysis\n\n10.2.1 Typical Process\n\ndefine the problem\n\nexplore data\n\ntest ideas\n\ninterpret results\n\n\n\n10.2.2 Where AI Fits\nStart with a position &gt; “I want to test whether variable X explains outcome Y.”\nUse AI to: - suggest analytical approaches\n- identify potential pitfalls\n- structure steps\nReturn to human - validate methods\n- interpret results\n- make conclusions",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>AI in Real Workflows</span>"
+    ]
+  },
+  {
+    "objectID": "08-ai-in-real-workflows.html#workflow-2-writing",
+    "href": "08-ai-in-real-workflows.html#workflow-2-writing",
+    "title": "10  AI in Real Workflows",
+    "section": "10.3 Workflow 2 — Writing",
+    "text": "10.3 Workflow 2 — Writing\n\n10.3.1 Typical Process\n\ndefine message\n\nstructure content\n\ndraft\n\nrefine\n\n\n\n10.3.2 Where AI Fits\nStart with a position &gt; “I want to explain this concept clearly for beginners.”\nUse AI to: - outline structure\n- improve clarity\n- suggest phrasing\nReturn to human - ensure accuracy\n- align tone\n- take ownership of message",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>AI in Real Workflows</span>"
+    ]
+  },
+  {
+    "objectID": "08-ai-in-real-workflows.html#workflow-3-decision-making",
+    "href": "08-ai-in-real-workflows.html#workflow-3-decision-making",
+    "title": "10  AI in Real Workflows",
+    "section": "10.4 Workflow 3 — Decision-Making",
+    "text": "10.4 Workflow 3 — Decision-Making\n\n10.4.1 Typical Process\n\ndefine decision context\n\nevaluate options\n\nassess risks\n\ndecide\n\n\n\n10.4.2 Where AI Fits\nStart with a position &gt; “I need to compare these two approaches and assess trade-offs.”\nUse AI to: - list considerations\n- identify risks\n- compare scenarios\nReturn to human - weigh priorities\n- consider context\n- make final decision",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>AI in Real Workflows</span>"
+    ]
+  },
+  {
+    "objectID": "08-ai-in-real-workflows.html#workflow-4-system-building",
+    "href": "08-ai-in-real-workflows.html#workflow-4-system-building",
+    "title": "10  AI in Real Workflows",
+    "section": "10.5 Workflow 4 — System Building",
+    "text": "10.5 Workflow 4 — System Building\n\n10.5.1 Typical Process\n\ndefine goal\n\ndesign components\n\nimplement\n\ntest and refine\n\n\n\n10.5.2 Where AI Fits\nStart with a position &gt; “I want to build a reproducible pipeline for this process.”\nUse AI to: - outline architecture\n- suggest implementation steps\n- identify improvements\nReturn to human - validate design\n- test system\n- ensure reliability",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>AI in Real Workflows</span>"
+    ]
+  },
+  {
+    "objectID": "08-ai-in-real-workflows.html#the-consistent-pattern",
+    "href": "08-ai-in-real-workflows.html#the-consistent-pattern",
+    "title": "10  AI in Real Workflows",
+    "section": "10.6 The Consistent Pattern",
+    "text": "10.6 The Consistent Pattern\nAcross all workflows:\n\nHuman defines direction\nAI extends thinking\nHuman evaluates and decides\n\nThis is the same:\nHuman → AI → Human",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>AI in Real Workflows</span>"
+    ]
+  },
+  {
+    "objectID": "08-ai-in-real-workflows.html#what-changes-across-workflows",
+    "href": "08-ai-in-real-workflows.html#what-changes-across-workflows",
+    "title": "10  AI in Real Workflows",
+    "section": "10.7 What Changes Across Workflows",
+    "text": "10.7 What Changes Across Workflows\nThe role of AI varies:\n\nIn analysis → supports reasoning\n\nIn writing → supports communication\n\nIn decisions → supports evaluation\n\nIn systems → supports structure\n\nBut the responsibility remains the same.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>AI in Real Workflows</span>"
+    ]
+  },
+  {
+    "objectID": "08-ai-in-real-workflows.html#common-mistake-letting-ai-lead-the-workflow",
+    "href": "08-ai-in-real-workflows.html#common-mistake-letting-ai-lead-the-workflow",
+    "title": "10  AI in Real Workflows",
+    "section": "10.8 Common Mistake: Letting AI Lead the Workflow",
+    "text": "10.8 Common Mistake: Letting AI Lead the Workflow\nSome users:\n\nstart with AI\n\nfollow its suggestions blindly\n\nThis leads to:\n\nloss of direction\n\ninconsistent results\n\nweak outcomes",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>AI in Real Workflows</span>"
+    ]
+  },
+  {
+    "objectID": "08-ai-in-real-workflows.html#maintaining-control",
+    "href": "08-ai-in-real-workflows.html#maintaining-control",
+    "title": "10  AI in Real Workflows",
+    "section": "10.9 Maintaining Control",
+    "text": "10.9 Maintaining Control\nTo keep control:\n\ndefine your position clearly\n\nguide the interaction\n\nquestion outputs\n\nvalidate before acting",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>AI in Real Workflows</span>"
+    ]
+  },
+  {
+    "objectID": "08-ai-in-real-workflows.html#practical-integration",
+    "href": "08-ai-in-real-workflows.html#practical-integration",
+    "title": "10  AI in Real Workflows",
+    "section": "10.10 Practical Integration",
+    "text": "10.10 Practical Integration\nYou do not need to redesign your workflow.\nInstead:\n\ninsert AI at specific points\n\nuse it for support\n\nkeep core reasoning human-led",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>AI in Real Workflows</span>"
+    ]
+  },
+  {
+    "objectID": "08-ai-in-real-workflows.html#key-insight",
+    "href": "08-ai-in-real-workflows.html#key-insight",
+    "title": "10  AI in Real Workflows",
+    "section": "10.11 Key Insight",
+    "text": "10.11 Key Insight\nAI is not a separate workflow.\nIt is a component within your workflow.\n\nIts value depends on how you integrate it, not how often you use it.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>AI in Real Workflows</span>"
+    ]
+  },
+  {
+    "objectID": "08-ai-in-real-workflows.html#takeaway",
+    "href": "08-ai-in-real-workflows.html#takeaway",
+    "title": "10  AI in Real Workflows",
+    "section": "10.12 Takeaway",
+    "text": "10.12 Takeaway\n\nUse AI within structured workflows\n\nKeep direction with you\n\nReturn to human judgment\n\nThis ensures:\n\nconsistency\n\nreliability\n\ndefensibility\n\nAI becomes most useful when it is:\n\nintegrated\n\ncontrolled\n\naligned with real work",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>AI in Real Workflows</span>"
+    ]
+  },
+  {
+    "objectID": "09-building-your-ai-workflow.html",
+    "href": "09-building-your-ai-workflow.html",
+    "title": "11  Building Your AI Workflow",
+    "section": "",
+    "text": "11.1 The Core Principle\nUp to this point, you have learned how to:\nThe next step is to build your own workflow.\nA workflow gives you:",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Building Your AI Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "09-building-your-ai-workflow.html#the-core-principle",
+    "href": "09-building-your-ai-workflow.html#the-core-principle",
+    "title": "11  Building Your AI Workflow",
+    "section": "",
+    "text": "Do not use AI randomly. Use it within a defined workflow.\n\n\n\nconsistency\n\nclarity\n\ncontrol",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Building Your AI Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "09-building-your-ai-workflow.html#what-is-an-ai-workflow",
+    "href": "09-building-your-ai-workflow.html#what-is-an-ai-workflow",
+    "title": "11  Building Your AI Workflow",
+    "section": "11.2 What Is an AI Workflow?",
+    "text": "11.2 What Is an AI Workflow?\nAn AI workflow is a structured way of working where:\n\neach step has a purpose\n\nAI is used intentionally\n\nhuman judgment remains central",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Building Your AI Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "09-building-your-ai-workflow.html#the-cdi-workflow-model",
+    "href": "09-building-your-ai-workflow.html#the-cdi-workflow-model",
+    "title": "11  Building Your AI Workflow",
+    "section": "11.3 The CDI Workflow Model",
+    "text": "11.3 The CDI Workflow Model\nYou can use this simple structure:\n\n11.3.1 1. Define Position\n\nWhat is the problem?\nWhat do you think?\nWhat do you want to achieve?\n\n\n\n\n11.3.2 2. Use AI to Extend\n\nGenerate ideas\n\nStructure approach\n\nIdentify gaps\n\n\n\n\n11.3.3 3. Interrogate Output\n\nWhat assumptions are present?\nWhat is missing?\nIs it aligned with your position?\n\n\n\n\n11.3.4 4. Make It Defensible\n\nRewrite in your own words\n\nJustify reasoning\n\nAdd limitations\n\n\n\n\n11.3.5 5. Decide and Act\n\nMake a decision\n\nImplement\n\nCommunicate",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Building Your AI Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "09-building-your-ai-workflow.html#visual-summary",
+    "href": "09-building-your-ai-workflow.html#visual-summary",
+    "title": "11  Building Your AI Workflow",
+    "section": "11.4 Visual Summary",
+    "text": "11.4 Visual Summary\nPosition → AI → Interrogate → Defensible → Decide",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Building Your AI Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "09-building-your-ai-workflow.html#adapting-to-your-work",
+    "href": "09-building-your-ai-workflow.html#adapting-to-your-work",
+    "title": "11  Building Your AI Workflow",
+    "section": "11.5 Adapting to Your Work",
+    "text": "11.5 Adapting to Your Work\nYour workflow may vary depending on your domain.\n\n11.5.1 Analysis\n\nPosition → AI (methods) → Test → Interpret → Decide\n\n\n\n11.5.2 Writing\n\nPosition → AI (structure) → Draft → Refine → Finalize\n\n\n\n11.5.3 Decision-making\n\nPosition → AI (options) → Evaluate → Decide",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Building Your AI Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "09-building-your-ai-workflow.html#keep-it-simple",
+    "href": "09-building-your-ai-workflow.html#keep-it-simple",
+    "title": "11  Building Your AI Workflow",
+    "section": "11.6 Keep It Simple",
+    "text": "11.6 Keep It Simple\nA workflow does not need to be complex.\nEven this is enough:\n\nStart with a position\n\nUse AI\n\nQuestion the output\n\nMake it your own\n\nAct",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Building Your AI Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "09-building-your-ai-workflow.html#iteration-matters",
+    "href": "09-building-your-ai-workflow.html#iteration-matters",
+    "title": "11  Building Your AI Workflow",
+    "section": "11.7 Iteration Matters",
+    "text": "11.7 Iteration Matters\nYour workflow is not static.\nIt improves over time.\nAfter each use, reflect:\n\nWhat worked?\nWhat was unclear?\nWhat can be improved?\n\nThen adjust.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Building Your AI Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "09-building-your-ai-workflow.html#common-mistake-no-workflow",
+    "href": "09-building-your-ai-workflow.html#common-mistake-no-workflow",
+    "title": "11  Building Your AI Workflow",
+    "section": "11.8 Common Mistake: No Workflow",
+    "text": "11.8 Common Mistake: No Workflow\nWithout a workflow:\n\nAI is used inconsistently\n\nresults vary\n\nreasoning becomes fragmented",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Building Your AI Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "09-building-your-ai-workflow.html#common-mistake-over-complex-workflow",
+    "href": "09-building-your-ai-workflow.html#common-mistake-over-complex-workflow",
+    "title": "11  Building Your AI Workflow",
+    "section": "11.9 Common Mistake: Over-Complex Workflow",
+    "text": "11.9 Common Mistake: Over-Complex Workflow\nToo many steps can:\n\nslow you down\n\nreduce clarity\n\nBalance is important.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Building Your AI Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "09-building-your-ai-workflow.html#personalizing-your-workflow",
+    "href": "09-building-your-ai-workflow.html#personalizing-your-workflow",
+    "title": "11  Building Your AI Workflow",
+    "section": "11.10 Personalizing Your Workflow",
+    "text": "11.10 Personalizing Your Workflow\nYour workflow should reflect:\n\nyour type of work\n\nyour level of expertise\n\nyour goals\n\nIt should be:\n\npractical\n\nrepeatable\n\nadaptable",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Building Your AI Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "09-building-your-ai-workflow.html#key-insight",
+    "href": "09-building-your-ai-workflow.html#key-insight",
+    "title": "11  Building Your AI Workflow",
+    "section": "11.11 Key Insight",
+    "text": "11.11 Key Insight\nA workflow turns:\n\nrandom interaction\n\ninto:\n\nstructured reasoning\n\n\nConsistency in process leads to consistency in results.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Building Your AI Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "09-building-your-ai-workflow.html#takeaway",
+    "href": "09-building-your-ai-workflow.html#takeaway",
+    "title": "11  Building Your AI Workflow",
+    "section": "11.12 Takeaway",
+    "text": "11.12 Takeaway\n\nBuild a simple, structured workflow\n\nKeep AI within that workflow\n\nMaintain human control\n\nImprove over time\n\nThis is how AI use becomes:\n\nsystematic\n\nreliable\n\naligned with real work",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Building Your AI Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "10-summary-and-next-steps.html",
+    "href": "10-summary-and-next-steps.html",
+    "title": "12  Summary and Next Steps",
+    "section": "",
+    "text": "12.1 What You Have Learned\nThis guide introduced a different way to use AI.\nNot as a tool that replaces thinking.\nBut as a system that extends thinking.\nAcross this guide, a consistent pattern emerged.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary and Next Steps</span>"
+    ]
+  },
+  {
+    "objectID": "10-summary-and-next-steps.html#what-you-have-learned",
+    "href": "10-summary-and-next-steps.html#what-you-have-learned",
+    "title": "12  Summary and Next Steps",
+    "section": "",
+    "text": "12.1.1 1. Start with a Position\n\nDefine your problem\n\nState your thinking\n\nSet direction\n\n\n\n\n12.1.2 2. Use AI to Extend Thinking\n\nExpand ideas\n\nStructure workflows\n\nChallenge assumptions\n\n\n\n\n12.1.3 3. Interrogate Outputs\n\nQuestion claims\n\nIdentify assumptions\n\nLook for gaps\n\n\n\n\n12.1.4 4. Make Outputs Defensible\n\nUnderstand clearly\n\nJustify reasoning\n\nDefine limitations\n\n\n\n\n12.1.5 5. Move from Outputs to Claims\n\nInterpret carefully\n\nCalibrate language\n\nTake responsibility\n\n\n\n\n12.1.6 6. Apply in Real Workflows\n\nAnalysis\n\nWriting\n\nDecision-making\n\nSystem building\n\n\n\n\n12.1.7 7. Build Your Own Workflow\n\nKeep it simple\n\nKeep it consistent\n\nImprove over time",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary and Next Steps</span>"
+    ]
+  },
+  {
+    "objectID": "10-summary-and-next-steps.html#the-complete-cdi-ai-model",
+    "href": "10-summary-and-next-steps.html#the-complete-cdi-ai-model",
+    "title": "12  Summary and Next Steps",
+    "section": "12.2 The Complete CDI AI Model",
+    "text": "12.2 The Complete CDI AI Model\nYou can summarize the entire guide as:\nPosition → AI → Interrogate → Defensible → Decide\nThis is not just a process.\nIt is a way of thinking.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary and Next Steps</span>"
+    ]
+  },
+  {
+    "objectID": "10-summary-and-next-steps.html#what-this-changes",
+    "href": "10-summary-and-next-steps.html#what-this-changes",
+    "title": "12  Summary and Next Steps",
+    "section": "12.3 What This Changes",
+    "text": "12.3 What This Changes\nInstead of:\n\nasking for answers\n\ncopying outputs\n\nrelying on the tool\n\nYou now:\n\ndefine direction\n\nguide the interaction\n\nevaluate results\n\nmake decisions",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary and Next Steps</span>"
+    ]
+  },
+  {
+    "objectID": "10-summary-and-next-steps.html#the-responsibility-remains-yours",
+    "href": "10-summary-and-next-steps.html#the-responsibility-remains-yours",
+    "title": "12  Summary and Next Steps",
+    "section": "12.4 The Responsibility Remains Yours",
+    "text": "12.4 The Responsibility Remains Yours\nAI does not:\n\nunderstand consequences\n\nvalidate reality\n\ntake responsibility\n\nYou do.\nThis is why:\n\nAI does not replace thinking. It amplifies it.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary and Next Steps</span>"
+    ]
+  },
+  {
+    "objectID": "10-summary-and-next-steps.html#from-learning-to-practice",
+    "href": "10-summary-and-next-steps.html#from-learning-to-practice",
+    "title": "12  Summary and Next Steps",
+    "section": "12.5 From Learning to Practice",
+    "text": "12.5 From Learning to Practice\nUnderstanding this framework is only the first step.\nThe real value comes from applying it consistently.\nStart with small steps:\n\nuse a position in your next task\n\nquestion the next AI output you receive\n\nrewrite and explain what you use",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary and Next Steps</span>"
+    ]
+  },
+  {
+    "objectID": "10-summary-and-next-steps.html#developing-skill-over-time",
+    "href": "10-summary-and-next-steps.html#developing-skill-over-time",
+    "title": "12  Summary and Next Steps",
+    "section": "12.6 Developing Skill Over Time",
+    "text": "12.6 Developing Skill Over Time\nLike any skill, this improves with practice.\nYou will become better at:\n\nforming clear positions\n\nasking focused prompts\n\nidentifying weak reasoning\n\nmaking stronger claims",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary and Next Steps</span>"
+    ]
+  },
+  {
+    "objectID": "10-summary-and-next-steps.html#where-this-leads",
+    "href": "10-summary-and-next-steps.html#where-this-leads",
+    "title": "12  Summary and Next Steps",
+    "section": "12.7 Where This Leads",
+    "text": "12.7 Where This Leads\nThis approach prepares you for:\n\ndeeper analysis\n\nclearer communication\n\nbetter decision-making\n\nbuilding real systems\n\nIt aligns with how work is done in practice.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary and Next Steps</span>"
+    ]
+  },
+  {
+    "objectID": "10-summary-and-next-steps.html#final-insight",
+    "href": "10-summary-and-next-steps.html#final-insight",
+    "title": "12  Summary and Next Steps",
+    "section": "12.8 Final Insight",
+    "text": "12.8 Final Insight\nAI is powerful.\nBut its value depends on how it is used.\n\nClear thinking leads to better AI use.\nBetter AI use leads to better decisions.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary and Next Steps</span>"
+    ]
+  },
+  {
+    "objectID": "10-summary-and-next-steps.html#closing-takeaway",
+    "href": "10-summary-and-next-steps.html#closing-takeaway",
+    "title": "12  Summary and Next Steps",
+    "section": "12.9 Closing Takeaway",
+    "text": "12.9 Closing Takeaway\n\nStart with thinking\n\nUse AI intentionally\n\nQuestion outputs\n\nMake results defensible\n\nTake ownership of decisions\n\nThis is how AI becomes:\n\nuseful\n\nreliable\n\naligned with real work",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary and Next Steps</span>"
+    ]
+  },
+  {
+    "objectID": "10-summary-and-next-steps.html#next-step",
+    "href": "10-summary-and-next-steps.html#next-step",
+    "title": "12  Summary and Next Steps",
+    "section": "12.10 Next Step",
+    "text": "12.10 Next Step\nApply this framework in your own work.\nDo not aim for perfection.\nAim for:\n\nclarity\n\nconsistency\n\nimprovement\n\nThat is where real progress happens.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary and Next Steps</span>"
+    ]
+  }
+]

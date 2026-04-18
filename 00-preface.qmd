@@ -1,0 +1,166 @@
+# Preface
+
+:::cdi-message
+- **ID:** AI-L00
+- **Type:** Preface
+- **Audience:** Public
+- **Theme:** Human-first AI reasoning
+:::
+
+Artificial intelligence tools are becoming part of everyday work.
+
+They can generate text, write code, summarize documents, and suggest solutions in seconds.
+
+Because of this, many people feel more productive.
+
+But there is a problem.
+
+The presence of powerful tools is often mistaken for understanding.
+
+---
+
+## The Illusion of Progress
+
+It is now easy to produce outputs:
+
+- explanations  
+- reports  
+- analyses  
+- even full workflows  
+
+However, producing an output is not the same as understanding it.
+
+And more importantly:
+
+**An output you cannot explain is not a result you can defend.**
+
+---
+
+## Where Things Go Wrong
+
+Most people start like this:
+
+- “Explain this”  
+- “Give me ideas”  
+- “What should I do?”  
+
+This approach hands over direction to the tool.
+
+The result is often:
+
+- generic responses  
+- shallow reasoning  
+- decisions without ownership  
+
+---
+
+## A Different Approach
+
+This guide is built on a simple but critical shift:
+
+> **Start with thinking. Then use AI.**
+
+More specifically:
+
+> **Start with a position.**
+
+---
+
+## What is a Position?
+
+A position is your current thinking before using AI.
+
+It can be:
+
+- a problem you are trying to solve  
+- a direction you want to take  
+- a hypothesis you want to test  
+
+Even a rough starting point is enough.
+
+What matters is that you are not starting from zero.
+
+---
+
+## The Core Principle
+
+AI should not define your direction.
+
+It should extend it.
+
+This guide follows a simple reasoning loop:
+
+---
+
+## Human → AI → Human
+
+1. **Human (You begin)**
+   - define the problem  
+   - state your position  
+
+2. **AI (Tool support)**
+   - expand possibilities  
+   - refine structure  
+   - challenge assumptions  
+
+3. **Human (You decide)**
+   - evaluate critically  
+   - interpret carefully  
+   - make decisions  
+
+---
+
+## Why This Matters
+
+In real work:
+
+- decisions have consequences  
+- interpretations must be justified  
+- results must be explainable  
+
+If AI produces something you do not fully understand:
+
+- you cannot defend it  
+- you cannot trust it  
+- you cannot improve it  
+
+---
+
+## The CDI Perspective
+
+This guide is part of the Complex Data Insights (CDI) framework.
+
+Across CDI, the focus is not only on producing outputs, but on:
+
+- understanding what those outputs mean  
+- evaluating their reliability  
+- translating them into defensible decisions  
+
+Using AI does not change this responsibility.
+
+It makes it more important.
+
+---
+
+## What This Guide Will Teach You
+
+This guide does not focus on tools or tricks.
+
+Instead, it focuses on how to:
+
+- start with a clear position  
+- use AI to extend your thinking  
+- interrogate outputs critically  
+- transform outputs into defensible claims  
+
+---
+
+## A Final Note
+
+AI is powerful.
+
+But it does not replace thinking.
+
+> **AI amplifies the quality of your thinking.**
+
+This guide will help you make that amplification meaningful.

@@ -1,0 +1,196 @@
+# Summary and Next Steps
+
+:::cdi-message
+- **ID:** AI-L10
+- **Type:** Lesson
+- **Audience:** Public
+- **Theme:** Consolidation and transition to practice
+:::
+
+This guide introduced a different way to use AI.
+
+Not as a tool that replaces thinking.
+
+But as a system that **extends thinking**.
+
+---
+
+## What You Have Learned
+
+Across this guide, a consistent pattern emerged.
+
+### 1. Start with a Position
+- Define your problem  
+- State your thinking  
+- Set direction  
+
+---
+
+### 2. Use AI to Extend Thinking
+- Expand ideas  
+- Structure workflows  
+- Challenge assumptions  
+
+---
+
+### 3. Interrogate Outputs
+- Question claims  
+- Identify assumptions  
+- Look for gaps  
+
+---
+
+### 4. Make Outputs Defensible
+- Understand clearly  
+- Justify reasoning  
+- Define limitations  
+
+---
+
+### 5. Move from Outputs to Claims
+- Interpret carefully  
+- Calibrate language  
+- Take responsibility  
+
+---
+
+### 6. Apply in Real Workflows
+- Analysis  
+- Writing  
+- Decision-making  
+- System building  
+
+---
+
+### 7. Build Your Own Workflow
+- Keep it simple  
+- Keep it consistent  
+- Improve over time  
+
+---
+
+## The Complete CDI AI Model
+
+You can summarize the entire guide as:
+
+**Position → AI → Interrogate → Defensible → Decide**
+
+This is not just a process.
+
+It is a way of thinking.
+
+---
+
+## What This Changes
+
+Instead of:
+
+- asking for answers  
+- copying outputs  
+- relying on the tool  
+
+You now:
+
+- define direction  
+- guide the interaction  
+- evaluate results  
+- make decisions  
+
+---
+
+## The Responsibility Remains Yours
+
+AI does not:
+
+- understand consequences  
+- validate reality  
+- take responsibility  
+
+You do.
+
+This is why:
+
+> **AI does not replace thinking. It amplifies it.**
+
+---
+
+## From Learning to Practice
+
+Understanding this framework is only the first step.
+
+The real value comes from applying it consistently.
+
+Start with small steps:
+
+- use a position in your next task  
+- question the next AI output you receive  
+- rewrite and explain what you use  
+
+---
+
+## Developing Skill Over Time
+
+Like any skill, this improves with practice.
+
+You will become better at:
+
+- forming clear positions  
+- asking focused prompts  
+- identifying weak reasoning  
+- making stronger claims  
+
+---
+
+## Where This Leads
+
+This approach prepares you for:
+
+- deeper analysis  
+- clearer communication  
+- better decision-making  
+- building real systems  
+
+It aligns with how work is done in practice.
+
+---
+
+## Final Insight
+
+AI is powerful.
+
+But its value depends on how it is used.
+
+> **Clear thinking leads to better AI use.  
+Better AI use leads to better decisions.**
+
+---
+
+## Closing Takeaway
+
+- Start with thinking  
+- Use AI intentionally  
+- Question outputs  
+- Make results defensible  
+- Take ownership of decisions  
+
+This is how AI becomes:
+
+- useful  
+- reliable  
+- aligned with real work  
+
+---
+
+## Next Step
+
+Apply this framework in your own work.
+
+Do not aim for perfection.
+
+Aim for:
+
+- clarity  
+- consistency  
+- improvement  
+
+That is where real progress happens.

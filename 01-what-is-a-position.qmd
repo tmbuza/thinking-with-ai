@@ -1,0 +1,345 @@
+# What Is a Position?
+
+:::cdi-message
+- **ID:** AI-L01
+- **Type:** Lesson
+- **Audience:** Public
+- **Theme:** Position-based AI use
+:::
+
+Many people use AI by starting with a request.
+
+They ask for an explanation, a plan, a summary, or a solution.
+
+But in real work, the starting point should not be a request.
+
+It should be a **position**.
+
+A position is what allows you to use AI with direction instead of dependence.
+
+---
+
+## The Basic Definition
+
+A **position** is your current thinking before using AI.
+
+It is not the final answer.
+
+It is not a polished conclusion.
+
+It is your starting point.
+
+A position may be:
+
+- a problem you are trying to solve
+- a direction you want to take
+- a hypothesis you want to test
+- a judgment you want to refine
+- a workflow you want to structure
+
+In simple terms:
+
+> A position is the point from which your reasoning begins.
+
+---
+
+## Why Position Matters
+
+Without a position, AI takes over the direction.
+
+That often leads to:
+
+- generic outputs
+- shallow reasoning
+- weak ownership
+- poor decisions
+
+When you begin with a position, AI becomes more useful.
+
+It can help you:
+
+- sharpen what you already think
+- reveal what you may have missed
+- organize your reasoning more clearly
+- challenge weak assumptions
+
+This is the difference between **using AI to think** and **letting AI think for you**.
+
+---
+
+## A Position Does Not Need to Be Perfect
+
+One reason people skip this step is that they think they need clarity before they begin.
+
+That is not true.
+
+A position can be rough.
+
+It can be incomplete.
+
+It can even be wrong.
+
+What matters is that it exists.
+
+For example:
+
+- “I think this model may be overfitting.”
+- “I want to compare these two approaches.”
+- “I need to explain this result more clearly.”
+- “I suspect this pattern is driven by data quality.”
+- “I want to turn this into a reproducible workflow.”
+
+These are not final answers.
+
+They are positions.
+
+And that is enough to begin responsibly.
+
+---
+
+## Position vs Request
+
+This distinction is central.
+
+A **request** asks for output.
+
+A **position** provides direction.
+
+Compare the difference.
+
+### Request only
+- “Explain machine learning.”
+- “Write me a business plan.”
+- “Analyze this dataset.”
+- “Give me ideas.”
+
+These may produce output, but they do not establish your thinking.
+
+### Position-based start
+- “I want to understand which machine learning method fits this problem and why.”
+- “I am developing a small consulting service and need a realistic business structure.”
+- “I want to assess whether variable X is associated with outcome Y.”
+- “I am exploring three possible directions and want help comparing them.”
+
+The second set is stronger because the user has already entered the reasoning process.
+
+---
+
+## The Structure of a Position
+
+A position does not need to be long.
+
+Usually, it contains at least one of the following:
+
+### 1. A problem
+What are you trying to solve?
+
+Example:
+
+> “I need to determine whether this result is reliable enough to report.”
+
+### 2. A direction
+What are you trying to do?
+
+Example:
+
+> “I want to convert this rough analysis into a clearer workflow.”
+
+### 3. A hypothesis
+What do you think may be true?
+
+Example:
+
+> “I think the difference between groups may be driven by sampling imbalance.”
+
+A simple working formula is:
+
+> **Position = Problem + Direction + (Optional) Hypothesis**
+
+This is not a strict rule.
+
+It is a practical way to make your starting point clearer.
+
+---
+
+## Position Creates Better Prompts
+
+Prompt quality is often discussed as if it is mainly about wording.
+
+That is incomplete.
+
+Better prompts do not begin with better phrasing.
+
+They begin with better thinking.
+
+A well-worded prompt without a position can still be weak.
+
+A simple prompt with a clear position is often much stronger.
+
+For example:
+
+### Weak
+> “Help me write about my project.”
+
+### Stronger
+> “I am building a guide about human-first AI use, and I want help structuring the argument so it is clear, practical, and defensible.”
+
+The improvement comes from the position, not from stylistic complexity.
+
+---
+
+## Position Improves Ownership
+
+Ownership matters because real work is not just about output.
+
+It is about judgment.
+
+If AI gives you language that you do not understand, you cannot explain it well.
+
+If AI gives you a conclusion that you did not reason toward, you cannot defend it well.
+
+That is why position matters.
+
+It keeps you intellectually involved.
+
+It keeps your thinking active.
+
+It keeps responsibility where it belongs.
+
+> If AI gives you the idea, you may repeat it.
+>
+> If you give AI the idea, you can refine and defend it.
+
+---
+
+## Position in Real Work
+
+This principle applies across many kinds of work.
+
+### In analysis
+A position may be:
+
+> “I want to test whether this pattern is real or just noise.”
+
+### In writing
+A position may be:
+
+> “I want this explanation to be clear for beginners without losing rigor.”
+
+### In strategy
+A position may be:
+
+> “I think this project needs to focus on reproducibility before expansion.”
+
+### In product work
+A position may be:
+
+> “I want to evaluate whether this feature solves the actual user problem.”
+
+In each case, the position creates direction before the tool is used.
+
+---
+
+## Common Mistake: Confusing Curiosity with Position
+
+Curiosity is useful, but curiosity alone is not yet a position.
+
+For example:
+
+- “I wonder what AI can do here.”
+- “Let me see what it says.”
+- “Maybe it has ideas.”
+
+This is passive exploration.
+
+By contrast, position-based use is active.
+
+It says:
+
+- “Here is the problem.”
+- “Here is my current view.”
+- “Help me test, refine, or challenge it.”
+
+That shift changes the quality of the interaction.
+
+---
+
+## Common Mistake: Waiting for Perfect Clarity
+
+Another mistake is waiting too long before engaging.
+
+Some people delay because they think they must fully understand everything first.
+
+But a position is not a final conclusion.
+
+It is a starting point for disciplined reasoning.
+
+You do not need certainty.
+
+You need enough clarity to begin intentionally.
+
+---
+
+## A Practical Test
+
+Before using AI, pause and ask:
+
+1. What problem am I trying to solve?
+2. What do I currently think?
+3. What do I want AI to help me do?
+4. What decision or output will still remain mine?
+
+If you can answer these questions, even briefly, you likely have a position.
+
+---
+
+## From Position to Better Use
+
+Once a position exists, AI can be used more effectively.
+
+Instead of asking it to replace your thinking, you can ask it to:
+
+- challenge your reasoning
+- improve your structure
+- identify missing assumptions
+- compare alternatives
+- clarify communication
+- stress-test your approach
+
+This is where AI becomes genuinely useful.
+
+Not as a substitute for thought, but as support for it.
+
+---
+
+## Closing Insight
+
+A position is not about sounding intelligent.
+
+It is about beginning responsibly.
+
+It gives your work direction.
+
+It gives your prompts substance.
+
+It gives your outputs meaning.
+
+Most importantly, it keeps you connected to the reasoning process.
+
+> Do not start by asking AI what to think.
+>
+> Start by stating where your thinking currently stands.
+
+---
+
+## Key Takeaway
+
+**A position is your current thinking before using AI.**
+
+It may be a problem, a direction, or a hypothesis.
+
+It does not need to be perfect.
+
+It needs to be clear enough to guide the work.
+
+That is where responsible AI use begins.

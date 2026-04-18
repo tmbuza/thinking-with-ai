@@ -1,0 +1,224 @@
+# Interrogating AI Outputs
+
+:::cdi-message
+- **ID:** AI-L04
+- **Type:** Lesson
+- **Audience:** Public
+- **Theme:** Interpreting and challenging AI outputs
+:::
+
+AI can generate answers quickly.
+
+Speed, however, is not reliability.
+
+The critical skill is not only generating outputs, but **interrogating them**.
+
+---
+
+## The Core Principle
+
+> **Do not accept AI output at face value. Examine it.**
+
+Interrogation means actively evaluating:
+
+- what the output says  
+- how it is structured  
+- what it assumes  
+- what it omits  
+
+---
+
+## Why Interrogation Is Necessary
+
+AI does not:
+
+- verify truth in real time  
+- understand your full context  
+- take responsibility for decisions  
+
+It generates plausible responses based on patterns.
+
+This means outputs can be:
+
+- partially correct  
+- incomplete  
+- misleading  
+- overconfident  
+
+---
+
+## The Risk of Passive Use
+
+If you simply read and accept:
+
+- errors go unnoticed  
+- assumptions remain hidden  
+- weak reasoning passes through  
+
+This leads to:
+
+- poor analysis  
+- weak communication  
+- indefensible conclusions  
+
+---
+
+## The CDI Approach
+
+Interrogation is part of **interpretation discipline**.
+
+You move from:
+
+**Output → Examination → Understanding → Decision**
+
+---
+
+## Key Questions to Ask
+
+After receiving an AI response, ask:
+
+### 1. What is being claimed?
+- What is the main point?
+- Is it descriptive, explanatory, or prescriptive?
+
+---
+
+### 2. What assumptions are present?
+- What is taken for granted?
+- Are there hidden conditions?
+
+---
+
+### 3. What is missing?
+- Are alternative explanations considered?
+- Is context ignored?
+
+---
+
+### 4. Is this aligned with my position?
+- Does it address your actual problem?
+- Or has the direction drifted?
+
+---
+
+### 5. Can I explain this myself?
+- Do you understand it well enough to restate it?
+- Would you defend it if questioned?
+
+---
+
+## Example
+
+### AI Output
+“Feature X strongly predicts outcome Y.”
+
+### Interrogation
+- What does “strongly” mean?
+- Is this correlation or causation?
+- What data conditions apply?
+- Are there confounders?
+
+---
+
+## Strengthening the Output
+
+Interrogation is not only critical.
+
+It is constructive.
+
+You can ask AI to improve its own response:
+
+- “What assumptions did you make?”  
+- “What could make this incorrect?”  
+- “What alternative explanations exist?”  
+- “Clarify this step more precisely.”  
+
+This turns AI into a refinement tool.
+
+---
+
+## Avoiding Overconfidence
+
+AI outputs often sound confident.
+
+Confidence is not evidence.
+
+A well-written response can still be:
+
+- incomplete  
+- incorrect  
+- misapplied  
+
+Your role is to separate clarity from correctness.
+
+---
+
+## Iterative Interrogation
+
+This process may repeat:
+
+1. Receive output  
+2. Question it  
+3. Refine the prompt  
+4. Receive improved output  
+
+Each iteration improves:
+
+- clarity  
+- depth  
+- reliability  
+
+---
+
+## Common Mistake: Accepting Fluency as Accuracy
+
+Fluent language can create false trust.
+
+A clear explanation does not guarantee:
+
+- correctness  
+- completeness  
+- applicability  
+
+Always separate:
+
+- how it sounds  
+- from what it actually means  
+
+---
+
+## From Output to Understanding
+
+Interrogation bridges the gap between:
+
+- reading an answer  
+- understanding a concept  
+
+Without interrogation, outputs remain external.
+
+With interrogation, they become internalized.
+
+---
+
+## Key Insight
+
+AI gives you answers.
+
+Interrogation turns them into understanding.
+
+> **The value is not in receiving the output, but in examining it.**
+
+---
+
+## Takeaway
+
+- Do not accept outputs passively  
+- Question assumptions and gaps  
+- Align results with your position  
+- Refine until you understand  
+
+This is how outputs become:
+
+- meaningful  
+- reliable  
+- defensible  

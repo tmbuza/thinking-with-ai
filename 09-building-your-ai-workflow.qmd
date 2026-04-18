@@ -1,0 +1,196 @@
+# Building Your AI Workflow
+
+:::cdi-message
+- **ID:** AI-L09
+- **Type:** Lesson
+- **Audience:** Public
+- **Theme:** Designing a personal AI workflow
+:::
+
+Up to this point, you have learned how to:
+
+- start with a position  
+- use AI to extend thinking  
+- interrogate outputs  
+- make results defensible  
+- apply AI in real workflows  
+
+The next step is to **build your own workflow**.
+
+---
+
+## The Core Principle
+
+> **Do not use AI randomly. Use it within a defined workflow.**
+
+A workflow gives you:
+
+- consistency  
+- clarity  
+- control  
+
+---
+
+## What Is an AI Workflow?
+
+An AI workflow is a structured way of working where:
+
+- each step has a purpose  
+- AI is used intentionally  
+- human judgment remains central  
+
+---
+
+## The CDI Workflow Model
+
+You can use this simple structure:
+
+### 1. Define Position
+- What is the problem?
+- What do you think?
+- What do you want to achieve?
+
+---
+
+### 2. Use AI to Extend
+- Generate ideas  
+- Structure approach  
+- Identify gaps  
+
+---
+
+### 3. Interrogate Output
+- What assumptions are present?
+- What is missing?
+- Is it aligned with your position?
+
+---
+
+### 4. Make It Defensible
+- Rewrite in your own words  
+- Justify reasoning  
+- Add limitations  
+
+---
+
+### 5. Decide and Act
+- Make a decision  
+- Implement  
+- Communicate  
+
+---
+
+## Visual Summary
+
+**Position → AI → Interrogate → Defensible → Decide**
+
+---
+
+## Adapting to Your Work
+
+Your workflow may vary depending on your domain.
+
+### Analysis
+- Position → AI (methods) → Test → Interpret → Decide  
+
+### Writing
+- Position → AI (structure) → Draft → Refine → Finalize  
+
+### Decision-making
+- Position → AI (options) → Evaluate → Decide  
+
+---
+
+## Keep It Simple
+
+A workflow does not need to be complex.
+
+Even this is enough:
+
+1. Start with a position  
+2. Use AI  
+3. Question the output  
+4. Make it your own  
+5. Act  
+
+---
+
+## Iteration Matters
+
+Your workflow is not static.
+
+It improves over time.
+
+After each use, reflect:
+
+- What worked?
+- What was unclear?
+- What can be improved?
+
+Then adjust.
+
+---
+
+## Common Mistake: No Workflow
+
+Without a workflow:
+
+- AI is used inconsistently  
+- results vary  
+- reasoning becomes fragmented  
+
+---
+
+## Common Mistake: Over-Complex Workflow
+
+Too many steps can:
+
+- slow you down  
+- reduce clarity  
+
+Balance is important.
+
+---
+
+## Personalizing Your Workflow
+
+Your workflow should reflect:
+
+- your type of work  
+- your level of expertise  
+- your goals  
+
+It should be:
+
+- practical  
+- repeatable  
+- adaptable  
+
+---
+
+## Key Insight
+
+A workflow turns:
+
+- random interaction  
+
+into:
+
+- structured reasoning  
+
+> **Consistency in process leads to consistency in results.**
+
+---
+
+## Takeaway
+
+- Build a simple, structured workflow  
+- Keep AI within that workflow  
+- Maintain human control  
+- Improve over time  
+
+This is how AI use becomes:
+
+- systematic  
+- reliable  
+- aligned with real work

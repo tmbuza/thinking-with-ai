@@ -1,0 +1,222 @@
+# AI in Real Workflows
+
+:::cdi-message
+- **ID:** AI-L08
+- **Type:** Lesson
+- **Audience:** Public
+- **Theme:** Applying AI in real-world work
+:::
+
+AI becomes valuable when it is used within real workflows.
+
+This means integrating it into how work is actually done:
+
+- analysis  
+- writing  
+- decision-making  
+- system building  
+
+---
+
+## The Core Principle
+
+> **AI should support workflows, not replace them.**
+
+It fits into existing processes.
+
+It does not eliminate the need for structure.
+
+---
+
+## Workflow 1 — Analysis
+
+### Typical Process
+- define the problem  
+- explore data  
+- test ideas  
+- interpret results  
+
+### Where AI Fits
+
+**Start with a position**
+> “I want to test whether variable X explains outcome Y.”
+
+**Use AI to:**
+- suggest analytical approaches  
+- identify potential pitfalls  
+- structure steps  
+
+**Return to human**
+- validate methods  
+- interpret results  
+- make conclusions  
+
+---
+
+## Workflow 2 — Writing
+
+### Typical Process
+- define message  
+- structure content  
+- draft  
+- refine  
+
+### Where AI Fits
+
+**Start with a position**
+> “I want to explain this concept clearly for beginners.”
+
+**Use AI to:**
+- outline structure  
+- improve clarity  
+- suggest phrasing  
+
+**Return to human**
+- ensure accuracy  
+- align tone  
+- take ownership of message  
+
+---
+
+## Workflow 3 — Decision-Making
+
+### Typical Process
+- define decision context  
+- evaluate options  
+- assess risks  
+- decide  
+
+### Where AI Fits
+
+**Start with a position**
+> “I need to compare these two approaches and assess trade-offs.”
+
+**Use AI to:**
+- list considerations  
+- identify risks  
+- compare scenarios  
+
+**Return to human**
+- weigh priorities  
+- consider context  
+- make final decision  
+
+---
+
+## Workflow 4 — System Building
+
+### Typical Process
+- define goal  
+- design components  
+- implement  
+- test and refine  
+
+### Where AI Fits
+
+**Start with a position**
+> “I want to build a reproducible pipeline for this process.”
+
+**Use AI to:**
+- outline architecture  
+- suggest implementation steps  
+- identify improvements  
+
+**Return to human**
+- validate design  
+- test system  
+- ensure reliability  
+
+---
+
+## The Consistent Pattern
+
+Across all workflows:
+
+1. **Human defines direction**
+2. **AI extends thinking**
+3. **Human evaluates and decides**
+
+This is the same:
+
+**Human → AI → Human**
+
+---
+
+## What Changes Across Workflows
+
+The role of AI varies:
+
+- In analysis → supports reasoning  
+- In writing → supports communication  
+- In decisions → supports evaluation  
+- In systems → supports structure  
+
+But the responsibility remains the same.
+
+---
+
+## Common Mistake: Letting AI Lead the Workflow
+
+Some users:
+
+- start with AI  
+- follow its suggestions blindly  
+
+This leads to:
+
+- loss of direction  
+- inconsistent results  
+- weak outcomes  
+
+---
+
+## Maintaining Control
+
+To keep control:
+
+- define your position clearly  
+- guide the interaction  
+- question outputs  
+- validate before acting  
+
+---
+
+## Practical Integration
+
+You do not need to redesign your workflow.
+
+Instead:
+
+- insert AI at specific points  
+- use it for support  
+- keep core reasoning human-led  
+
+---
+
+## Key Insight
+
+AI is not a separate workflow.
+
+It is a component within your workflow.
+
+> **Its value depends on how you integrate it, not how often you use it.**
+
+---
+
+## Takeaway
+
+- Use AI within structured workflows  
+- Keep direction with you  
+- Return to human judgment  
+
+This ensures:
+
+- consistency  
+- reliability  
+- defensibility  
+
+AI becomes most useful when it is:
+
+- integrated  
+- controlled  
+- aligned with real work

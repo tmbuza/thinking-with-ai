@@ -1,0 +1,188 @@
+# Human → AI → Human Loop
+
+:::cdi-message
+- **ID:** AI-L02
+- **Type:** Lesson
+- **Audience:** Public
+- **Theme:** Human-AI reasoning loop
+:::
+
+Artificial intelligence is most effective when it is used within a structured reasoning process.
+
+This process can be summarized as:
+
+**Human → AI → Human**
+
+This is not a technical pipeline.
+
+It is a thinking framework.
+
+---
+
+## The Core Idea
+
+AI should sit between two stages of human thinking:
+
+1. You begin with direction  
+2. AI extends that direction  
+3. You return to evaluate and decide  
+
+This creates a loop, not a handoff.
+
+---
+
+## Stage 1 — Human (Start with Thinking)
+
+Before using AI, you define:
+
+- the problem  
+- your position  
+- your intent  
+
+This stage creates direction.
+
+Without it, the interaction becomes unfocused.
+
+Example:
+
+> “I want to test whether this pattern is meaningful or random.”
+
+---
+
+## Stage 2 — AI (Extend Thinking)
+
+AI supports your reasoning by:
+
+- expanding possibilities  
+- organizing structure  
+- identifying gaps  
+- challenging assumptions  
+
+However, AI does not take responsibility for correctness.
+
+It generates based on patterns, not accountability.
+
+---
+
+## Stage 3 — Human (Evaluate and Decide)
+
+You return to:
+
+- interpret the output  
+- assess its validity  
+- decide what to accept or reject  
+
+This is the most critical step.
+
+It ensures:
+
+- understanding  
+- ownership  
+- defensibility  
+
+---
+
+## Why This Loop Matters
+
+Without returning to the final human stage:
+
+- outputs remain unverified  
+- reasoning remains incomplete  
+- decisions become weak  
+
+With the loop:
+
+- thinking is extended, not replaced  
+- outputs are examined critically  
+- decisions remain grounded  
+
+---
+
+## Common Failure: Stopping at AI
+
+Many workflows look like this:
+
+**Human → AI → Stop**
+
+This leads to:
+
+- copy-paste outputs  
+- shallow understanding  
+- poor decision quality  
+
+The missing step is evaluation.
+
+---
+
+## Strengthening the Loop
+
+To use this loop effectively:
+
+After AI responds, ask:
+
+- Does this align with my position?
+- What assumptions are being made?
+- What is missing?
+- What would I change?
+
+Then refine.
+
+---
+
+## Loop, Not One-Time Use
+
+This is not a single pass.
+
+It can repeat:
+
+**Human → AI → Human → AI → Human**
+
+Each cycle improves:
+
+- clarity  
+- structure  
+- confidence  
+
+---
+
+## Real Example
+
+### Initial position
+> “I think this model may be overfitting.”
+
+### AI use
+Ask for:
+
+- possible causes  
+- diagnostic steps  
+
+### Return to human
+- evaluate suggestions  
+- test ideas  
+- refine conclusion  
+
+---
+
+## Key Insight
+
+AI is not the endpoint.
+
+It is part of the process.
+
+> The value comes from how you move through the loop, not from the output alone.
+
+---
+
+## Takeaway
+
+**Human → AI → Human is a reasoning loop.**
+
+- You start with thinking  
+- AI extends it  
+- You return to evaluate and decide  
+
+This keeps:
+
+- direction with you  
+- responsibility with you  
+- understanding with you  

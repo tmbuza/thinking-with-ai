@@ -1,0 +1,187 @@
+# From Output to Claims
+
+:::cdi-message
+- **ID:** AI-L06
+- **Type:** Lesson
+- **Audience:** Public
+- **Theme:** From AI outputs to defensible claims
+:::
+
+AI can generate outputs.
+
+But real work requires more than outputs.
+
+It requires **claims**.
+
+---
+
+## The Core Principle
+
+> **An output is not a claim. A claim is an interpreted and justified statement.**
+
+This distinction is critical.
+
+---
+
+## What Is a Claim?
+
+A claim is a statement you are willing to stand behind.
+
+It is:
+
+- interpreted  
+- contextualized  
+- justified  
+
+Example:
+
+### Output
+“Variable X is associated with outcome Y.”
+
+### Claim
+“Variable X appears to be associated with outcome Y in this dataset, but this does not imply causation and may be influenced by confounding factors.”
+
+---
+
+## Why This Matters
+
+Outputs are:
+
+- raw  
+- unexamined  
+- incomplete  
+
+Claims are:
+
+- refined  
+- bounded  
+- defensible  
+
+Without this transformation:
+
+- conclusions become overstated  
+- decisions become risky  
+- communication becomes misleading  
+
+---
+
+## The Transformation Process
+
+To move from output to claim:
+
+### 1. Interpret
+- What does this actually mean?
+
+### 2. Contextualize
+- Under what conditions does this apply?
+
+### 3. Qualify
+- What are the limitations?
+
+### 4. Justify
+- What supports this statement?
+
+---
+
+## Common Mistake: Treating Output as Truth
+
+AI outputs often sound complete.
+
+But they are not final conclusions.
+
+Mistakes include:
+
+- copying statements directly  
+- ignoring assumptions  
+- overstating certainty  
+
+---
+
+## Adding Qualification
+
+Strong claims include boundaries.
+
+Instead of:
+“This model is accurate.”
+
+Say:
+“This model shows high accuracy on this dataset, but performance may vary depending on data distribution.”
+
+---
+
+## Claim Calibration
+
+Not all claims carry the same strength.
+
+You should adjust:
+
+- confidence level  
+- language precision  
+- scope  
+
+Examples:
+
+- “suggests” instead of “proves”  
+- “may indicate” instead of “demonstrates”  
+
+---
+
+## Role of AI in Claim Formation
+
+AI can help you:
+
+- draft explanations  
+- suggest interpretations  
+- identify limitations  
+
+But it does not:
+
+- validate evidence  
+- take responsibility  
+- determine final claims  
+
+---
+
+## Testing Your Claim
+
+Before finalizing, ask:
+
+- Can I explain this clearly?
+- What evidence supports it?
+- What would weaken it?
+- Am I overstating certainty?
+
+---
+
+## Example
+
+### AI Output
+“This feature improves performance.”
+
+### Defensible Claim
+“This feature appears to improve performance in this dataset, but further validation is needed to confirm its effect across different conditions.”
+
+---
+
+## Key Insight
+
+Outputs inform.
+
+Claims commit.
+
+> **A claim is where responsibility begins.**
+
+---
+
+## Takeaway
+
+- Do not present outputs as conclusions  
+- Interpret and qualify before stating claims  
+- Adjust language to reflect evidence  
+- Take responsibility for what you state  
+
+This is how work becomes:
+
+- credible  
+- careful  
+- defensible  

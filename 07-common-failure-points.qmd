@@ -1,0 +1,244 @@
+# Common Failure Points
+
+:::cdi-message
+- **ID:** AI-L07
+- **Type:** Lesson
+- **Audience:** Public
+- **Theme:** Misuse of AI and how to correct it
+:::
+
+AI can be used well or poorly.
+
+Many failures do not come from the tool itself.
+
+They come from how it is used.
+
+This chapter highlights common failure points and how to correct them.
+
+---
+
+## The Core Principle
+
+> **Most AI mistakes are thinking mistakes, not tool mistakes.**
+
+---
+
+## Failure 1 — Starting Without a Position
+
+### What it looks like
+- “Explain this”
+- “Give me ideas”
+- “What should I do?”
+
+### Problem
+- No direction
+- Generic outputs
+- Weak engagement
+
+### Correction
+Start with:
+- a problem
+- a direction
+- a hypothesis
+
+---
+
+## Failure 2 — Treating AI as an Authority
+
+### What it looks like
+- Accepting outputs as correct
+- Not questioning results
+
+### Problem
+- Hidden errors
+- False confidence
+- Poor decisions
+
+### Correction
+Interrogate outputs:
+- What assumptions?
+- What is missing?
+- Is this valid?
+
+---
+
+## Failure 3 — Copy-Paste Without Understanding
+
+### What it looks like
+- Using outputs directly
+- Repeating explanations
+
+### Problem
+- No ownership
+- Cannot explain or defend
+- Fragile knowledge
+
+### Correction
+Rewrite and explain:
+- in your own words
+- with clear understanding
+
+---
+
+## Failure 4 — Confusing Fluency with Accuracy
+
+### What it looks like
+- Trusting well-written responses
+- Assuming clarity = correctness
+
+### Problem
+- Misleading conclusions
+- Overconfidence
+
+### Correction
+Separate:
+- how it sounds
+- from what it means
+
+---
+
+## Failure 5 — Over-Reliance on AI
+
+### What it looks like
+- Using AI for every step
+- Avoiding independent thinking
+
+### Problem
+- Reduced reasoning ability
+- Dependency on the tool
+
+### Correction
+Use AI selectively:
+- for extension
+- not replacement
+
+---
+
+## Failure 6 — Not Returning to Human Judgment
+
+### What it looks like
+- Human → AI → Stop
+
+### Problem
+- No evaluation
+- No decision ownership
+
+### Correction
+Complete the loop:
+
+**Human → AI → Human**
+
+---
+
+## Failure 7 — Overstating Claims
+
+### What it looks like
+- Presenting outputs as facts
+- Ignoring limitations
+
+### Problem
+- Misleading communication
+- Weak credibility
+
+### Correction
+Calibrate claims:
+- add context
+- state limitations
+- avoid overstatement
+
+---
+
+## Failure 8 — Over-Engineering Prompts
+
+### What it looks like
+- Complex templates
+- Long instructions without clarity
+
+### Problem
+- Adds complexity without direction
+
+### Correction
+Focus on:
+- clear position
+- simple structure
+
+---
+
+## Failure 9 — Ignoring Context
+
+### What it looks like
+- Generic prompts
+- Missing background information
+
+### Problem
+- Irrelevant outputs
+
+### Correction
+Provide context:
+- what you are doing
+- why it matters
+
+---
+
+## Failure 10 — Skipping Iteration
+
+### What it looks like
+- One prompt → final answer
+
+### Problem
+- Shallow results
+
+### Correction
+Iterate:
+- refine prompts
+- question outputs
+- improve results
+
+---
+
+## Recognizing Failure Early
+
+Ask yourself:
+
+- Did I start with a position?
+- Do I understand this output?
+- Can I explain and defend it?
+- Have I questioned assumptions?
+
+If not, revisit the process.
+
+---
+
+## Key Insight
+
+AI misuse is rarely about the tool.
+
+It is about:
+
+- lack of direction  
+- lack of questioning  
+- lack of ownership  
+
+> **Good AI use is structured thinking.**
+
+---
+
+## Takeaway
+
+Avoid:
+
+- passive use  
+- blind trust  
+- copy-paste behavior  
+
+Instead:
+
+- start with a position  
+- interrogate outputs  
+- make results defensible  
+
+This is how AI becomes:
+
+- useful  
+- reliable  
+- aligned with real work
