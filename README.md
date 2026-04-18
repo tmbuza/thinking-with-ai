@@ -81,7 +81,7 @@ This guide focuses on how to:
 
 ```bash
 git clone https://github.com/tmbuza/cdi-thinking-with-ai.git
-cd cdi-thinking-with-ai
+cd thinking-with-ai
 ```
 
 ```bash
