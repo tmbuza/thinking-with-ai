@@ -45,35 +45,35 @@ An AI workflow is a structured way of working where:
 
 You can use this simple structure:
 
-### 1. Define Position
+### Define Position
 - What is the problem?
 - What do you think?
 - What do you want to achieve?
 
 ---
 
-### 2. Use AI to Extend
+### Use AI to Extend
 - Generate ideas  
 - Structure approach  
 - Identify gaps  
 
 ---
 
-### 3. Interrogate Output
+### Interrogate Output
 - What assumptions are present?
 - What is missing?
 - Is it aligned with your position?
 
 ---
 
-### 4. Make It Defensible
+### Make It Defensible
 - Rewrite in your own words  
 - Justify reasoning  
 - Add limitations  
 
 ---
 
-### 5. Decide and Act
+### Decide and Act
 - Make a decision  
 - Implement  
 - Communicate  

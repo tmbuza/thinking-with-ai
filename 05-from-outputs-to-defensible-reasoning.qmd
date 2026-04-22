@@ -43,25 +43,25 @@ You must transform it into:
 
 An output becomes defensible when you can:
 
-### 1. Explain It
+### Explain It
 - What does it mean?
 - How does it work?
 
 ---
 
-### 2. Justify It
+### Justify It
 - Why is it valid?
 - What supports it?
 
 ---
 
-### 3. Bound It
+### Bound It
 - When does it apply?
 - When might it fail?
 
 ---
 
-### 4. Own It
+### Own It
 - Would you stand by it in a discussion?
 - Can you defend it without AI?
 

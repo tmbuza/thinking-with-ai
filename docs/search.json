@@ -174,7 +174,7 @@
     "href": "01-what-is-a-position.html#the-structure-of-a-position",
     "title": "3  What Is a Position?",
     "section": "3.5 The Structure of a Position",
-    "text": "3.5 The Structure of a Position\nA position does not need to be long.\nUsually, it contains at least one of the following:\n\n3.5.1 1. A problem\nWhat are you trying to solve?\nExample:\n\n“I need to determine whether this result is reliable enough to report.”\n\n\n\n3.5.2 2. A direction\nWhat are you trying to do?\nExample:\n\n“I want to convert this rough analysis into a clearer workflow.”\n\n\n\n3.5.3 3. A hypothesis\nWhat do you think may be true?\nExample:\n\n“I think the difference between groups may be driven by sampling imbalance.”\n\nA simple working formula is:\n\nPosition = Problem + Direction + (Optional) Hypothesis\n\nThis is not a strict rule.\nIt is a practical way to make your starting point clearer.",
+    "text": "3.5 The Structure of a Position\nA position does not need to be long.\nUsually, it contains at least one of the following:\n\n3.5.1 A problem\nWhat are you trying to solve?\nExample:\n\n“I need to determine whether this result is reliable enough to report.”\n\n\n\n3.5.2 A direction\nWhat are you trying to do?\nExample:\n\n“I want to convert this rough analysis into a clearer workflow.”\n\n\n\n3.5.3 A hypothesis\nWhat do you think may be true?\nExample:\n\n“I think the difference between groups may be driven by sampling imbalance.”\n\nA simple working formula is:\n\nPosition = Problem + Direction + (Optional) Hypothesis\n\nThis is not a strict rule.\nIt is a practical way to make your starting point clearer.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>What Is a Position?</span>"
     ]
@@ -584,7 +584,7 @@
     "href": "04-interrogating-ai-outputs.html#key-questions-to-ask",
     "title": "6  Interrogating AI Outputs",
     "section": "6.5 Key Questions to Ask",
-    "text": "6.5 Key Questions to Ask\nAfter receiving an AI response, ask:\n\n6.5.1 1. What is being claimed?\n\nWhat is the main point?\nIs it descriptive, explanatory, or prescriptive?\n\n\n\n\n6.5.2 2. What assumptions are present?\n\nWhat is taken for granted?\nAre there hidden conditions?\n\n\n\n\n6.5.3 3. What is missing?\n\nAre alternative explanations considered?\nIs context ignored?\n\n\n\n\n6.5.4 4. Is this aligned with my position?\n\nDoes it address your actual problem?\nOr has the direction drifted?\n\n\n\n\n6.5.5 5. Can I explain this myself?\n\nDo you understand it well enough to restate it?\nWould you defend it if questioned?",
+    "text": "6.5 Key Questions to Ask\nAfter receiving an AI response, ask:\n\n6.5.1 What is being claimed?\n\nWhat is the main point?\nIs it descriptive, explanatory, or prescriptive?\n\n\n\n\n6.5.2 What assumptions are present?\n\nWhat is taken for granted?\nAre there hidden conditions?\n\n\n\n\n6.5.3 What is missing?\n\nAre alternative explanations considered?\nIs context ignored?\n\n\n\n\n6.5.4 Is this aligned with my position?\n\nDoes it address your actual problem?\nOr has the direction drifted?\n\n\n\n\n6.5.5 Can I explain this myself?\n\nDo you understand it well enough to restate it?\nWould you defend it if questioned?",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interrogating AI Outputs</span>"
     ]
@@ -704,7 +704,7 @@
     "href": "05-from-outputs-to-defensible-reasoning.html#what-makes-an-output-defensible",
     "title": "7  Making Outputs Defensible",
     "section": "7.3 What Makes an Output Defensible?",
-    "text": "7.3 What Makes an Output Defensible?\nAn output becomes defensible when you can:\n\n7.3.1 1. Explain It\n\nWhat does it mean?\nHow does it work?\n\n\n\n\n7.3.2 2. Justify It\n\nWhy is it valid?\nWhat supports it?\n\n\n\n\n7.3.3 3. Bound It\n\nWhen does it apply?\nWhen might it fail?\n\n\n\n\n7.3.4 4. Own It\n\nWould you stand by it in a discussion?\nCan you defend it without AI?",
+    "text": "7.3 What Makes an Output Defensible?\nAn output becomes defensible when you can:\n\n7.3.1 Explain It\n\nWhat does it mean?\nHow does it work?\n\n\n\n\n7.3.2 Justify It\n\nWhy is it valid?\nWhat supports it?\n\n\n\n\n7.3.3 Bound It\n\nWhen does it apply?\nWhen might it fail?\n\n\n\n\n7.3.4 Own It\n\nWould you stand by it in a discussion?\nCan you defend it without AI?",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Making Outputs Defensible</span>"
     ]
@@ -864,7 +864,7 @@
     "href": "06-from-reasoning-to-defensible-claims.html#the-transformation-process",
     "title": "8  From Output to Claims",
     "section": "8.4 The Transformation Process",
-    "text": "8.4 The Transformation Process\nTo move from output to claim:\n\n8.4.1 1. Interpret\n\nWhat does this actually mean?\n\n\n\n8.4.2 2. Contextualize\n\nUnder what conditions does this apply?\n\n\n\n8.4.3 3. Qualify\n\nWhat are the limitations?\n\n\n\n8.4.4 4. Justify\n\nWhat supports this statement?",
+    "text": "8.4 The Transformation Process\nTo move from output to claim:\n\n8.4.1 Interpret\n\nWhat does this actually mean?\n\n\n\n8.4.2 Contextualize\n\nUnder what conditions does this apply?\n\n\n\n8.4.3 Qualify\n\nWhat are the limitations?\n\n\n\n8.4.4 Justify\n\nWhat supports this statement?",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>From Output to Claims</span>"
     ]
@@ -1264,7 +1264,7 @@
     "href": "09-building-your-ai-workflow.html#the-cdi-workflow-model",
     "title": "11  Building Your AI Workflow",
     "section": "11.3 The CDI Workflow Model",
-    "text": "11.3 The CDI Workflow Model\nYou can use this simple structure:\n\n11.3.1 1. Define Position\n\nWhat is the problem?\nWhat do you think?\nWhat do you want to achieve?\n\n\n\n\n11.3.2 2. Use AI to Extend\n\nGenerate ideas\n\nStructure approach\n\nIdentify gaps\n\n\n\n\n11.3.3 3. Interrogate Output\n\nWhat assumptions are present?\nWhat is missing?\nIs it aligned with your position?\n\n\n\n\n11.3.4 4. Make It Defensible\n\nRewrite in your own words\n\nJustify reasoning\n\nAdd limitations\n\n\n\n\n11.3.5 5. Decide and Act\n\nMake a decision\n\nImplement\n\nCommunicate",
+    "text": "11.3 The CDI Workflow Model\nYou can use this simple structure:\n\n11.3.1 Define Position\n\nWhat is the problem?\nWhat do you think?\nWhat do you want to achieve?\n\n\n\n\n11.3.2 Use AI to Extend\n\nGenerate ideas\n\nStructure approach\n\nIdentify gaps\n\n\n\n\n11.3.3 Interrogate Output\n\nWhat assumptions are present?\nWhat is missing?\nIs it aligned with your position?\n\n\n\n\n11.3.4 Make It Defensible\n\nRewrite in your own words\n\nJustify reasoning\n\nAdd limitations\n\n\n\n\n11.3.5 Decide and Act\n\nMake a decision\n\nImplement\n\nCommunicate",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Building Your AI Workflow</span>"
     ]
@@ -1374,7 +1374,7 @@
     "href": "10-summary-and-next-steps.html#what-you-have-learned",
     "title": "12  Summary and Next Steps",
     "section": "",
-    "text": "12.1.1 1. Start with a Position\n\nDefine your problem\n\nState your thinking\n\nSet direction\n\n\n\n\n12.1.2 2. Use AI to Extend Thinking\n\nExpand ideas\n\nStructure workflows\n\nChallenge assumptions\n\n\n\n\n12.1.3 3. Interrogate Outputs\n\nQuestion claims\n\nIdentify assumptions\n\nLook for gaps\n\n\n\n\n12.1.4 4. Make Outputs Defensible\n\nUnderstand clearly\n\nJustify reasoning\n\nDefine limitations\n\n\n\n\n12.1.5 5. Move from Outputs to Claims\n\nInterpret carefully\n\nCalibrate language\n\nTake responsibility\n\n\n\n\n12.1.6 6. Apply in Real Workflows\n\nAnalysis\n\nWriting\n\nDecision-making\n\nSystem building\n\n\n\n\n12.1.7 7. Build Your Own Workflow\n\nKeep it simple\n\nKeep it consistent\n\nImprove over time",
+    "text": "12.1.1 Start with a Position\n\nDefine your problem\n\nState your thinking\n\nSet direction\n\n\n\n\n12.1.2 Use AI to Extend Thinking\n\nExpand ideas\n\nStructure workflows\n\nChallenge assumptions\n\n\n\n\n12.1.3 Interrogate Outputs\n\nQuestion claims\n\nIdentify assumptions\n\nLook for gaps\n\n\n\n\n12.1.4 Make Outputs Defensible\n\nUnderstand clearly\n\nJustify reasoning\n\nDefine limitations\n\n\n\n\n12.1.5 Move from Outputs to Claims\n\nInterpret carefully\n\nCalibrate language\n\nTake responsibility\n\n\n\n\n12.1.6 Apply in Real Workflows\n\nAnalysis\n\nWriting\n\nDecision-making\n\nSystem building\n\n\n\n\n12.1.7 Build Your Own Workflow\n\nKeep it simple\n\nKeep it consistent\n\nImprove over time",
     "crumbs": [
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary and Next Steps</span>"
     ]

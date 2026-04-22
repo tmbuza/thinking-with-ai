@@ -131,21 +131,21 @@ A position does not need to be long.
 
 Usually, it contains at least one of the following:
 
-### 1. A problem
+### A problem
 What are you trying to solve?
 
 Example:
 
 > “I need to determine whether this result is reliable enough to report.”
 
-### 2. A direction
+### A direction
 What are you trying to do?
 
 Example:
 
 > “I want to convert this rough analysis into a clearer workflow.”
 
-### 3. A hypothesis
+### A hypothesis
 What do you think may be true?
 
 Example:

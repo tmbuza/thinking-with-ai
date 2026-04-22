@@ -77,31 +77,31 @@ You move from:
 
 After receiving an AI response, ask:
 
-### 1. What is being claimed?
+### What is being claimed?
 - What is the main point?
 - Is it descriptive, explanatory, or prescriptive?
 
 ---
 
-### 2. What assumptions are present?
+### What assumptions are present?
 - What is taken for granted?
 - Are there hidden conditions?
 
 ---
 
-### 3. What is missing?
+### What is missing?
 - Are alternative explanations considered?
 - Is context ignored?
 
 ---
 
-### 4. Is this aligned with my position?
+### Is this aligned with my position?
 - Does it address your actual problem?
 - Or has the direction drifted?
 
 ---
 
-### 5. Can I explain this myself?
+### Can I explain this myself?
 - Do you understand it well enough to restate it?
 - Would you defend it if questioned?
 

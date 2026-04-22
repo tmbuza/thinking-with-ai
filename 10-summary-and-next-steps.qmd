@@ -19,42 +19,42 @@ But as a system that **extends thinking**.
 
 Across this guide, a consistent pattern emerged.
 
-### 1. Start with a Position
+### Start with a Position
 - Define your problem  
 - State your thinking  
 - Set direction  
 
 ---
 
-### 2. Use AI to Extend Thinking
+### Use AI to Extend Thinking
 - Expand ideas  
 - Structure workflows  
 - Challenge assumptions  
 
 ---
 
-### 3. Interrogate Outputs
+### Interrogate Outputs
 - Question claims  
 - Identify assumptions  
 - Look for gaps  
 
 ---
 
-### 4. Make Outputs Defensible
+### Make Outputs Defensible
 - Understand clearly  
 - Justify reasoning  
 - Define limitations  
 
 ---
 
-### 5. Move from Outputs to Claims
+### Move from Outputs to Claims
 - Interpret carefully  
 - Calibrate language  
 - Take responsibility  
 
 ---
 
-### 6. Apply in Real Workflows
+### Apply in Real Workflows
 - Analysis  
 - Writing  
 - Decision-making  
@@ -62,7 +62,7 @@ Across this guide, a consistent pattern emerged.
 
 ---
 
-### 7. Build Your Own Workflow
+### Build Your Own Workflow
 - Keep it simple  
 - Keep it consistent  
 - Improve over time  
