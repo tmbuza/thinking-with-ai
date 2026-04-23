@@ -16,6 +16,7 @@ You will increasingly hear people say:
 At first glance, this sounds reasonable.
 
 But it reflects a deeper misunderstanding:
+
 - confusing the **tool** with the **truth**
 - confusing **generation** with **verification**
 
@@ -60,12 +61,14 @@ AI represents the same kind of transition:
 > Thinking support is moving from manual → AI-assisted
 
 AI can:
+
 - generate ideas  
 - structure information  
 - accelerate workflows  
 - reduce repetitive effort  
 
 But it does not:
+
 - guarantee correctness  
 - understand context fully  
 - take responsibility for outcomes  
