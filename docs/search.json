@@ -432,7 +432,7 @@
     "href": "03-ai-as-a-tool.html",
     "title": "AI as a Tool",
     "section": "",
-    "text": "The Misunderstanding\nYou will increasingly hear people say:\nAt first glance, this sounds reasonable.\nBut it reflects a deeper misunderstanding: - confusing the tool with the truth - confusing generation with verification",
+    "text": "The Misunderstanding\nYou will increasingly hear people say:\nAt first glance, this sounds reasonable.\nBut it reflects a deeper misunderstanding:",
     "crumbs": [
       "Foundations",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>AI as a Tool</span>"
@@ -443,7 +443,7 @@
     "href": "03-ai-as-a-tool.html#the-misunderstanding",
     "title": "AI as a Tool",
     "section": "",
-    "text": "“That’s not true… it’s AI.”",
+    "text": "“That’s not true… it’s AI.”\n\n\n\n\nconfusing the tool with the truth\nconfusing generation with verification",
     "crumbs": [
       "Foundations",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>AI as a Tool</span>"
@@ -476,7 +476,7 @@
     "href": "03-ai-as-a-tool.html#the-ai-shift",
     "title": "AI as a Tool",
     "section": "The AI Shift",
-    "text": "The AI Shift\nAI represents the same kind of transition:\n\nThinking support is moving from manual → AI-assisted\n\nAI can: - generate ideas\n- structure information\n- accelerate workflows\n- reduce repetitive effort\nBut it does not: - guarantee correctness\n- understand context fully\n- take responsibility for outcomes",
+    "text": "The AI Shift\nAI represents the same kind of transition:\n\nThinking support is moving from manual → AI-assisted\n\nAI can:\n\ngenerate ideas\n\nstructure information\n\naccelerate workflows\n\nreduce repetitive effort\n\nBut it does not:\n\nguarantee correctness\n\nunderstand context fully\n\ntake responsibility for outcomes",
     "crumbs": [
       "Foundations",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>AI as a Tool</span>"
