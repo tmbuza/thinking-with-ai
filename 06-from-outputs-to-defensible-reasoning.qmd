@@ -1,7 +1,7 @@
 # Making Outputs Defensible
 
 :::cdi-message
-- **ID:** AI-L05
+- **ID:** AI-L06
 - **Type:** Lesson
 - **Audience:** Public
 - **Theme:** From AI output to defensible reasoning

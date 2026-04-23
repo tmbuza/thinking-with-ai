@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Thinking with AI</title>
+<title>Building Your AI Workflow – Thinking with AI</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,7 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./00-preface.html" rel="next">
+<link href="./11-summary-and-next-steps.html" rel="next">
+<link href="./09-ai-in-real-workflows.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -73,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="assets/css/cdi.css">
 </head>
 
-<body class="nav-sidebar floating front-page quarto-light">
+<body class="nav-sidebar floating quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -82,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html"><span class="chapter-title">index.html</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./08-common-failure-points.html">Application &amp; Practice</a></li><li class="breadcrumb-item"><a href="./10-building-your-ai-workflow.html"><span class="chapter-title">Building Your AI Workflow</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -109,7 +110,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">index.html</span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">index.html</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -196,7 +197,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./10-building-your-ai-workflow.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Building Your AI Workflow</span></a>
+  <a href="./10-building-your-ai-workflow.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Building Your AI Workflow</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -216,17 +217,39 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section"></a></li>
+  <li><a href="#the-core-principle" id="toc-the-core-principle" class="nav-link active" data-scroll-target="#the-core-principle">The Core Principle</a></li>
+  <li><a href="#what-is-an-ai-workflow" id="toc-what-is-an-ai-workflow" class="nav-link" data-scroll-target="#what-is-an-ai-workflow">What Is an AI Workflow?</a></li>
+  <li><a href="#the-cdi-workflow-model" id="toc-the-cdi-workflow-model" class="nav-link" data-scroll-target="#the-cdi-workflow-model">The CDI Workflow Model</a>
+  <ul class="collapse">
+  <li><a href="#define-position" id="toc-define-position" class="nav-link" data-scroll-target="#define-position">Define Position</a></li>
+  <li><a href="#use-ai-to-extend" id="toc-use-ai-to-extend" class="nav-link" data-scroll-target="#use-ai-to-extend">Use AI to Extend</a></li>
+  <li><a href="#interrogate-output" id="toc-interrogate-output" class="nav-link" data-scroll-target="#interrogate-output">Interrogate Output</a></li>
+  <li><a href="#make-it-defensible" id="toc-make-it-defensible" class="nav-link" data-scroll-target="#make-it-defensible">Make It Defensible</a></li>
+  <li><a href="#decide-and-act" id="toc-decide-and-act" class="nav-link" data-scroll-target="#decide-and-act">Decide and Act</a></li>
+  </ul></li>
+  <li><a href="#visual-summary" id="toc-visual-summary" class="nav-link" data-scroll-target="#visual-summary">Visual Summary</a></li>
+  <li><a href="#adapting-to-your-work" id="toc-adapting-to-your-work" class="nav-link" data-scroll-target="#adapting-to-your-work">Adapting to Your Work</a>
+  <ul class="collapse">
+  <li><a href="#analysis" id="toc-analysis" class="nav-link" data-scroll-target="#analysis">Analysis</a></li>
+  <li><a href="#writing" id="toc-writing" class="nav-link" data-scroll-target="#writing">Writing</a></li>
+  <li><a href="#decision-making" id="toc-decision-making" class="nav-link" data-scroll-target="#decision-making">Decision-making</a></li>
+  </ul></li>
+  <li><a href="#keep-it-simple" id="toc-keep-it-simple" class="nav-link" data-scroll-target="#keep-it-simple">Keep It Simple</a></li>
+  <li><a href="#iteration-matters" id="toc-iteration-matters" class="nav-link" data-scroll-target="#iteration-matters">Iteration Matters</a></li>
+  <li><a href="#common-mistake-no-workflow" id="toc-common-mistake-no-workflow" class="nav-link" data-scroll-target="#common-mistake-no-workflow">Common Mistake: No Workflow</a></li>
+  <li><a href="#common-mistake-over-complex-workflow" id="toc-common-mistake-over-complex-workflow" class="nav-link" data-scroll-target="#common-mistake-over-complex-workflow">Common Mistake: Over-Complex Workflow</a></li>
+  <li><a href="#personalizing-your-workflow" id="toc-personalizing-your-workflow" class="nav-link" data-scroll-target="#personalizing-your-workflow">Personalizing Your Workflow</a></li>
+  <li><a href="#key-insight" id="toc-key-insight" class="nav-link" data-scroll-target="#key-insight">Key Insight</a></li>
+  <li><a href="#takeaway" id="toc-takeaway" class="nav-link" data-scroll-target="#takeaway">Takeaway</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./08-common-failure-points.html">Application &amp; Practice</a></li><li class="breadcrumb-item"><a href="./10-building-your-ai-workflow.html"><span class="chapter-title">Building Your AI Workflow</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Thinking with AI</h1>
-<p class="subtitle lead">A human-first guide to using AI for real work and defensible decisions</p>
+<h1 class="title"><span class="chapter-title">Building Your AI Workflow</span></h1>
 </div>
 
 
@@ -243,14 +266,245 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="section" class="level1 unnumbered">
-<h1 class="unnumbered"></h1>
-<div style="text-align: center; margin-top: 1.5em;">
-<p><img src="assets/images/cover/thinking-with-ai-cover.png" width="75%"></p>
+<div class="cdi-message">
+<ul>
+<li><strong>ID:</strong> AI-L09</li>
+<li><strong>Type:</strong> Lesson</li>
+<li><strong>Audience:</strong> Public</li>
+<li><strong>Theme:</strong> Designing a personal AI workflow</li>
+</ul>
 </div>
-<div style="text-align: center; font-style: normal; margin-top: 1em;">
-<p>Human-AI-Guide · Updated Apr 2026</p>
-</div>
+<p>Up to this point, you have learned how to:</p>
+<ul>
+<li>start with a position<br>
+</li>
+<li>use AI to extend thinking<br>
+</li>
+<li>interrogate outputs<br>
+</li>
+<li>make results defensible<br>
+</li>
+<li>apply AI in real workflows</li>
+</ul>
+<p>The next step is to <strong>build your own workflow</strong>.</p>
+<hr>
+<section id="the-core-principle" class="level2">
+<h2 class="anchored" data-anchor-id="the-core-principle">The Core Principle</h2>
+<blockquote class="blockquote">
+<p><strong>Do not use AI randomly. Use it within a defined workflow.</strong></p>
+</blockquote>
+<p>A workflow gives you:</p>
+<ul>
+<li>consistency<br>
+</li>
+<li>clarity<br>
+</li>
+<li>control</li>
+</ul>
+<hr>
+</section>
+<section id="what-is-an-ai-workflow" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-an-ai-workflow">What Is an AI Workflow?</h2>
+<p>An AI workflow is a structured way of working where:</p>
+<ul>
+<li>each step has a purpose<br>
+</li>
+<li>AI is used intentionally<br>
+</li>
+<li>human judgment remains central</li>
+</ul>
+<hr>
+</section>
+<section id="the-cdi-workflow-model" class="level2">
+<h2 class="anchored" data-anchor-id="the-cdi-workflow-model">The CDI Workflow Model</h2>
+<p>You can use this simple structure:</p>
+<section id="define-position" class="level3">
+<h3 class="anchored" data-anchor-id="define-position">Define Position</h3>
+<ul>
+<li>What is the problem?</li>
+<li>What do you think?</li>
+<li>What do you want to achieve?</li>
+</ul>
+<hr>
+</section>
+<section id="use-ai-to-extend" class="level3">
+<h3 class="anchored" data-anchor-id="use-ai-to-extend">Use AI to Extend</h3>
+<ul>
+<li>Generate ideas<br>
+</li>
+<li>Structure approach<br>
+</li>
+<li>Identify gaps</li>
+</ul>
+<hr>
+</section>
+<section id="interrogate-output" class="level3">
+<h3 class="anchored" data-anchor-id="interrogate-output">Interrogate Output</h3>
+<ul>
+<li>What assumptions are present?</li>
+<li>What is missing?</li>
+<li>Is it aligned with your position?</li>
+</ul>
+<hr>
+</section>
+<section id="make-it-defensible" class="level3">
+<h3 class="anchored" data-anchor-id="make-it-defensible">Make It Defensible</h3>
+<ul>
+<li>Rewrite in your own words<br>
+</li>
+<li>Justify reasoning<br>
+</li>
+<li>Add limitations</li>
+</ul>
+<hr>
+</section>
+<section id="decide-and-act" class="level3">
+<h3 class="anchored" data-anchor-id="decide-and-act">Decide and Act</h3>
+<ul>
+<li>Make a decision<br>
+</li>
+<li>Implement<br>
+</li>
+<li>Communicate</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="visual-summary" class="level2">
+<h2 class="anchored" data-anchor-id="visual-summary">Visual Summary</h2>
+<p><strong>Position → AI → Interrogate → Defensible → Decide</strong></p>
+<hr>
+</section>
+<section id="adapting-to-your-work" class="level2">
+<h2 class="anchored" data-anchor-id="adapting-to-your-work">Adapting to Your Work</h2>
+<p>Your workflow may vary depending on your domain.</p>
+<section id="analysis" class="level3">
+<h3 class="anchored" data-anchor-id="analysis">Analysis</h3>
+<ul>
+<li>Position → AI (methods) → Test → Interpret → Decide</li>
+</ul>
+</section>
+<section id="writing" class="level3">
+<h3 class="anchored" data-anchor-id="writing">Writing</h3>
+<ul>
+<li>Position → AI (structure) → Draft → Refine → Finalize</li>
+</ul>
+</section>
+<section id="decision-making" class="level3">
+<h3 class="anchored" data-anchor-id="decision-making">Decision-making</h3>
+<ul>
+<li>Position → AI (options) → Evaluate → Decide</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="keep-it-simple" class="level2">
+<h2 class="anchored" data-anchor-id="keep-it-simple">Keep It Simple</h2>
+<p>A workflow does not need to be complex.</p>
+<p>Even this is enough:</p>
+<ol type="1">
+<li>Start with a position<br>
+</li>
+<li>Use AI<br>
+</li>
+<li>Question the output<br>
+</li>
+<li>Make it your own<br>
+</li>
+<li>Act</li>
+</ol>
+<hr>
+</section>
+<section id="iteration-matters" class="level2">
+<h2 class="anchored" data-anchor-id="iteration-matters">Iteration Matters</h2>
+<p>Your workflow is not static.</p>
+<p>It improves over time.</p>
+<p>After each use, reflect:</p>
+<ul>
+<li>What worked?</li>
+<li>What was unclear?</li>
+<li>What can be improved?</li>
+</ul>
+<p>Then adjust.</p>
+<hr>
+</section>
+<section id="common-mistake-no-workflow" class="level2">
+<h2 class="anchored" data-anchor-id="common-mistake-no-workflow">Common Mistake: No Workflow</h2>
+<p>Without a workflow:</p>
+<ul>
+<li>AI is used inconsistently<br>
+</li>
+<li>results vary<br>
+</li>
+<li>reasoning becomes fragmented</li>
+</ul>
+<hr>
+</section>
+<section id="common-mistake-over-complex-workflow" class="level2">
+<h2 class="anchored" data-anchor-id="common-mistake-over-complex-workflow">Common Mistake: Over-Complex Workflow</h2>
+<p>Too many steps can:</p>
+<ul>
+<li>slow you down<br>
+</li>
+<li>reduce clarity</li>
+</ul>
+<p>Balance is important.</p>
+<hr>
+</section>
+<section id="personalizing-your-workflow" class="level2">
+<h2 class="anchored" data-anchor-id="personalizing-your-workflow">Personalizing Your Workflow</h2>
+<p>Your workflow should reflect:</p>
+<ul>
+<li>your type of work<br>
+</li>
+<li>your level of expertise<br>
+</li>
+<li>your goals</li>
+</ul>
+<p>It should be:</p>
+<ul>
+<li>practical<br>
+</li>
+<li>repeatable<br>
+</li>
+<li>adaptable</li>
+</ul>
+<hr>
+</section>
+<section id="key-insight" class="level2">
+<h2 class="anchored" data-anchor-id="key-insight">Key Insight</h2>
+<p>A workflow turns:</p>
+<ul>
+<li>random interaction</li>
+</ul>
+<p>into:</p>
+<ul>
+<li>structured reasoning</li>
+</ul>
+<blockquote class="blockquote">
+<p><strong>Consistency in process leads to consistency in results.</strong></p>
+</blockquote>
+<hr>
+</section>
+<section id="takeaway" class="level2">
+<h2 class="anchored" data-anchor-id="takeaway">Takeaway</h2>
+<ul>
+<li>Build a simple, structured workflow<br>
+</li>
+<li>Keep AI within that workflow<br>
+</li>
+<li>Maintain human control<br>
+</li>
+<li>Improve over time</li>
+</ul>
+<p>This is how AI use becomes:</p>
+<ul>
+<li>systematic<br>
+</li>
+<li>reliable<br>
+</li>
+<li>aligned with real work</li>
+</ul>
 
 
 </section>
@@ -657,10 +911,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./09-ai-in-real-workflows.html" class="pagination-link" aria-label="AI in Real Workflows">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">AI in Real Workflows</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./00-preface.html" class="pagination-link" aria-label="Preface">
-        <span class="nav-page-text">Preface</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./11-summary-and-next-steps.html" class="pagination-link" aria-label="Summary and Next Steps">
+        <span class="nav-page-text"><span class="chapter-title">Summary and Next Steps</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>10&nbsp; AI in Real Workflows – Thinking with AI</title>
+<title>Interrogating AI Outputs – Thinking with AI</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./09-building-your-ai-workflow.html" rel="next">
-<link href="./07-common-failure-points.html" rel="prev">
+<link href="./06-from-outputs-to-defensible-reasoning.html" rel="next">
+<link href="./04-working-with-ai-from-a-position.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./08-ai-in-real-workflows.html"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">AI in Real Workflows</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./04-working-with-ai-from-a-position.html">Working with AI</a></li><li class="breadcrumb-item"><a href="./05-interrogating-ai-outputs.html"><span class="chapter-title">Interrogating AI Outputs</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -110,76 +110,103 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">index.html</span></span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">index.html</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Foundations</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./00-preface.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Preface</span></span></a>
+ <span class="menu-text">Preface</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./01-what-is-a-position.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">What Is a Position?</span></span></a>
+  <a href="./01-what-is-a-position.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">What Is a Position?</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./02-human-ai-human-loop.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Human → AI → Human Loop</span></span></a>
+  <a href="./02-human-ai-human-loop.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Human → AI → Human Loop</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./03-working-with-ai-from-a-position.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Prompting from a Position</span></span></a>
+  <a href="./03-ai-as-a-tool.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">AI as a Tool</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Working with AI</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./04-interrogating-ai-outputs.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Interrogating AI Outputs</span></span></a>
+  <a href="./04-working-with-ai-from-a-position.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Prompting from a Position</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./05-from-outputs-to-defensible-reasoning.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Making Outputs Defensible</span></span></a>
+  <a href="./05-interrogating-ai-outputs.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Interrogating AI Outputs</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./06-from-reasoning-to-defensible-claims.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">From Output to Claims</span></span></a>
+  <a href="./06-from-outputs-to-defensible-reasoning.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Making Outputs Defensible</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./07-common-failure-points.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Common Failure Points</span></span></a>
+  <a href="./07-from-reasoning-to-defensible-claims.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">From Output to Claims</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Application &amp; Practice</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./08-ai-in-real-workflows.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">AI in Real Workflows</span></span></a>
+  <a href="./08-common-failure-points.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Common Failure Points</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./09-building-your-ai-workflow.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Building Your AI Workflow</span></span></a>
+  <a href="./09-ai-in-real-workflows.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">AI in Real Workflows</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./10-summary-and-next-steps.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Summary and Next Steps</span></span></a>
+  <a href="./10-building-your-ai-workflow.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Building Your AI Workflow</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./11-summary-and-next-steps.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Summary and Next Steps</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
     </ul>
     </div>
 </nav>
@@ -190,43 +217,39 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#the-core-principle" id="toc-the-core-principle" class="nav-link active" data-scroll-target="#the-core-principle"><span class="header-section-number">10.1</span> The Core Principle</a></li>
-  <li><a href="#workflow-1-analysis" id="toc-workflow-1-analysis" class="nav-link" data-scroll-target="#workflow-1-analysis"><span class="header-section-number">10.2</span> Workflow 1 — Analysis</a>
+  <li><a href="#the-core-principle" id="toc-the-core-principle" class="nav-link active" data-scroll-target="#the-core-principle">The Core Principle</a></li>
+  <li><a href="#why-interrogation-is-necessary" id="toc-why-interrogation-is-necessary" class="nav-link" data-scroll-target="#why-interrogation-is-necessary">Why Interrogation Is Necessary</a></li>
+  <li><a href="#the-risk-of-passive-use" id="toc-the-risk-of-passive-use" class="nav-link" data-scroll-target="#the-risk-of-passive-use">The Risk of Passive Use</a></li>
+  <li><a href="#the-cdi-approach" id="toc-the-cdi-approach" class="nav-link" data-scroll-target="#the-cdi-approach">The CDI Approach</a></li>
+  <li><a href="#key-questions-to-ask" id="toc-key-questions-to-ask" class="nav-link" data-scroll-target="#key-questions-to-ask">Key Questions to Ask</a>
   <ul class="collapse">
-  <li><a href="#typical-process" id="toc-typical-process" class="nav-link" data-scroll-target="#typical-process"><span class="header-section-number">10.2.1</span> Typical Process</a></li>
-  <li><a href="#where-ai-fits" id="toc-where-ai-fits" class="nav-link" data-scroll-target="#where-ai-fits"><span class="header-section-number">10.2.2</span> Where AI Fits</a></li>
+  <li><a href="#what-is-being-claimed" id="toc-what-is-being-claimed" class="nav-link" data-scroll-target="#what-is-being-claimed">What is being claimed?</a></li>
+  <li><a href="#what-assumptions-are-present" id="toc-what-assumptions-are-present" class="nav-link" data-scroll-target="#what-assumptions-are-present">What assumptions are present?</a></li>
+  <li><a href="#what-is-missing" id="toc-what-is-missing" class="nav-link" data-scroll-target="#what-is-missing">What is missing?</a></li>
+  <li><a href="#is-this-aligned-with-my-position" id="toc-is-this-aligned-with-my-position" class="nav-link" data-scroll-target="#is-this-aligned-with-my-position">Is this aligned with my position?</a></li>
+  <li><a href="#can-i-explain-this-myself" id="toc-can-i-explain-this-myself" class="nav-link" data-scroll-target="#can-i-explain-this-myself">Can I explain this myself?</a></li>
   </ul></li>
-  <li><a href="#workflow-2-writing" id="toc-workflow-2-writing" class="nav-link" data-scroll-target="#workflow-2-writing"><span class="header-section-number">10.3</span> Workflow 2 — Writing</a>
+  <li><a href="#example" id="toc-example" class="nav-link" data-scroll-target="#example">Example</a>
   <ul class="collapse">
-  <li><a href="#typical-process-1" id="toc-typical-process-1" class="nav-link" data-scroll-target="#typical-process-1"><span class="header-section-number">10.3.1</span> Typical Process</a></li>
-  <li><a href="#where-ai-fits-1" id="toc-where-ai-fits-1" class="nav-link" data-scroll-target="#where-ai-fits-1"><span class="header-section-number">10.3.2</span> Where AI Fits</a></li>
+  <li><a href="#ai-output" id="toc-ai-output" class="nav-link" data-scroll-target="#ai-output">AI Output</a></li>
+  <li><a href="#interrogation" id="toc-interrogation" class="nav-link" data-scroll-target="#interrogation">Interrogation</a></li>
   </ul></li>
-  <li><a href="#workflow-3-decision-making" id="toc-workflow-3-decision-making" class="nav-link" data-scroll-target="#workflow-3-decision-making"><span class="header-section-number">10.4</span> Workflow 3 — Decision-Making</a>
-  <ul class="collapse">
-  <li><a href="#typical-process-2" id="toc-typical-process-2" class="nav-link" data-scroll-target="#typical-process-2"><span class="header-section-number">10.4.1</span> Typical Process</a></li>
-  <li><a href="#where-ai-fits-2" id="toc-where-ai-fits-2" class="nav-link" data-scroll-target="#where-ai-fits-2"><span class="header-section-number">10.4.2</span> Where AI Fits</a></li>
-  </ul></li>
-  <li><a href="#workflow-4-system-building" id="toc-workflow-4-system-building" class="nav-link" data-scroll-target="#workflow-4-system-building"><span class="header-section-number">10.5</span> Workflow 4 — System Building</a>
-  <ul class="collapse">
-  <li><a href="#typical-process-3" id="toc-typical-process-3" class="nav-link" data-scroll-target="#typical-process-3"><span class="header-section-number">10.5.1</span> Typical Process</a></li>
-  <li><a href="#where-ai-fits-3" id="toc-where-ai-fits-3" class="nav-link" data-scroll-target="#where-ai-fits-3"><span class="header-section-number">10.5.2</span> Where AI Fits</a></li>
-  </ul></li>
-  <li><a href="#the-consistent-pattern" id="toc-the-consistent-pattern" class="nav-link" data-scroll-target="#the-consistent-pattern"><span class="header-section-number">10.6</span> The Consistent Pattern</a></li>
-  <li><a href="#what-changes-across-workflows" id="toc-what-changes-across-workflows" class="nav-link" data-scroll-target="#what-changes-across-workflows"><span class="header-section-number">10.7</span> What Changes Across Workflows</a></li>
-  <li><a href="#common-mistake-letting-ai-lead-the-workflow" id="toc-common-mistake-letting-ai-lead-the-workflow" class="nav-link" data-scroll-target="#common-mistake-letting-ai-lead-the-workflow"><span class="header-section-number">10.8</span> Common Mistake: Letting AI Lead the Workflow</a></li>
-  <li><a href="#maintaining-control" id="toc-maintaining-control" class="nav-link" data-scroll-target="#maintaining-control"><span class="header-section-number">10.9</span> Maintaining Control</a></li>
-  <li><a href="#practical-integration" id="toc-practical-integration" class="nav-link" data-scroll-target="#practical-integration"><span class="header-section-number">10.10</span> Practical Integration</a></li>
-  <li><a href="#key-insight" id="toc-key-insight" class="nav-link" data-scroll-target="#key-insight"><span class="header-section-number">10.11</span> Key Insight</a></li>
-  <li><a href="#takeaway" id="toc-takeaway" class="nav-link" data-scroll-target="#takeaway"><span class="header-section-number">10.12</span> Takeaway</a></li>
+  <li><a href="#strengthening-the-output" id="toc-strengthening-the-output" class="nav-link" data-scroll-target="#strengthening-the-output">Strengthening the Output</a></li>
+  <li><a href="#avoiding-overconfidence" id="toc-avoiding-overconfidence" class="nav-link" data-scroll-target="#avoiding-overconfidence">Avoiding Overconfidence</a></li>
+  <li><a href="#iterative-interrogation" id="toc-iterative-interrogation" class="nav-link" data-scroll-target="#iterative-interrogation">Iterative Interrogation</a></li>
+  <li><a href="#common-mistake-accepting-fluency-as-accuracy" id="toc-common-mistake-accepting-fluency-as-accuracy" class="nav-link" data-scroll-target="#common-mistake-accepting-fluency-as-accuracy">Common Mistake: Accepting Fluency as Accuracy</a></li>
+  <li><a href="#from-output-to-understanding" id="toc-from-output-to-understanding" class="nav-link" data-scroll-target="#from-output-to-understanding">From Output to Understanding</a></li>
+  <li><a href="#key-insight" id="toc-key-insight" class="nav-link" data-scroll-target="#key-insight">Key Insight</a></li>
+  <li><a href="#takeaway" id="toc-takeaway" class="nav-link" data-scroll-target="#takeaway">Takeaway</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./04-working-with-ai-from-a-position.html">Working with AI</a></li><li class="breadcrumb-item"><a href="./05-interrogating-ai-outputs.html"><span class="chapter-title">Interrogating AI Outputs</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">AI in Real Workflows</span></h1>
+<h1 class="title"><span class="chapter-title">Interrogating AI Outputs</span></h1>
 </div>
 
 
@@ -245,242 +268,256 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="cdi-message">
 <ul>
-<li><strong>ID:</strong> AI-L08</li>
+<li><strong>ID:</strong> AI-L05</li>
 <li><strong>Type:</strong> Lesson</li>
 <li><strong>Audience:</strong> Public</li>
-<li><strong>Theme:</strong> Applying AI in real-world work</li>
+<li><strong>Theme:</strong> Interpreting and challenging AI outputs</li>
 </ul>
 </div>
-<p>AI becomes valuable when it is used within real workflows.</p>
-<p>This means integrating it into how work is actually done:</p>
-<ul>
-<li>analysis<br>
-</li>
-<li>writing<br>
-</li>
-<li>decision-making<br>
-</li>
-<li>system building</li>
-</ul>
+<p>AI can generate answers quickly.</p>
+<p>Speed, however, is not reliability.</p>
+<p>The critical skill is not only generating outputs, but <strong>interrogating them</strong>.</p>
 <hr>
-<section id="the-core-principle" class="level2" data-number="10.1">
-<h2 data-number="10.1" class="anchored" data-anchor-id="the-core-principle"><span class="header-section-number">10.1</span> The Core Principle</h2>
+<section id="the-core-principle" class="level2">
+<h2 class="anchored" data-anchor-id="the-core-principle">The Core Principle</h2>
 <blockquote class="blockquote">
-<p><strong>AI should support workflows, not replace them.</strong></p>
+<p><strong>Do not accept AI output at face value. Examine it.</strong></p>
 </blockquote>
-<p>It fits into existing processes.</p>
-<p>It does not eliminate the need for structure.</p>
-<hr>
-</section>
-<section id="workflow-1-analysis" class="level2" data-number="10.2">
-<h2 data-number="10.2" class="anchored" data-anchor-id="workflow-1-analysis"><span class="header-section-number">10.2</span> Workflow 1 — Analysis</h2>
-<section id="typical-process" class="level3" data-number="10.2.1">
-<h3 data-number="10.2.1" class="anchored" data-anchor-id="typical-process"><span class="header-section-number">10.2.1</span> Typical Process</h3>
+<p>Interrogation means actively evaluating:</p>
 <ul>
-<li>define the problem<br>
+<li>what the output says<br>
 </li>
-<li>explore data<br>
+<li>how it is structured<br>
 </li>
-<li>test ideas<br>
+<li>what it assumes<br>
 </li>
-<li>interpret results</li>
+<li>what it omits</li>
 </ul>
-</section>
-<section id="where-ai-fits" class="level3" data-number="10.2.2">
-<h3 data-number="10.2.2" class="anchored" data-anchor-id="where-ai-fits"><span class="header-section-number">10.2.2</span> Where AI Fits</h3>
-<p><strong>Start with a position</strong> &gt; “I want to test whether variable X explains outcome Y.”</p>
-<p><strong>Use AI to:</strong> - suggest analytical approaches<br>
-- identify potential pitfalls<br>
-- structure steps</p>
-<p><strong>Return to human</strong> - validate methods<br>
-- interpret results<br>
-- make conclusions</p>
 <hr>
 </section>
-</section>
-<section id="workflow-2-writing" class="level2" data-number="10.3">
-<h2 data-number="10.3" class="anchored" data-anchor-id="workflow-2-writing"><span class="header-section-number">10.3</span> Workflow 2 — Writing</h2>
-<section id="typical-process-1" class="level3" data-number="10.3.1">
-<h3 data-number="10.3.1" class="anchored" data-anchor-id="typical-process-1"><span class="header-section-number">10.3.1</span> Typical Process</h3>
+<section id="why-interrogation-is-necessary" class="level2">
+<h2 class="anchored" data-anchor-id="why-interrogation-is-necessary">Why Interrogation Is Necessary</h2>
+<p>AI does not:</p>
 <ul>
-<li>define message<br>
+<li>verify truth in real time<br>
 </li>
-<li>structure content<br>
+<li>understand your full context<br>
 </li>
-<li>draft<br>
-</li>
-<li>refine</li>
+<li>take responsibility for decisions</li>
 </ul>
-</section>
-<section id="where-ai-fits-1" class="level3" data-number="10.3.2">
-<h3 data-number="10.3.2" class="anchored" data-anchor-id="where-ai-fits-1"><span class="header-section-number">10.3.2</span> Where AI Fits</h3>
-<p><strong>Start with a position</strong> &gt; “I want to explain this concept clearly for beginners.”</p>
-<p><strong>Use AI to:</strong> - outline structure<br>
-- improve clarity<br>
-- suggest phrasing</p>
-<p><strong>Return to human</strong> - ensure accuracy<br>
-- align tone<br>
-- take ownership of message</p>
-<hr>
-</section>
-</section>
-<section id="workflow-3-decision-making" class="level2" data-number="10.4">
-<h2 data-number="10.4" class="anchored" data-anchor-id="workflow-3-decision-making"><span class="header-section-number">10.4</span> Workflow 3 — Decision-Making</h2>
-<section id="typical-process-2" class="level3" data-number="10.4.1">
-<h3 data-number="10.4.1" class="anchored" data-anchor-id="typical-process-2"><span class="header-section-number">10.4.1</span> Typical Process</h3>
+<p>It generates plausible responses based on patterns.</p>
+<p>This means outputs can be:</p>
 <ul>
-<li>define decision context<br>
+<li>partially correct<br>
 </li>
-<li>evaluate options<br>
+<li>incomplete<br>
 </li>
-<li>assess risks<br>
+<li>misleading<br>
 </li>
-<li>decide</li>
+<li>overconfident</li>
 </ul>
-</section>
-<section id="where-ai-fits-2" class="level3" data-number="10.4.2">
-<h3 data-number="10.4.2" class="anchored" data-anchor-id="where-ai-fits-2"><span class="header-section-number">10.4.2</span> Where AI Fits</h3>
-<p><strong>Start with a position</strong> &gt; “I need to compare these two approaches and assess trade-offs.”</p>
-<p><strong>Use AI to:</strong> - list considerations<br>
-- identify risks<br>
-- compare scenarios</p>
-<p><strong>Return to human</strong> - weigh priorities<br>
-- consider context<br>
-- make final decision</p>
 <hr>
 </section>
-</section>
-<section id="workflow-4-system-building" class="level2" data-number="10.5">
-<h2 data-number="10.5" class="anchored" data-anchor-id="workflow-4-system-building"><span class="header-section-number">10.5</span> Workflow 4 — System Building</h2>
-<section id="typical-process-3" class="level3" data-number="10.5.1">
-<h3 data-number="10.5.1" class="anchored" data-anchor-id="typical-process-3"><span class="header-section-number">10.5.1</span> Typical Process</h3>
+<section id="the-risk-of-passive-use" class="level2">
+<h2 class="anchored" data-anchor-id="the-risk-of-passive-use">The Risk of Passive Use</h2>
+<p>If you simply read and accept:</p>
 <ul>
-<li>define goal<br>
+<li>errors go unnoticed<br>
 </li>
-<li>design components<br>
+<li>assumptions remain hidden<br>
 </li>
-<li>implement<br>
-</li>
-<li>test and refine</li>
-</ul>
-</section>
-<section id="where-ai-fits-3" class="level3" data-number="10.5.2">
-<h3 data-number="10.5.2" class="anchored" data-anchor-id="where-ai-fits-3"><span class="header-section-number">10.5.2</span> Where AI Fits</h3>
-<p><strong>Start with a position</strong> &gt; “I want to build a reproducible pipeline for this process.”</p>
-<p><strong>Use AI to:</strong> - outline architecture<br>
-- suggest implementation steps<br>
-- identify improvements</p>
-<p><strong>Return to human</strong> - validate design<br>
-- test system<br>
-- ensure reliability</p>
-<hr>
-</section>
-</section>
-<section id="the-consistent-pattern" class="level2" data-number="10.6">
-<h2 data-number="10.6" class="anchored" data-anchor-id="the-consistent-pattern"><span class="header-section-number">10.6</span> The Consistent Pattern</h2>
-<p>Across all workflows:</p>
-<ol type="1">
-<li><strong>Human defines direction</strong></li>
-<li><strong>AI extends thinking</strong></li>
-<li><strong>Human evaluates and decides</strong></li>
-</ol>
-<p>This is the same:</p>
-<p><strong>Human → AI → Human</strong></p>
-<hr>
-</section>
-<section id="what-changes-across-workflows" class="level2" data-number="10.7">
-<h2 data-number="10.7" class="anchored" data-anchor-id="what-changes-across-workflows"><span class="header-section-number">10.7</span> What Changes Across Workflows</h2>
-<p>The role of AI varies:</p>
-<ul>
-<li>In analysis → supports reasoning<br>
-</li>
-<li>In writing → supports communication<br>
-</li>
-<li>In decisions → supports evaluation<br>
-</li>
-<li>In systems → supports structure</li>
-</ul>
-<p>But the responsibility remains the same.</p>
-<hr>
-</section>
-<section id="common-mistake-letting-ai-lead-the-workflow" class="level2" data-number="10.8">
-<h2 data-number="10.8" class="anchored" data-anchor-id="common-mistake-letting-ai-lead-the-workflow"><span class="header-section-number">10.8</span> Common Mistake: Letting AI Lead the Workflow</h2>
-<p>Some users:</p>
-<ul>
-<li>start with AI<br>
-</li>
-<li>follow its suggestions blindly</li>
+<li>weak reasoning passes through</li>
 </ul>
 <p>This leads to:</p>
 <ul>
-<li>loss of direction<br>
+<li>poor analysis<br>
 </li>
-<li>inconsistent results<br>
+<li>weak communication<br>
 </li>
-<li>weak outcomes</li>
+<li>indefensible conclusions</li>
 </ul>
 <hr>
 </section>
-<section id="maintaining-control" class="level2" data-number="10.9">
-<h2 data-number="10.9" class="anchored" data-anchor-id="maintaining-control"><span class="header-section-number">10.9</span> Maintaining Control</h2>
-<p>To keep control:</p>
+<section id="the-cdi-approach" class="level2">
+<h2 class="anchored" data-anchor-id="the-cdi-approach">The CDI Approach</h2>
+<p>Interrogation is part of <strong>interpretation discipline</strong>.</p>
+<p>You move from:</p>
+<p><strong>Output → Examination → Understanding → Decision</strong></p>
+<hr>
+</section>
+<section id="key-questions-to-ask" class="level2">
+<h2 class="anchored" data-anchor-id="key-questions-to-ask">Key Questions to Ask</h2>
+<p>After receiving an AI response, ask:</p>
+<section id="what-is-being-claimed" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-being-claimed">What is being claimed?</h3>
 <ul>
-<li>define your position clearly<br>
-</li>
-<li>guide the interaction<br>
-</li>
-<li>question outputs<br>
-</li>
-<li>validate before acting</li>
+<li>What is the main point?</li>
+<li>Is it descriptive, explanatory, or prescriptive?</li>
 </ul>
 <hr>
 </section>
-<section id="practical-integration" class="level2" data-number="10.10">
-<h2 data-number="10.10" class="anchored" data-anchor-id="practical-integration"><span class="header-section-number">10.10</span> Practical Integration</h2>
-<p>You do not need to redesign your workflow.</p>
-<p>Instead:</p>
+<section id="what-assumptions-are-present" class="level3">
+<h3 class="anchored" data-anchor-id="what-assumptions-are-present">What assumptions are present?</h3>
 <ul>
-<li>insert AI at specific points<br>
-</li>
-<li>use it for support<br>
-</li>
-<li>keep core reasoning human-led</li>
+<li>What is taken for granted?</li>
+<li>Are there hidden conditions?</li>
 </ul>
 <hr>
 </section>
-<section id="key-insight" class="level2" data-number="10.11">
-<h2 data-number="10.11" class="anchored" data-anchor-id="key-insight"><span class="header-section-number">10.11</span> Key Insight</h2>
-<p>AI is not a separate workflow.</p>
-<p>It is a component within your workflow.</p>
+<section id="what-is-missing" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-missing">What is missing?</h3>
+<ul>
+<li>Are alternative explanations considered?</li>
+<li>Is context ignored?</li>
+</ul>
+<hr>
+</section>
+<section id="is-this-aligned-with-my-position" class="level3">
+<h3 class="anchored" data-anchor-id="is-this-aligned-with-my-position">Is this aligned with my position?</h3>
+<ul>
+<li>Does it address your actual problem?</li>
+<li>Or has the direction drifted?</li>
+</ul>
+<hr>
+</section>
+<section id="can-i-explain-this-myself" class="level3">
+<h3 class="anchored" data-anchor-id="can-i-explain-this-myself">Can I explain this myself?</h3>
+<ul>
+<li>Do you understand it well enough to restate it?</li>
+<li>Would you defend it if questioned?</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="example" class="level2">
+<h2 class="anchored" data-anchor-id="example">Example</h2>
+<section id="ai-output" class="level3">
+<h3 class="anchored" data-anchor-id="ai-output">AI Output</h3>
+<p>“Feature X strongly predicts outcome Y.”</p>
+</section>
+<section id="interrogation" class="level3">
+<h3 class="anchored" data-anchor-id="interrogation">Interrogation</h3>
+<ul>
+<li>What does “strongly” mean?</li>
+<li>Is this correlation or causation?</li>
+<li>What data conditions apply?</li>
+<li>Are there confounders?</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="strengthening-the-output" class="level2">
+<h2 class="anchored" data-anchor-id="strengthening-the-output">Strengthening the Output</h2>
+<p>Interrogation is not only critical.</p>
+<p>It is constructive.</p>
+<p>You can ask AI to improve its own response:</p>
+<ul>
+<li>“What assumptions did you make?”<br>
+</li>
+<li>“What could make this incorrect?”<br>
+</li>
+<li>“What alternative explanations exist?”<br>
+</li>
+<li>“Clarify this step more precisely.”</li>
+</ul>
+<p>This turns AI into a refinement tool.</p>
+<hr>
+</section>
+<section id="avoiding-overconfidence" class="level2">
+<h2 class="anchored" data-anchor-id="avoiding-overconfidence">Avoiding Overconfidence</h2>
+<p>AI outputs often sound confident.</p>
+<p>Confidence is not evidence.</p>
+<p>A well-written response can still be:</p>
+<ul>
+<li>incomplete<br>
+</li>
+<li>incorrect<br>
+</li>
+<li>misapplied</li>
+</ul>
+<p>Your role is to separate clarity from correctness.</p>
+<hr>
+</section>
+<section id="iterative-interrogation" class="level2">
+<h2 class="anchored" data-anchor-id="iterative-interrogation">Iterative Interrogation</h2>
+<p>This process may repeat:</p>
+<ol type="1">
+<li>Receive output<br>
+</li>
+<li>Question it<br>
+</li>
+<li>Refine the prompt<br>
+</li>
+<li>Receive improved output</li>
+</ol>
+<p>Each iteration improves:</p>
+<ul>
+<li>clarity<br>
+</li>
+<li>depth<br>
+</li>
+<li>reliability</li>
+</ul>
+<hr>
+</section>
+<section id="common-mistake-accepting-fluency-as-accuracy" class="level2">
+<h2 class="anchored" data-anchor-id="common-mistake-accepting-fluency-as-accuracy">Common Mistake: Accepting Fluency as Accuracy</h2>
+<p>Fluent language can create false trust.</p>
+<p>A clear explanation does not guarantee:</p>
+<ul>
+<li>correctness<br>
+</li>
+<li>completeness<br>
+</li>
+<li>applicability</li>
+</ul>
+<p>Always separate:</p>
+<ul>
+<li>how it sounds<br>
+</li>
+<li>from what it actually means</li>
+</ul>
+<hr>
+</section>
+<section id="from-output-to-understanding" class="level2">
+<h2 class="anchored" data-anchor-id="from-output-to-understanding">From Output to Understanding</h2>
+<p>Interrogation bridges the gap between:</p>
+<ul>
+<li>reading an answer<br>
+</li>
+<li>understanding a concept</li>
+</ul>
+<p>Without interrogation, outputs remain external.</p>
+<p>With interrogation, they become internalized.</p>
+<hr>
+</section>
+<section id="key-insight" class="level2">
+<h2 class="anchored" data-anchor-id="key-insight">Key Insight</h2>
+<p>AI gives you answers.</p>
+<p>Interrogation turns them into understanding.</p>
 <blockquote class="blockquote">
-<p><strong>Its value depends on how you integrate it, not how often you use it.</strong></p>
+<p><strong>The value is not in receiving the output, but in examining it.</strong></p>
 </blockquote>
 <hr>
 </section>
-<section id="takeaway" class="level2" data-number="10.12">
-<h2 data-number="10.12" class="anchored" data-anchor-id="takeaway"><span class="header-section-number">10.12</span> Takeaway</h2>
+<section id="takeaway" class="level2">
+<h2 class="anchored" data-anchor-id="takeaway">Takeaway</h2>
 <ul>
-<li>Use AI within structured workflows<br>
+<li>Do not accept outputs passively<br>
 </li>
-<li>Keep direction with you<br>
+<li>Question assumptions and gaps<br>
 </li>
-<li>Return to human judgment</li>
+<li>Align results with your position<br>
+</li>
+<li>Refine until you understand</li>
 </ul>
-<p>This ensures:</p>
+<p>This is how outputs become:</p>
 <ul>
-<li>consistency<br>
+<li>meaningful<br>
 </li>
-<li>reliability<br>
+<li>reliable<br>
 </li>
-<li>defensibility</li>
-</ul>
-<p>AI becomes most useful when it is:</p>
-<ul>
-<li>integrated<br>
-</li>
-<li>controlled<br>
-</li>
-<li>aligned with real work</li>
+<li>defensible</li>
 </ul>
 
 
@@ -888,13 +925,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./07-common-failure-points.html" class="pagination-link" aria-label="Common Failure Points">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Common Failure Points</span></span>
+      <a href="./04-working-with-ai-from-a-position.html" class="pagination-link" aria-label="Prompting from a Position">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Prompting from a Position</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./09-building-your-ai-workflow.html" class="pagination-link" aria-label="Building Your AI Workflow">
-        <span class="nav-page-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Building Your AI Workflow</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./06-from-outputs-to-defensible-reasoning.html" class="pagination-link" aria-label="Making Outputs Defensible">
+        <span class="nav-page-text"><span class="chapter-title">Making Outputs Defensible</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

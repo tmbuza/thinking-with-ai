@@ -1,7 +1,7 @@
 # AI in Real Workflows
 
 :::cdi-message
-- **ID:** AI-L08
+- **ID:** AI-L09
 - **Type:** Lesson
 - **Audience:** Public
 - **Theme:** Applying AI in real-world work

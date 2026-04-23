@@ -1,7 +1,7 @@
 # Prompting from a Position
 
 :::cdi-message
-- **ID:** AI-L03
+- **ID:** AI-L04
 - **Type:** Lesson
 - **Audience:** Public
 - **Theme:** Position-based prompting

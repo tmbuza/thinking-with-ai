@@ -5,24 +5,34 @@ project:
 book:
   title: "Thinking with AI"
   subtitle: "A human-first guide to using AI for real work and defensible decisions"
-
   chapters:
     - index.qmd
-    - 00-preface.qmd
-    - 01-what-is-a-position.qmd
-    - 02-human-ai-human-loop.qmd
-    - 03-working-with-ai-from-a-position.qmd
-    - 04-interrogating-ai-outputs.qmd
-    - 05-from-outputs-to-defensible-reasoning.qmd
-    - 06-from-reasoning-to-defensible-claims.qmd
-    - 07-common-failure-points.qmd
-    - 08-ai-in-real-workflows.qmd
-    - 09-building-your-ai-workflow.qmd
-    - 10-summary-and-next-steps.qmd
+
+    - part: "Foundations"
+      chapters:
+        - 00-preface.qmd
+        - 01-what-is-a-position.qmd
+        - 02-human-ai-human-loop.qmd
+        - 03-ai-as-a-tool.qmd
+
+    - part: "Working with AI"
+      chapters:
+        - 04-working-with-ai-from-a-position.qmd
+        - 05-interrogating-ai-outputs.qmd
+        - 06-from-outputs-to-defensible-reasoning.qmd
+        - 07-from-reasoning-to-defensible-claims.qmd
+
+    - part: "Application & Practice"
+      chapters:
+        - 08-common-failure-points.qmd
+        - 09-ai-in-real-workflows.qmd
+        - 10-building-your-ai-workflow.qmd
+        - 11-summary-and-next-steps.qmd
 
 format:
   html:
     theme: cosmo
+    number-sections: false
     css: assets/css/cdi.css
     toc: true
 

@@ -1,0 +1,152 @@
+# AI as a Tool
+
+:::cdi-message
+- **ID:** AI-L03
+- **Type:** Lesson
+- **Audience:** Public
+- **Theme:** Reframing AI as a tool, not a source of truth
+:::
+
+## The Misunderstanding
+
+You will increasingly hear people say:
+
+> “That’s not true… it’s AI.”
+
+At first glance, this sounds reasonable.
+
+But it reflects a deeper misunderstanding:
+- confusing the **tool** with the **truth**
+- confusing **generation** with **verification**
+
+---
+
+## We Have Seen This Before
+
+This is not the first time tools have changed how we work.
+
+- Calculations moved from **manual → calculators**  
+- Writing moved from **handwriting → computers**  
+- Movement shifted from **walking → vehicles**
+
+In each case:
+
+> The tool changed.  
+> Human responsibility did not.
+
+---
+
+## What We Do Not Question
+
+Today, we do not say:
+
+- “That calculation is wrong because you used a calculator”  
+- “That document is invalid because it was typed”  
+- “That journey does not count because you used a car”
+
+Why?
+
+Because we understand something fundamental:
+
+> Tools improve efficiency.  
+> They do not define truth.
+
+---
+
+## The AI Shift
+
+AI represents the same kind of transition:
+
+> Thinking support is moving from manual → AI-assisted
+
+AI can:
+- generate ideas  
+- structure information  
+- accelerate workflows  
+- reduce repetitive effort  
+
+But it does not:
+- guarantee correctness  
+- understand context fully  
+- take responsibility for outcomes  
+
+---
+
+## The Real Question
+
+The question is not:
+
+> “Was this produced by AI?”
+
+The real question is:
+
+> “Is this correct, well-reasoned, and defensible?”
+
+---
+
+## The New Competitive Reality
+
+We are now in a different environment:
+
+> People are no longer competing only on knowledge.  
+> They are competing on how effectively they use tools.
+
+AI is becoming a core tool in that environment.
+
+This creates a shift:
+
+- Those who use AI well become faster and more structured  
+- Those who avoid it fall behind in execution  
+
+Not because of intelligence —  
+but because of **workflow advantage**
+
+---
+
+## The Risk of Avoidance
+
+The risk is not:
+
+> “AI will replace people.”
+
+The real risk is:
+
+> People who use AI effectively will outperform those who do not.
+
+---
+
+## CDI Perspective
+
+From a CDI standpoint:
+
+> AI is not a source of truth.  
+> It is a thinking assistant within a human-controlled workflow.
+
+This means:
+
+- You remain responsible for interpretation  
+- You remain responsible for verification  
+- You remain responsible for decisions  
+
+---
+
+## Takeaway
+
+> AI does not make something true or false.  
+> It makes the process faster.
+
+And just like every major tool shift before it:
+
+> Those who learn to use it well will move ahead.  
+> Those who avoid it risk being left behind.
+
+---
+
+## Transition
+
+Understanding AI as a tool is only the beginning.
+
+The next step is learning:
+
+> How to work with AI from a clear position —  
+> so that speed does not come at the cost of correctness.

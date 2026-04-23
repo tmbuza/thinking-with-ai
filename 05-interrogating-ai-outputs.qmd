@@ -1,7 +1,7 @@
 # Interrogating AI Outputs
 
 :::cdi-message
-- **ID:** AI-L04
+- **ID:** AI-L05
 - **Type:** Lesson
 - **Audience:** Public
 - **Theme:** Interpreting and challenging AI outputs

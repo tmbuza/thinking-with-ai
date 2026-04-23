@@ -1,7 +1,7 @@
 # From Output to Claims
 
 :::cdi-message
-- **ID:** AI-L06
+- **ID:** AI-L07
 - **Type:** Lesson
 - **Audience:** Public
 - **Theme:** From AI outputs to defensible claims
