@@ -1,4 +1,4 @@
-# Prompting from a Position
+# Working with AI from a Position
 
 :::cdi-message
 - **ID:** AI-L04
@@ -7,29 +7,27 @@
 - **Theme:** Position-based prompting
 :::
 
-Prompting is often presented as a skill of wording.
+Most people think prompting is about wording.
 
-But effective prompting is not primarily about wording.
+It is not.
 
-It is about **thinking**.
-
-Specifically, it is about starting from a **position**.
+Effective prompting begins with **thinking** — specifically, starting from a **position**.
 
 ---
 
 ## The Core Shift
 
-Most prompting advice focuses on:
+Typical prompting advice focuses on:
 
-- how to phrase questions  
-- how to structure instructions  
-- how to use keywords  
+- phrasing questions  
+- structuring instructions  
+- using keywords  
 
-These can help.
+These matter.
 
 But they are secondary.
 
-The primary driver of prompt quality is this:
+The real driver of prompt quality is:
 
 > **What you bring before you write the prompt.**
 
@@ -37,9 +35,7 @@ The primary driver of prompt quality is this:
 
 ## Prompting Without a Position
 
-When no position is defined, prompts tend to be vague.
-
-Examples:
+Without a position, prompts are vague:
 
 - “Explain machine learning”  
 - “Write a business plan”  
@@ -52,24 +48,24 @@ These prompts:
 - produce generic outputs  
 - do not reflect your thinking  
 
-Even if the wording is improved, the result often remains shallow.
+Improving wording alone does not fix this.
 
 ---
 
 ## Prompting From a Position
 
-A stronger approach is to start with:
+A stronger approach is to begin with:
 
 - a problem  
 - a direction  
-- or a hypothesis  
+- a hypothesis  
 
-Then use AI to extend that thinking.
+Then use AI to extend your thinking.
 
 Examples:
 
 - “I want to understand which model fits this problem and why.”  
-- “I am building a small consulting service and need a realistic structure.”  
+- “I am building a consulting service and need a realistic structure.”  
 - “I want to test whether variable X is associated with outcome Y.”  
 - “I have three possible directions. Help me compare them.”  
 
@@ -83,15 +79,15 @@ These prompts:
 
 ## The Structure of a Strong Prompt
 
-A strong prompt often contains:
+A strong prompt has three elements:
 
-1. **Context**
+1. **Context**  
    What are you working on?
 
-2. **Position**
+2. **Position**  
    What do you currently think or want?
 
-3. **Task**
+3. **Task**  
    What should AI help you do?
 
 Example:
@@ -104,17 +100,17 @@ Example:
 
 ## Why This Works
 
-AI responds to signals in the prompt.
+AI responds to signals.
 
-A position provides strong signals:
+A position provides those signals:
 
 - what matters  
 - what direction to follow  
-- what level of detail is expected  
+- what level of depth is needed  
 
-Without these signals, AI defaults to general patterns.
+Without a position, AI defaults to general patterns.
 
-With them, AI becomes more targeted.
+With a position, AI becomes targeted.
 
 ---
 
@@ -124,52 +120,49 @@ With them, AI becomes more targeted.
 > “Help me write about AI.”
 
 ### Improved
-> “I am writing a guide on responsible AI use and want to explain how to start with a position. Help me structure this clearly.”
+> “I am writing a guide on responsible AI use and want to explain how to start from a position. Help me structure this clearly.”
 
-The improvement comes from:
+The difference is not wording.
 
-- adding context  
-- stating intent  
-- defining direction  
+It is **clarity of thinking**.
 
 ---
 
-## Prompting as a Thinking Process
+## Prompting as a Process
 
-Prompting should not be a one-step action.
+Prompting is not a one-step action.
 
-It is part of the **Human → AI → Human loop**.
+It is part of the **Human → AI → Human loop**:
 
-You may:
+1. Start with a position  
+2. Generate output  
+3. Evaluate the output  
+4. Refine your thinking  
+5. Ask a better question  
 
-1. Write a prompt from your position  
-2. Review the output  
-3. Refine your prompt  
-4. Ask a more focused question  
-
-Each step improves clarity.
+Each cycle improves both the prompt and the reasoning.
 
 ---
 
 ## Common Mistake: Over-Engineering Prompts
 
-Some users focus too much on:
+Some users focus on:
 
-- complex instructions  
-- long templates  
+- complex templates  
+- long instructions  
 - rigid formats  
 
 These can help in specific cases.
 
 But without a clear position, they do not solve the core problem.
 
-A simple prompt with a strong position is often more effective than a complex prompt without one.
+> A simple prompt with a clear position is more effective than a complex prompt without one.
 
 ---
 
-## Practical Pattern
+## A Practical Pattern
 
-You can use this simple pattern:
+Use this structure:
 
 > “I am working on [context].  
 > I think / I want [position].  
@@ -201,8 +194,6 @@ Example:
 
 ## Ownership Still Applies
 
-Even with strong prompts, the responsibility remains yours.
-
 AI can:
 
 - suggest  
@@ -215,7 +206,7 @@ But it does not:
 - take responsibility  
 - make final decisions  
 
-That is your role.
+That remains your role.
 
 ---
 
@@ -233,7 +224,7 @@ It is about starting from better thinking.
 
 - Do not start with empty requests  
 - Start with a clear position  
-- Use prompts to extend your thinking  
+- Use AI to extend your thinking  
 
 This leads to:
 

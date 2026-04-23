@@ -549,157 +549,157 @@
     ]
   },
   {
-    "objectID": "04-working-with-ai-from-a-position.html",
-    "href": "04-working-with-ai-from-a-position.html",
-    "title": "Prompting from a Position",
+    "objectID": "04-working-with-ai.html",
+    "href": "04-working-with-ai.html",
+    "title": "Working with AI from a Position",
     "section": "",
-    "text": "The Core Shift\nPrompting is often presented as a skill of wording.\nBut effective prompting is not primarily about wording.\nIt is about thinking.\nSpecifically, it is about starting from a position.\nMost prompting advice focuses on:\nThese can help.\nBut they are secondary.\nThe primary driver of prompt quality is this:",
+    "text": "The Core Shift\nMost people think prompting is about wording.\nIt is not.\nEffective prompting begins with thinking — specifically, starting from a position.\nTypical prompting advice focuses on:\nThese matter.\nBut they are secondary.\nThe real driver of prompt quality is:",
     "crumbs": [
       "Working with AI",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Working with AI from a Position</span>"
     ]
   },
   {
-    "objectID": "04-working-with-ai-from-a-position.html#the-core-shift",
-    "href": "04-working-with-ai-from-a-position.html#the-core-shift",
-    "title": "Prompting from a Position",
+    "objectID": "04-working-with-ai.html#the-core-shift",
+    "href": "04-working-with-ai.html#the-core-shift",
+    "title": "Working with AI from a Position",
     "section": "",
-    "text": "how to phrase questions\n\nhow to structure instructions\n\nhow to use keywords\n\n\n\n\n\nWhat you bring before you write the prompt.",
+    "text": "phrasing questions\n\nstructuring instructions\n\nusing keywords\n\n\n\n\n\nWhat you bring before you write the prompt.",
     "crumbs": [
       "Working with AI",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Working with AI from a Position</span>"
     ]
   },
   {
-    "objectID": "04-working-with-ai-from-a-position.html#prompting-without-a-position",
-    "href": "04-working-with-ai-from-a-position.html#prompting-without-a-position",
-    "title": "Prompting from a Position",
+    "objectID": "04-working-with-ai.html#prompting-without-a-position",
+    "href": "04-working-with-ai.html#prompting-without-a-position",
+    "title": "Working with AI from a Position",
     "section": "Prompting Without a Position",
-    "text": "Prompting Without a Position\nWhen no position is defined, prompts tend to be vague.\nExamples:\n\n“Explain machine learning”\n\n“Write a business plan”\n\n“Analyze this dataset”\n\n“Give me ideas”\n\nThese prompts:\n\nlack direction\n\nproduce generic outputs\n\ndo not reflect your thinking\n\nEven if the wording is improved, the result often remains shallow.",
+    "text": "Prompting Without a Position\nWithout a position, prompts are vague:\n\n“Explain machine learning”\n\n“Write a business plan”\n\n“Analyze this dataset”\n\n“Give me ideas”\n\nThese prompts:\n\nlack direction\n\nproduce generic outputs\n\ndo not reflect your thinking\n\nImproving wording alone does not fix this.",
     "crumbs": [
       "Working with AI",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Working with AI from a Position</span>"
     ]
   },
   {
-    "objectID": "04-working-with-ai-from-a-position.html#prompting-from-a-position",
-    "href": "04-working-with-ai-from-a-position.html#prompting-from-a-position",
-    "title": "Prompting from a Position",
+    "objectID": "04-working-with-ai.html#prompting-from-a-position",
+    "href": "04-working-with-ai.html#prompting-from-a-position",
+    "title": "Working with AI from a Position",
     "section": "Prompting From a Position",
-    "text": "Prompting From a Position\nA stronger approach is to start with:\n\na problem\n\na direction\n\nor a hypothesis\n\nThen use AI to extend that thinking.\nExamples:\n\n“I want to understand which model fits this problem and why.”\n\n“I am building a small consulting service and need a realistic structure.”\n\n“I want to test whether variable X is associated with outcome Y.”\n\n“I have three possible directions. Help me compare them.”\n\nThese prompts:\n\ncarry intent\n\nguide the response\n\nproduce more useful outputs",
+    "text": "Prompting From a Position\nA stronger approach is to begin with:\n\na problem\n\na direction\n\na hypothesis\n\nThen use AI to extend your thinking.\nExamples:\n\n“I want to understand which model fits this problem and why.”\n\n“I am building a consulting service and need a realistic structure.”\n\n“I want to test whether variable X is associated with outcome Y.”\n\n“I have three possible directions. Help me compare them.”\n\nThese prompts:\n\ncarry intent\n\nguide the response\n\nproduce more useful outputs",
     "crumbs": [
       "Working with AI",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Working with AI from a Position</span>"
     ]
   },
   {
-    "objectID": "04-working-with-ai-from-a-position.html#the-structure-of-a-strong-prompt",
-    "href": "04-working-with-ai-from-a-position.html#the-structure-of-a-strong-prompt",
-    "title": "Prompting from a Position",
+    "objectID": "04-working-with-ai.html#the-structure-of-a-strong-prompt",
+    "href": "04-working-with-ai.html#the-structure-of-a-strong-prompt",
+    "title": "Working with AI from a Position",
     "section": "The Structure of a Strong Prompt",
-    "text": "The Structure of a Strong Prompt\nA strong prompt often contains:\n\nContext What are you working on?\nPosition What do you currently think or want?\nTask What should AI help you do?\n\nExample:\n\n“I am building a guide on human-first AI use.\nMy goal is to make it practical and defensible.\nHelp me structure the key sections clearly.”",
+    "text": "The Structure of a Strong Prompt\nA strong prompt has three elements:\n\nContext\nWhat are you working on?\nPosition\nWhat do you currently think or want?\nTask\nWhat should AI help you do?\n\nExample:\n\n“I am building a guide on human-first AI use.\nMy goal is to make it practical and defensible.\nHelp me structure the key sections clearly.”",
     "crumbs": [
       "Working with AI",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Working with AI from a Position</span>"
     ]
   },
   {
-    "objectID": "04-working-with-ai-from-a-position.html#why-this-works",
-    "href": "04-working-with-ai-from-a-position.html#why-this-works",
-    "title": "Prompting from a Position",
+    "objectID": "04-working-with-ai.html#why-this-works",
+    "href": "04-working-with-ai.html#why-this-works",
+    "title": "Working with AI from a Position",
     "section": "Why This Works",
-    "text": "Why This Works\nAI responds to signals in the prompt.\nA position provides strong signals:\n\nwhat matters\n\nwhat direction to follow\n\nwhat level of detail is expected\n\nWithout these signals, AI defaults to general patterns.\nWith them, AI becomes more targeted.",
+    "text": "Why This Works\nAI responds to signals.\nA position provides those signals:\n\nwhat matters\n\nwhat direction to follow\n\nwhat level of depth is needed\n\nWithout a position, AI defaults to general patterns.\nWith a position, AI becomes targeted.",
     "crumbs": [
       "Working with AI",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Working with AI from a Position</span>"
     ]
   },
   {
-    "objectID": "04-working-with-ai-from-a-position.html#improving-a-weak-prompt",
-    "href": "04-working-with-ai-from-a-position.html#improving-a-weak-prompt",
-    "title": "Prompting from a Position",
+    "objectID": "04-working-with-ai.html#improving-a-weak-prompt",
+    "href": "04-working-with-ai.html#improving-a-weak-prompt",
+    "title": "Working with AI from a Position",
     "section": "Improving a Weak Prompt",
-    "text": "Improving a Weak Prompt\n\nWeak\n\n“Help me write about AI.”\n\n\n\nImproved\n\n“I am writing a guide on responsible AI use and want to explain how to start with a position. Help me structure this clearly.”\n\nThe improvement comes from:\n\nadding context\n\nstating intent\n\ndefining direction",
+    "text": "Improving a Weak Prompt\n\nWeak\n\n“Help me write about AI.”\n\n\n\nImproved\n\n“I am writing a guide on responsible AI use and want to explain how to start from a position. Help me structure this clearly.”\n\nThe difference is not wording.\nIt is clarity of thinking.",
     "crumbs": [
       "Working with AI",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Working with AI from a Position</span>"
     ]
   },
   {
-    "objectID": "04-working-with-ai-from-a-position.html#prompting-as-a-thinking-process",
-    "href": "04-working-with-ai-from-a-position.html#prompting-as-a-thinking-process",
-    "title": "Prompting from a Position",
-    "section": "Prompting as a Thinking Process",
-    "text": "Prompting as a Thinking Process\nPrompting should not be a one-step action.\nIt is part of the Human → AI → Human loop.\nYou may:\n\nWrite a prompt from your position\n\nReview the output\n\nRefine your prompt\n\nAsk a more focused question\n\nEach step improves clarity.",
+    "objectID": "04-working-with-ai.html#prompting-as-a-process",
+    "href": "04-working-with-ai.html#prompting-as-a-process",
+    "title": "Working with AI from a Position",
+    "section": "Prompting as a Process",
+    "text": "Prompting as a Process\nPrompting is not a one-step action.\nIt is part of the Human → AI → Human loop:\n\nStart with a position\n\nGenerate output\n\nEvaluate the output\n\nRefine your thinking\n\nAsk a better question\n\nEach cycle improves both the prompt and the reasoning.",
     "crumbs": [
       "Working with AI",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Working with AI from a Position</span>"
     ]
   },
   {
-    "objectID": "04-working-with-ai-from-a-position.html#common-mistake-over-engineering-prompts",
-    "href": "04-working-with-ai-from-a-position.html#common-mistake-over-engineering-prompts",
-    "title": "Prompting from a Position",
+    "objectID": "04-working-with-ai.html#common-mistake-over-engineering-prompts",
+    "href": "04-working-with-ai.html#common-mistake-over-engineering-prompts",
+    "title": "Working with AI from a Position",
     "section": "Common Mistake: Over-Engineering Prompts",
-    "text": "Common Mistake: Over-Engineering Prompts\nSome users focus too much on:\n\ncomplex instructions\n\nlong templates\n\nrigid formats\n\nThese can help in specific cases.\nBut without a clear position, they do not solve the core problem.\nA simple prompt with a strong position is often more effective than a complex prompt without one.",
+    "text": "Common Mistake: Over-Engineering Prompts\nSome users focus on:\n\ncomplex templates\n\nlong instructions\n\nrigid formats\n\nThese can help in specific cases.\nBut without a clear position, they do not solve the core problem.\n\nA simple prompt with a clear position is more effective than a complex prompt without one.",
     "crumbs": [
       "Working with AI",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Working with AI from a Position</span>"
     ]
   },
   {
-    "objectID": "04-working-with-ai-from-a-position.html#practical-pattern",
-    "href": "04-working-with-ai-from-a-position.html#practical-pattern",
-    "title": "Prompting from a Position",
-    "section": "Practical Pattern",
-    "text": "Practical Pattern\nYou can use this simple pattern:\n\n“I am working on [context].\nI think / I want [position].\nHelp me [task].”\n\nExample:\n\n“I am analyzing customer data.\nI think churn may be driven by usage patterns.\nHelp me identify how to test this.”",
+    "objectID": "04-working-with-ai.html#a-practical-pattern",
+    "href": "04-working-with-ai.html#a-practical-pattern",
+    "title": "Working with AI from a Position",
+    "section": "A Practical Pattern",
+    "text": "A Practical Pattern\nUse this structure:\n\n“I am working on [context].\nI think / I want [position].\nHelp me [task].”\n\nExample:\n\n“I am analyzing customer data.\nI think churn may be driven by usage patterns.\nHelp me identify how to test this.”",
     "crumbs": [
       "Working with AI",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Working with AI from a Position</span>"
     ]
   },
   {
-    "objectID": "04-working-with-ai-from-a-position.html#prompting-for-different-goals",
-    "href": "04-working-with-ai-from-a-position.html#prompting-for-different-goals",
-    "title": "Prompting from a Position",
+    "objectID": "04-working-with-ai.html#prompting-for-different-goals",
+    "href": "04-working-with-ai.html#prompting-for-different-goals",
+    "title": "Working with AI from a Position",
     "section": "Prompting for Different Goals",
     "text": "Prompting for Different Goals\n\nExploration\n\n“I am exploring possible causes of this pattern. What should I consider?”\n\n\n\nRefinement\n\n“Here is my current explanation. What is unclear or weak?”\n\n\n\nStructuring\n\n“Help me organize this into a clear workflow.”\n\n\n\nChallenge\n\n“Challenge this reasoning and identify gaps.”",
     "crumbs": [
       "Working with AI",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Working with AI from a Position</span>"
     ]
   },
   {
-    "objectID": "04-working-with-ai-from-a-position.html#ownership-still-applies",
-    "href": "04-working-with-ai-from-a-position.html#ownership-still-applies",
-    "title": "Prompting from a Position",
+    "objectID": "04-working-with-ai.html#ownership-still-applies",
+    "href": "04-working-with-ai.html#ownership-still-applies",
+    "title": "Working with AI from a Position",
     "section": "Ownership Still Applies",
-    "text": "Ownership Still Applies\nEven with strong prompts, the responsibility remains yours.\nAI can:\n\nsuggest\n\nstructure\n\nexpand\n\nBut it does not:\n\nverify reality\n\ntake responsibility\n\nmake final decisions\n\nThat is your role.",
+    "text": "Ownership Still Applies\nAI can:\n\nsuggest\n\nstructure\n\nexpand\n\nBut it does not:\n\nverify reality\n\ntake responsibility\n\nmake final decisions\n\nThat remains your role.",
     "crumbs": [
       "Working with AI",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Working with AI from a Position</span>"
     ]
   },
   {
-    "objectID": "04-working-with-ai-from-a-position.html#key-insight",
-    "href": "04-working-with-ai-from-a-position.html#key-insight",
-    "title": "Prompting from a Position",
+    "objectID": "04-working-with-ai.html#key-insight",
+    "href": "04-working-with-ai.html#key-insight",
+    "title": "Working with AI from a Position",
     "section": "Key Insight",
     "text": "Key Insight\nPrompting is not about asking better questions alone.\nIt is about starting from better thinking.\n\nBetter prompts begin with a position.",
     "crumbs": [
       "Working with AI",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Working with AI from a Position</span>"
     ]
   },
   {
-    "objectID": "04-working-with-ai-from-a-position.html#takeaway",
-    "href": "04-working-with-ai-from-a-position.html#takeaway",
-    "title": "Prompting from a Position",
+    "objectID": "04-working-with-ai.html#takeaway",
+    "href": "04-working-with-ai.html#takeaway",
+    "title": "Working with AI from a Position",
     "section": "Takeaway",
-    "text": "Takeaway\n\nDo not start with empty requests\n\nStart with a clear position\n\nUse prompts to extend your thinking\n\nThis leads to:\n\nmore relevant outputs\n\nclearer reasoning\n\nstronger decisions",
+    "text": "Takeaway\n\nDo not start with empty requests\n\nStart with a clear position\n\nUse AI to extend your thinking\n\nThis leads to:\n\nmore relevant outputs\n\nclearer reasoning\n\nstronger decisions",
     "crumbs": [
       "Working with AI",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Prompting from a Position</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Working with AI from a Position</span>"
     ]
   },
   {
@@ -857,8 +857,8 @@
     ]
   },
   {
-    "objectID": "06-from-outputs-to-defensible-reasoning.html",
-    "href": "06-from-outputs-to-defensible-reasoning.html",
+    "objectID": "06-defensible-reasoning.html",
+    "href": "06-defensible-reasoning.html",
     "title": "Making Outputs Defensible",
     "section": "",
     "text": "The Core Principle\nAI can generate useful outputs.\nBut usefulness is not enough.\nIn real work, outputs must be defensible.\nDefensibility means:",
@@ -868,8 +868,8 @@
     ]
   },
   {
-    "objectID": "06-from-outputs-to-defensible-reasoning.html#the-core-principle",
-    "href": "06-from-outputs-to-defensible-reasoning.html#the-core-principle",
+    "objectID": "06-defensible-reasoning.html#the-core-principle",
+    "href": "06-defensible-reasoning.html#the-core-principle",
     "title": "Making Outputs Defensible",
     "section": "",
     "text": "An output is only valuable if you can explain and justify it.\n\n\n\nyou understand the reasoning\n\nyou can explain it clearly\n\nyou can justify it under questioning",
@@ -879,8 +879,8 @@
     ]
   },
   {
-    "objectID": "06-from-outputs-to-defensible-reasoning.html#from-output-to-defensible-work",
-    "href": "06-from-outputs-to-defensible-reasoning.html#from-output-to-defensible-work",
+    "objectID": "06-defensible-reasoning.html#from-output-to-defensible-work",
+    "href": "06-defensible-reasoning.html#from-output-to-defensible-work",
     "title": "Making Outputs Defensible",
     "section": "From Output to Defensible Work",
     "text": "From Output to Defensible Work\nAI gives you:\nOutput\nYou must transform it into:\nUnderstanding → Justification → Decision",
@@ -890,8 +890,8 @@
     ]
   },
   {
-    "objectID": "06-from-outputs-to-defensible-reasoning.html#what-makes-an-output-defensible",
-    "href": "06-from-outputs-to-defensible-reasoning.html#what-makes-an-output-defensible",
+    "objectID": "06-defensible-reasoning.html#what-makes-an-output-defensible",
+    "href": "06-defensible-reasoning.html#what-makes-an-output-defensible",
     "title": "Making Outputs Defensible",
     "section": "What Makes an Output Defensible?",
     "text": "What Makes an Output Defensible?\nAn output becomes defensible when you can:\n\nExplain It\n\nWhat does it mean?\nHow does it work?\n\n\n\n\nJustify It\n\nWhy is it valid?\nWhat supports it?\n\n\n\n\nBound It\n\nWhen does it apply?\nWhen might it fail?\n\n\n\n\nOwn It\n\nWould you stand by it in a discussion?\nCan you defend it without AI?",
@@ -901,8 +901,8 @@
     ]
   },
   {
-    "objectID": "06-from-outputs-to-defensible-reasoning.html#the-risk-of-non-defensible-outputs",
-    "href": "06-from-outputs-to-defensible-reasoning.html#the-risk-of-non-defensible-outputs",
+    "objectID": "06-defensible-reasoning.html#the-risk-of-non-defensible-outputs",
+    "href": "06-defensible-reasoning.html#the-risk-of-non-defensible-outputs",
     "title": "Making Outputs Defensible",
     "section": "The Risk of Non-Defensible Outputs",
     "text": "The Risk of Non-Defensible Outputs\nUsing outputs you cannot defend leads to:\n\nweak reports\n\nincorrect conclusions\n\nloss of credibility\n\nThis is especially critical in:\n\nanalysis\n\nresearch\n\nbusiness decisions\n\nsystem design",
@@ -912,8 +912,8 @@
     ]
   },
   {
-    "objectID": "06-from-outputs-to-defensible-reasoning.html#the-cdi-approach",
-    "href": "06-from-outputs-to-defensible-reasoning.html#the-cdi-approach",
+    "objectID": "06-defensible-reasoning.html#the-cdi-approach",
+    "href": "06-defensible-reasoning.html#the-cdi-approach",
     "title": "Making Outputs Defensible",
     "section": "The CDI Approach",
     "text": "The CDI Approach\nCDI emphasizes:\n\nFrom outputs to defensible decisions\n\nThis requires moving beyond:\n\ncopying results\n\nrepeating explanations\n\nInto:\n\nunderstanding\n\nevaluation\n\njustification",
@@ -923,8 +923,8 @@
     ]
   },
   {
-    "objectID": "06-from-outputs-to-defensible-reasoning.html#turning-output-into-understanding",
-    "href": "06-from-outputs-to-defensible-reasoning.html#turning-output-into-understanding",
+    "objectID": "06-defensible-reasoning.html#turning-output-into-understanding",
+    "href": "06-defensible-reasoning.html#turning-output-into-understanding",
     "title": "Making Outputs Defensible",
     "section": "Turning Output into Understanding",
     "text": "Turning Output into Understanding\nStart by rewriting the output:\n\nin your own words\n\nin simpler terms\n\nin a way you can explain to someone else\n\nIf you cannot do this, you do not yet understand it.",
@@ -934,8 +934,8 @@
     ]
   },
   {
-    "objectID": "06-from-outputs-to-defensible-reasoning.html#testing-defensibility",
-    "href": "06-from-outputs-to-defensible-reasoning.html#testing-defensibility",
+    "objectID": "06-defensible-reasoning.html#testing-defensibility",
+    "href": "06-defensible-reasoning.html#testing-defensibility",
     "title": "Making Outputs Defensible",
     "section": "Testing Defensibility",
     "text": "Testing Defensibility\nAsk yourself:\n\nCan I explain this without reading from the output?\nWhat evidence supports this?\nWhat assumptions are involved?\nWhat would challenge this conclusion?",
@@ -945,8 +945,8 @@
     ]
   },
   {
-    "objectID": "06-from-outputs-to-defensible-reasoning.html#example",
-    "href": "06-from-outputs-to-defensible-reasoning.html#example",
+    "objectID": "06-defensible-reasoning.html#example",
+    "href": "06-defensible-reasoning.html#example",
     "title": "Making Outputs Defensible",
     "section": "Example",
     "text": "Example\n\nAI Output\n“This model performs well based on accuracy.”\n\n\nMake It Defensible\n\nWhat is “accuracy” measuring?\nIs the dataset balanced?\nAre there better metrics?\nWhat are the limitations?\n\nNow you move from:\nStatement → Reasoned evaluation",
@@ -956,8 +956,8 @@
     ]
   },
   {
-    "objectID": "06-from-outputs-to-defensible-reasoning.html#strengthening-with-ai",
-    "href": "06-from-outputs-to-defensible-reasoning.html#strengthening-with-ai",
+    "objectID": "06-defensible-reasoning.html#strengthening-with-ai",
+    "href": "06-defensible-reasoning.html#strengthening-with-ai",
     "title": "Making Outputs Defensible",
     "section": "Strengthening with AI",
     "text": "Strengthening with AI\nAI can help you improve defensibility if used correctly:\n\n“What are the limitations of this conclusion?”\n“Under what conditions would this fail?”\n“What assumptions does this rely on?”\n“How can this be justified more clearly?”\n\nThis keeps AI in a supporting role.",
@@ -967,8 +967,8 @@
     ]
   },
   {
-    "objectID": "06-from-outputs-to-defensible-reasoning.html#common-mistake-copying-without-ownership",
-    "href": "06-from-outputs-to-defensible-reasoning.html#common-mistake-copying-without-ownership",
+    "objectID": "06-defensible-reasoning.html#common-mistake-copying-without-ownership",
+    "href": "06-defensible-reasoning.html#common-mistake-copying-without-ownership",
     "title": "Making Outputs Defensible",
     "section": "Common Mistake: Copying Without Ownership",
     "text": "Common Mistake: Copying Without Ownership\nSome users:\n\ncopy AI outputs directly\n\npresent them as final results\n\nThis creates:\n\nfragile understanding\n\ninability to answer questions\n\ndependence on the tool",
@@ -978,8 +978,8 @@
     ]
   },
   {
-    "objectID": "06-from-outputs-to-defensible-reasoning.html#defensibility-and-responsibility",
-    "href": "06-from-outputs-to-defensible-reasoning.html#defensibility-and-responsibility",
+    "objectID": "06-defensible-reasoning.html#defensibility-and-responsibility",
+    "href": "06-defensible-reasoning.html#defensibility-and-responsibility",
     "title": "Making Outputs Defensible",
     "section": "Defensibility and Responsibility",
     "text": "Defensibility and Responsibility\nAI does not take responsibility.\nYou do.\nThat means:\n\nyou must validate\n\nyou must interpret\n\nyou must decide",
@@ -989,8 +989,8 @@
     ]
   },
   {
-    "objectID": "06-from-outputs-to-defensible-reasoning.html#from-defensible-output-to-decision",
-    "href": "06-from-outputs-to-defensible-reasoning.html#from-defensible-output-to-decision",
+    "objectID": "06-defensible-reasoning.html#from-defensible-output-to-decision",
+    "href": "06-defensible-reasoning.html#from-defensible-output-to-decision",
     "title": "Making Outputs Defensible",
     "section": "From Defensible Output to Decision",
     "text": "From Defensible Output to Decision\nOnce an output is defensible:\n\nyou can act on it\n\nyou can communicate it\n\nyou can build on it\n\nWithout defensibility:\n\ndecisions are unstable\n\ncommunication is weak",
@@ -1000,8 +1000,8 @@
     ]
   },
   {
-    "objectID": "06-from-outputs-to-defensible-reasoning.html#key-insight",
-    "href": "06-from-outputs-to-defensible-reasoning.html#key-insight",
+    "objectID": "06-defensible-reasoning.html#key-insight",
+    "href": "06-defensible-reasoning.html#key-insight",
     "title": "Making Outputs Defensible",
     "section": "Key Insight",
     "text": "Key Insight\nAI can generate answers.\nOnly you can make them defensible.\n\nDefensibility transforms output into decision-ready work.",
@@ -1011,8 +1011,8 @@
     ]
   },
   {
-    "objectID": "06-from-outputs-to-defensible-reasoning.html#takeaway",
-    "href": "06-from-outputs-to-defensible-reasoning.html#takeaway",
+    "objectID": "06-defensible-reasoning.html#takeaway",
+    "href": "06-defensible-reasoning.html#takeaway",
     "title": "Making Outputs Defensible",
     "section": "Takeaway",
     "text": "Takeaway\n\nDo not stop at output\n\nConvert output into understanding\n\nTest and justify your reasoning\n\nTake ownership of decisions\n\nThis is how AI use becomes:\n\nresponsible\n\nreliable\n\nprofessional",
@@ -1022,8 +1022,8 @@
     ]
   },
   {
-    "objectID": "07-from-reasoning-to-defensible-claims.html",
-    "href": "07-from-reasoning-to-defensible-claims.html",
+    "objectID": "07-defensible-claims.html",
+    "href": "07-defensible-claims.html",
     "title": "From Output to Claims",
     "section": "",
     "text": "The Core Principle\nAI can generate outputs.\nBut real work requires more than outputs.\nIt requires claims.\nThis distinction is critical.",
@@ -1033,8 +1033,8 @@
     ]
   },
   {
-    "objectID": "07-from-reasoning-to-defensible-claims.html#the-core-principle",
-    "href": "07-from-reasoning-to-defensible-claims.html#the-core-principle",
+    "objectID": "07-defensible-claims.html#the-core-principle",
+    "href": "07-defensible-claims.html#the-core-principle",
     "title": "From Output to Claims",
     "section": "",
     "text": "An output is not a claim. A claim is an interpreted and justified statement.",
@@ -1044,8 +1044,8 @@
     ]
   },
   {
-    "objectID": "07-from-reasoning-to-defensible-claims.html#what-is-a-claim",
-    "href": "07-from-reasoning-to-defensible-claims.html#what-is-a-claim",
+    "objectID": "07-defensible-claims.html#what-is-a-claim",
+    "href": "07-defensible-claims.html#what-is-a-claim",
     "title": "From Output to Claims",
     "section": "What Is a Claim?",
     "text": "What Is a Claim?\nA claim is a statement you are willing to stand behind.\nIt is:\n\ninterpreted\n\ncontextualized\n\njustified\n\nExample:\n\nOutput\n“Variable X is associated with outcome Y.”\n\n\nClaim\n“Variable X appears to be associated with outcome Y in this dataset, but this does not imply causation and may be influenced by confounding factors.”",
@@ -1055,8 +1055,8 @@
     ]
   },
   {
-    "objectID": "07-from-reasoning-to-defensible-claims.html#why-this-matters",
-    "href": "07-from-reasoning-to-defensible-claims.html#why-this-matters",
+    "objectID": "07-defensible-claims.html#why-this-matters",
+    "href": "07-defensible-claims.html#why-this-matters",
     "title": "From Output to Claims",
     "section": "Why This Matters",
     "text": "Why This Matters\nOutputs are:\n\nraw\n\nunexamined\n\nincomplete\n\nClaims are:\n\nrefined\n\nbounded\n\ndefensible\n\nWithout this transformation:\n\nconclusions become overstated\n\ndecisions become risky\n\ncommunication becomes misleading",
@@ -1066,8 +1066,8 @@
     ]
   },
   {
-    "objectID": "07-from-reasoning-to-defensible-claims.html#the-transformation-process",
-    "href": "07-from-reasoning-to-defensible-claims.html#the-transformation-process",
+    "objectID": "07-defensible-claims.html#the-transformation-process",
+    "href": "07-defensible-claims.html#the-transformation-process",
     "title": "From Output to Claims",
     "section": "The Transformation Process",
     "text": "The Transformation Process\nTo move from output to claim:\n\nInterpret\n\nWhat does this actually mean?\n\n\n\nContextualize\n\nUnder what conditions does this apply?\n\n\n\nQualify\n\nWhat are the limitations?\n\n\n\nJustify\n\nWhat supports this statement?",
@@ -1077,8 +1077,8 @@
     ]
   },
   {
-    "objectID": "07-from-reasoning-to-defensible-claims.html#common-mistake-treating-output-as-truth",
-    "href": "07-from-reasoning-to-defensible-claims.html#common-mistake-treating-output-as-truth",
+    "objectID": "07-defensible-claims.html#common-mistake-treating-output-as-truth",
+    "href": "07-defensible-claims.html#common-mistake-treating-output-as-truth",
     "title": "From Output to Claims",
     "section": "Common Mistake: Treating Output as Truth",
     "text": "Common Mistake: Treating Output as Truth\nAI outputs often sound complete.\nBut they are not final conclusions.\nMistakes include:\n\ncopying statements directly\n\nignoring assumptions\n\noverstating certainty",
@@ -1088,8 +1088,8 @@
     ]
   },
   {
-    "objectID": "07-from-reasoning-to-defensible-claims.html#adding-qualification",
-    "href": "07-from-reasoning-to-defensible-claims.html#adding-qualification",
+    "objectID": "07-defensible-claims.html#adding-qualification",
+    "href": "07-defensible-claims.html#adding-qualification",
     "title": "From Output to Claims",
     "section": "Adding Qualification",
     "text": "Adding Qualification\nStrong claims include boundaries.\nInstead of: “This model is accurate.”\nSay: “This model shows high accuracy on this dataset, but performance may vary depending on data distribution.”",
@@ -1099,8 +1099,8 @@
     ]
   },
   {
-    "objectID": "07-from-reasoning-to-defensible-claims.html#claim-calibration",
-    "href": "07-from-reasoning-to-defensible-claims.html#claim-calibration",
+    "objectID": "07-defensible-claims.html#claim-calibration",
+    "href": "07-defensible-claims.html#claim-calibration",
     "title": "From Output to Claims",
     "section": "Claim Calibration",
     "text": "Claim Calibration\nNot all claims carry the same strength.\nYou should adjust:\n\nconfidence level\n\nlanguage precision\n\nscope\n\nExamples:\n\n“suggests” instead of “proves”\n\n“may indicate” instead of “demonstrates”",
@@ -1110,8 +1110,8 @@
     ]
   },
   {
-    "objectID": "07-from-reasoning-to-defensible-claims.html#role-of-ai-in-claim-formation",
-    "href": "07-from-reasoning-to-defensible-claims.html#role-of-ai-in-claim-formation",
+    "objectID": "07-defensible-claims.html#role-of-ai-in-claim-formation",
+    "href": "07-defensible-claims.html#role-of-ai-in-claim-formation",
     "title": "From Output to Claims",
     "section": "Role of AI in Claim Formation",
     "text": "Role of AI in Claim Formation\nAI can help you:\n\ndraft explanations\n\nsuggest interpretations\n\nidentify limitations\n\nBut it does not:\n\nvalidate evidence\n\ntake responsibility\n\ndetermine final claims",
@@ -1121,8 +1121,8 @@
     ]
   },
   {
-    "objectID": "07-from-reasoning-to-defensible-claims.html#testing-your-claim",
-    "href": "07-from-reasoning-to-defensible-claims.html#testing-your-claim",
+    "objectID": "07-defensible-claims.html#testing-your-claim",
+    "href": "07-defensible-claims.html#testing-your-claim",
     "title": "From Output to Claims",
     "section": "Testing Your Claim",
     "text": "Testing Your Claim\nBefore finalizing, ask:\n\nCan I explain this clearly?\nWhat evidence supports it?\nWhat would weaken it?\nAm I overstating certainty?",
@@ -1132,8 +1132,8 @@
     ]
   },
   {
-    "objectID": "07-from-reasoning-to-defensible-claims.html#example",
-    "href": "07-from-reasoning-to-defensible-claims.html#example",
+    "objectID": "07-defensible-claims.html#example",
+    "href": "07-defensible-claims.html#example",
     "title": "From Output to Claims",
     "section": "Example",
     "text": "Example\n\nAI Output\n“This feature improves performance.”\n\n\nDefensible Claim\n“This feature appears to improve performance in this dataset, but further validation is needed to confirm its effect across different conditions.”",
@@ -1143,8 +1143,8 @@
     ]
   },
   {
-    "objectID": "07-from-reasoning-to-defensible-claims.html#key-insight",
-    "href": "07-from-reasoning-to-defensible-claims.html#key-insight",
+    "objectID": "07-defensible-claims.html#key-insight",
+    "href": "07-defensible-claims.html#key-insight",
     "title": "From Output to Claims",
     "section": "Key Insight",
     "text": "Key Insight\nOutputs inform.\nClaims commit.\n\nA claim is where responsibility begins.",
@@ -1154,8 +1154,8 @@
     ]
   },
   {
-    "objectID": "07-from-reasoning-to-defensible-claims.html#takeaway",
-    "href": "07-from-reasoning-to-defensible-claims.html#takeaway",
+    "objectID": "07-defensible-claims.html#takeaway",
+    "href": "07-defensible-claims.html#takeaway",
     "title": "From Output to Claims",
     "section": "Takeaway",
     "text": "Takeaway\n\nDo not present outputs as conclusions\n\nInterpret and qualify before stating claims\n\nAdjust language to reflect evidence\n\nTake responsibility for what you state\n\nThis is how work becomes:\n\ncredible\n\ncareful\n\ndefensible",
@@ -1708,7 +1708,7 @@
     "href": "11-summary-and-next-steps.html#final-insight",
     "title": "Summary and Next Steps",
     "section": "Final Insight",
-    "text": "Final Insight\nAI is powerful.\nBut its value depends on how it is used.\n\nClear thinking leads to better AI use.\nBetter AI use leads to better decisions.",
+    "text": "Final Insight\nAI is powerful.\nBut its value depends on how it is used.\n\n**Clear thinking leads to better AI use.\nBetter AI use leads to better decisions.**",
     "crumbs": [
       "Application & Practice",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary and Next Steps</span>"

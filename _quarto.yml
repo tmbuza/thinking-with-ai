@@ -17,10 +17,10 @@ book:
 
     - part: "Working with AI"
       chapters:
-        - 04-working-with-ai-from-a-position.qmd
+        - 04-working-with-ai.qmd
         - 05-interrogating-ai-outputs.qmd
-        - 06-from-outputs-to-defensible-reasoning.qmd
-        - 07-from-reasoning-to-defensible-claims.qmd
+        - 06-defensible-reasoning.qmd
+        - 07-defensible-claims.qmd
 
     - part: "Application & Practice"
       chapters:
