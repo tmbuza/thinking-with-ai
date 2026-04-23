@@ -160,7 +160,8 @@ AI is powerful.
 
 But its value depends on how it is used.
 
-> **Clear thinking leads to better AI use.  
+> **Clear thinking leads to better AI use. 
+>  
 Better AI use leads to better decisions.**
 
 ---
